@@ -1,0 +1,26 @@
+[24-Apr-2019 06:33:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:33:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:33:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:33:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-May-2019 19:33:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-May-2019 19:33:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-Jun-2019 01:46:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Jun-2019 01:46:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2021 16:54:39 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 28
+[05-Apr-2021 16:54:39 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 28
+[05-Apr-2021 16:54:39 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 28
+[05-Apr-2021 16:54:39 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 256
+[05-Apr-2021 16:54:39 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 256
+[05-Apr-2021 16:54:39 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 256
+[05-Apr-2021 16:54:40 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 259
+[05-Apr-2021 16:54:40 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 259
+[05-Apr-2021 16:54:40 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 259
+[11-Apr-2021 06:00:29 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 28
+[11-Apr-2021 06:00:29 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 28
+[11-Apr-2021 06:00:29 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 28
+[11-Apr-2021 06:00:29 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 256
+[11-Apr-2021 06:00:29 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 256
+[11-Apr-2021 06:00:29 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 256
+[11-Apr-2021 06:00:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 259
+[11-Apr-2021 06:00:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 259
+[11-Apr-2021 06:00:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/index.php on line 259

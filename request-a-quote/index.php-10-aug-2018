@@ -1,0 +1,200 @@
+<?php include('../config.php'); ?>
+<?php include('../header.php'); ?>
+<div id="home">
+  <section class="app_dev_con">
+  	<div class="inerwraper">
+    	<h1 class="font-size-45"><span class="light-raleway">Wanna Break The Ice? </span><span class="under-line-heading">Let's Get In Touch</span></h1>
+<p class="max-width-900 align-center medium-raleway-22">Have a little something, something you Want to discuss your project with us? Well, give us a ring, send us an email, or <span class="raleway-bold">fill out that nifty form below.</span></p>
+        
+        
+        <div class="contact-container">
+			<div class="contact-left">
+			<div class="left-block-top">
+				<div class="call-block">
+					<h3>Call Us:</h3>
+					<p>US Phone: (770) 274-4482 | UK Phone: +44-20-3286-2720</p>
+					<p>Australia Phone: +61-28-091-7720</p>
+				</div>
+				<div class="skype-email-block">
+					<div class="skype-block">
+						<h3>Skype:</h3>
+						<p>DedicatedDevelopers</p>
+					</div>
+					<div class="email-block">
+						<h3>Email:</h3>
+						<p>inquiry@DedicatedDevelopers.com</p>
+					</div>
+				</div>
+				<div class="address-block">
+					<h3>Address:</h3>
+					
+					<div class="address-col">
+						<p><strong>Atlanta Office:</strong></p>
+						<p>Dedicated Developers</p>
+						<p>2300 Lakeview Parkway<span style="font-family:arial;">,</span> Suite 700<span style="font-family:arial;">,</span></p>
+						<p>Alpharetta GA 30009</p>
+						<p>&nbsp;</p>
+					</div>
+					
+					<div class="address-col">
+						<p><strong>New York Office:</strong></p>
+						<p>Dedicated Developers</p>
+						<p>275 Seventh Ave<span style="font-family:arial;">,</span> 7th Floor<span style="font-family:arial;">,</span></p>
+						<p>New York<span style="font-family:arial;">,</span> NY 10001</p>
+						<p>&nbsp;</p>
+					</div>
+					
+					<div class="address-col">
+						<p><strong>San Francisco Office:</strong></p>
+						<p>Dedicated Developers</p>
+						<p>1390 Market Street<span style="font-family:arial;">,</span> Suite 200<span style="font-family:arial;">,</span></p>
+						<p>San Francisco<span style="font-family:arial;">,</span> CA 94102</p>
+						<p>&nbsp;</p>
+					</div>
+					
+					<div class="address-col">
+						<p><strong>Silicon Valley Bay Area Office:</strong></p>
+						<p>Dedicated Developers</p>
+						<p>22602 Princeton Place<span style="font-family:arial;">,</span></p>
+						<p>Castro Valley<span style="font-family:arial;">,</span> CA 94552</p>
+						<p>&nbsp;</p>
+					</div>
+					
+				</div>
+			</div>
+			<div class="left-block-bottom">
+				<img src="images/contact-logo-1.jpg" /><img src="images/contact-logo-2.jpg" /><img src="images/contact-logo-3.jpg" /><img src="images/contact-logo-4.jpg" />
+			</div>
+			
+			</div>
+			<div class="contact-right">
+			
+			<div class="moonray-form-p2c21081f79 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
+				<div class="two-column">
+					<div class="two-column-left">
+						<div class="icon-set"><img src="images/contact-icon-1.png" alt="first Name Icon" /></div>
+						<input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-954250408779" required value="" placeholder="Your First Name*"/>
+					</div>
+					<div class="two-column-right">
+						<div class="icon-set"><img src="images/contact-icon-1.png" alt="first Name Icon" /></div>
+						<input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-232385026284" required value="" placeholder="Your Last Name*"/>
+					</div>
+				</div>
+				<div class="one-column">
+					<div class="email">
+						<div class="icon-set"><img src="images/contact-icon-2.png" alt="first Name Icon" /></div>
+						<input name="email" type="email" class="moonray-form-input" id="mr-field-element-900895699369" required value="" placeholder="Your Email*"/>
+					</div>
+				</div>
+				<div class="two-column">
+					<div class="two-column-left">
+						<div class="icon-set"><img src="images/contact-icon-3.png" alt="first Name Icon" /></div>
+						<input name="office_phone" required type="tel" class="moonray-form-input" id="mr-field-element-3921047267" value="" placeholder="Phone Number*"/>
+					</div>
+					<div class="two-column-right">
+						<div class="icon-set"><img src="images/contact-icon-4.png" alt="first Name Icon" /></div>
+						<input name="f1532" type="text" class="moonray-form-input" id="mr-field-element-879599414402" value="" placeholder="Skype ID / Whatsapp No."/>
+					</div>
+				</div>
+				<div class="one-column">
+					<div class="email">
+						<div class="icon-set"><img src="images/contact-icon-5.png" alt="first Name Icon" /></div>
+						<select name="f1723" required class="moonray-form-input" id="mr-field-element-145819725839"><option value="">Select...</option><option value="244">Immediately</option><option value="243">With-in next 1 month</option><option value="242">With-in next 1 month</option><option value="241">In next 1 year</option><option value="240">Not sure - still researching</option></select>
+					</div>
+				</div>
+				<div class="one-column">
+					<div class="email">
+						<div class="icon-set"><img src="images/contact-icon-6.png" alt="first Name Icon" /></div>
+						<textarea name="notes" required class="moonray-form-input" id="mr-field-element-43293272010" placeholder="Project Description"></textarea>
+					</div>
+				</div>
+				
+				<div class="one-column  no-border">
+					<div class="email"><input name="f1722" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-290574417063"/>Send me a copy of NDA (Non Disclosure Agreement)</div></div>
+					
+					<?php
+								if($country=='Austria' || $country=='Belgium' || $country=='Bulgaria' || $country=='Cyprus' || $country=='Czech Republic' || $country=='Denmark' || $country=='Estonia' || $country=='Finland' || $country=='France' || $country=='Germany' || $country=='Greece' || $country=='Hungary' || $country=='Ireland' || $country=='Italy' || $country=='Latvia' || $country=='Luxembourg' || $country=='Malta' || $country=='Netherlands' || $country=='Poland' || $country=='Portugal' || $country=='Romania' || $country=='Slovakia' || $country=='Spain' || $country=='Sweden' || $country=='United Kingdom' || $country=='Slovenia'){?>
+								  
+								  <div class="one-column no-border"><div class="email"><input name="f1733" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-301236870097"/>I agree with Dedicated Developers <a href="https://dedicateddevelopers.com/terms-conditions/" target="_blank">Terms of Service</a> and <a href="https://dedicateddevelopers.com/privacy-policy/" target="_blank">Privacy Policy</div> </div>
+				            <?php 
+								
+								}
+								else{}
+							?>
+					
+					
+					
+				</div>
+								
+				<div class="one-column no-border">
+					<div class="submit">
+						<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" />
+					</div>
+				</div>
+				
+				
+				
+				
+				
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c21081f79"/></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="AAC3A59BAEE10927009E4B8C:1F3F983D19DEC2F6BE5CB37F"/></div>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</form>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+        
+        
+    </div>
+    
+	
+	
+	
+	
+	
+  </section>
+  <section class="app_dev_con white-bg-contact">
+	<div class="brands-section">
+	
+	<div class="inerwraper">
+		<h1 class="font-size-45"><!--<span class="light-raleway">Have A Look On The </span>--><span class="under-line-heading">Brands That We Partner With</span></h1>
+		
+		<img src="images/brand-logos.jpg" class="responsive-img show-on-desktop" alt="brand-logos"  />
+		<img src="images/brand-logos-mob.jpg" class="responsive-img show-on-mobile" alt="brand-logos" />
+		
+	</div>
+	
+	</div>
+  </section>
+  
+  <!-- Testimonials Section -->
+  <?php include(BASE_URL . '/testimonials.php'); ?>
+  <?php include(BASE_URL . '/blog-section.php'); ?>
+
+</div>
+<?php include(BASE_URL . '/footer.php'); ?>

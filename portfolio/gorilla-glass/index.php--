@@ -1,0 +1,153 @@
+<?php require_once('../../config.php'); ?>
+<?php include('../../portfolio-header.php'); ?>
+
+    <!-- Home -->
+	    <div id="portfolio" class="portfolio-inner-img gorilla-glass-demo">
+        <section class="banner">
+			<img class="responsive-img" src="images/gorilla-glass.jpg" alt="gorilla-glass">
+		</section>
+        <!-- The Story -->
+		<section class="theStory">
+			<div class="container-block">
+				<h2>The Story</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><p>Pellentesque vel enim non elit lacinia ultrices. Cras erat erat, dictum quis est at, ultrices placerat lorem. Cras at posuere erat. Nunc quis ex nisi. Quisque varius varius dui ac consectetur. Morbi tempus consequat viverra. Etiam leo dui, pharetra rutrum placerat vel, condimentum vel urna. Integer ultrices magna sapien, vitae rhoncus lectus varius et. Vestibulum mauris velit, consectetur nec mauris vitae, elementum accumsan quam. Proin iaculis enim et ante aliquam interdum. Duis venenatis massa quis condimentum cursus. Suspendisse placerat dolor at tempor dignissim. Nam condimentum felis ac porta interdum.</p><p>Etiam pretium blandit tortor in gravida. Nulla laoreet eget mi in fermentum. Proin ultricies euismod ornare. Quisque fermentum malesuada orci, ac placerat risus mollis vitae. Pellentesque libero felis, porta dapibus tempor facilisis, scelerisque et eros. Quisque consequat lacus ac tortor mollis, nec auctor felis auctor. Quisque et hendrerit erat, ut consectetur est. Nam consequat eros ac sapien tincidunt faucibus. Suspendisse in auctor lorem. Pellentesque at convallis purus.</p>
+			</div>
+		</section>
+		
+		<!-- The Client Info -->
+		<section class="clientInfo">
+			<div class="container-block">
+				<div class="col-md-4">
+					<img class="default" src="images/location.png" alt="location icon">
+					<img class="hover" src="images/location-hover.png" alt="location icon">
+					<h4>Client Location</h4>
+					<p>Scottsdale, AZ</p>
+				</div>
+				<div class="col-md-4 margin-left-right-30">
+					<img class="default" src="images/dedicated-team.png" alt="deicated team">
+					<img class="hover" src="images/dedicated-team-hover.png" alt="deicated team">
+					<h4>Dedicated Team</h4>
+					<div class="smallbox">
+						<p>1 Designer</p>
+						<p>1 Programmer</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<img class="default" src="images/timeline.png" alt="timeline">
+					<img class="hover" src="images/timeline-hover.png" alt="timeline">
+					<h4>Timeline</h4>
+					<div class="smallbox1">
+						<img class="default" src="images/down-arw.png" alt="down-arrow">
+						<img class="hover" src="images/down-arw-hover.png" alt="down-arrow">
+						<p>March 23</p>
+						<p>May 23</p>
+					</div>
+				</div>
+			</div>
+        </section>
+		<!-- Client Speak -->
+		<section class="clientSpeak">
+			<div class="max-container">
+				<div class="left">
+					<img src="images/christel-hughes.png" alt="Christel Hughes">
+					<h5>Lorem ipsum<span>Lorem ipsum dolor sit amet, consectetur adipiscing </span></h5>
+				</div>
+				<div class="right">
+					<p><img class="quote-position" src="images/top-quote.png" alt="quote mark" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar lacinia ullamcorper. Aliquam erat volutpat. In hac habitasse platea.<img src="images/btm-quote.png" alt="quote mark" /></p>
+				</div>
+			</div>
+		</section>
+		
+		<!-- Involvement -->
+		<section class="involvement">
+			<div class="container-block">
+				<h2>Involvement</h2>
+				<p>Our goal is to create an army of mindful men who stand for Truth, and do not waver from being Strong, Powerful, Righteous, and filled with Integrity. One fewer arm raised in anger, one fewer hurtful word, one fewer derogatory thought. My friends, believe that we can make a difference</p>
+				
+
+			</div>
+			<div class="max-container">
+				<div class="row">
+					<div class="threecolumn">
+						<img src="images/front-end.png" alt="Front End" />
+						<h4>Front End</h4>
+					</div>
+					<div class="threecolumn">
+						<img src="images/back-end.png" alt="Back End" />
+						<h4>Back End</h4>
+					</div>
+					<div class="threecolumn">
+						<img src="images/graphic-design.png" alt="Graphic Design" />
+						<h4>Graphic Design</h4>
+					</div>
+				</div>
+				<div class="row">
+					<div class="threecolumn1">
+						<img src="images/support.png" alt="Support" />
+						<h4>Support</h4>
+					</div>
+					<div class="threecolumn1">
+						<img src="images/interaction-design.png" alt="Interaction Design" />
+						<h4>Interaction Design</h4>
+					</div>
+					<div class="threecolumn1">
+						<img src="images/system-integration.png" alt="System Integration" />
+						<h4>System Integration</h4>
+					</div>
+				</div>
+				<div class="align-center">
+					<h3>Ready To Make Your Vision A Reality?</h3>
+					<a href="#" class="btn-orange request-quote">Lets' Talk About Your Project</a>
+				</div>
+			</div>			
+		</section>
+		
+		<section class="technology">
+			<div class="container-block">
+				<div class="left">					
+					<ul>
+						<h3>Technologies</h3>
+						<li><img src="images/php7-ico.png" alt="PHP7" /><p>PHP7</p></li>
+						<li><img src="images/codeigniter-ico.png" alt="CodeIgniter" /><p>CodeIgniter</p></li>
+						<li><img src="images/firebase-ico.png" alt="Firebase" /><p>Firebase</p></li>
+						<li><img src="images/jquery.png" alt="jQuery" /><p>jQuery</p></li>
+						<li><img src="images/html5.png" alt="HTML5" /><p>HTML5</p></li>
+						<li><img src="images/css3.png" alt="CSS3" /><p>CSS3</p></li>
+					</ul>
+				</div>
+				<div class="right">					
+					<ul>
+						<h3>Integrations</h3>
+						<li><img src="images/google-analytics-ico.png" alt="Google Analytics" /><p>Google Analytics</p></li>
+						<li><img src="images/hotjar-ico.png" alt="Hotjar" /><p>Hotjar</p></li>
+						<li><img src="images/trustpilot-ico.png" alt="Trustpilot" /><p>Trustpilot</p></li>
+						<li><img src="images/stripe.png" alt="Stripe" /><p>Stripe</p></li>
+						<li><img src="images/amazon-aws-ico.png" alt="Amazon AWS" /><p>Amazon AWS</p></li>
+ 					</ul>
+				</div>
+			<div>
+		</section>
+<?php include(BASE_URL . '/testimonials.php'); ?>
+<?php //include(BASE_URL . '/blog-section.php'); ?>
+		<section class="pagination">
+			<div class="container-block">
+				<div class="threecolumn">
+					<a href="<?php echo PORTFOLIO_URL ?>/<?php echo $previous_portfolio; ?>"><img src="images/left-arw.png" alt="next"/><h4>Wild Kitchen</h4></a>
+				</div>
+				<div class="threecolumn border-lr">
+					<a href="<?php echo PORTFOLIO_URL ?>/"><img src="images/grid-icon.png" alt="All Works"/>
+					<h4>All Works</h4></a>
+				</div>
+				<div class="threecolumn">
+					<a href="<?php echo PORTFOLIO_URL ?>/<?php echo $next_portfolio; ?>"><img src="images/right-arw.png" alt="Previous"/><h4>Gym Source</h4></a></div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<script>
+		$(window).load(function() {
+			$('.top-bar-wrap .top-bar').addClass('expand');
+		});
+	</script>
+<?php include(BASE_URL . '/footer.php');?>
+ 

@@ -1,0 +1,9 @@
+<?php
+//error_reporting();
+define("BASE_URL","https://dedicateddevelopers.com");
+define("BASE_URLS",dirname(__FILE__));
+define("PORTFOLIO_URL","https://dedicateddevelopers.com/portfolio");
+define("solutions","https://dedicateddevelopers.com/solutions");
+define("developers","https://dedicateddevelopers.com/developers");
+define("industries","https://dedicateddevelopers.com/industries");
+?>

@@ -1,0 +1,19 @@
+[24-Feb-2019 17:49:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 17:49:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Mar-2019 10:42:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Mar-2019 10:42:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 18:49:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 18:49:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Apr-2019 19:15:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Apr-2019 19:15:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Jun-2019 23:51:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jun-2019 23:51:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Apr-2021 14:33:51 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 86
+[04-Apr-2021 14:33:52 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 86
+[04-Apr-2021 14:33:52 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 86
+[07-Apr-2021 19:53:10 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 86
+[07-Apr-2021 19:53:10 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 86
+[07-Apr-2021 19:53:10 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 86
+[07-Apr-2021 19:53:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 89
+[07-Apr-2021 19:53:12 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer-landing.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 89
+[07-Apr-2021 19:53:12 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer-landing.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/whitepapers/frontend-development-technology/index.php on line 89

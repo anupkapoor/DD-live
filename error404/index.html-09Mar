@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en"  data-ng-app="">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" type="text/css" href="../css/common.css" />
+	<link rel="stylesheet" type="text/css" href="css/about-us.css" />
+	<link rel="icon" type="image/x-icon" href="../images/favicon.ico" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+	<meta name="description" content="Dedicated Developers offer skilled graphic & website designers, web developers, PHP coders, Android & iPhone mobile application developers, and much more to our client base around the world at a fraction of the cost of on-shore development." />
+	
+<title>Dedicated Developers - 404 Error Page</title>
+
+<style type="text/css">
+a.back-home{background-image:url(images/back-home.png); background-position: 0 2px;
+    background-repeat: no-repeat;
+    color: #014a77;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 0 0 0 23px;
+    text-transform: uppercase;}
+</style>
+</head>
+<body>
+    <!-- Root Wrapper -->
+    <div id="root-container">
+        <div id="main-wrapper">
+            <!-- header -->
+            <div data-ng-include src="'../header.html'"></div>
+            <!-- Content wrapper -->
+           <div class="page-content-root">
+                <!-- Add Page Name -->
+                <div id="about-us">
+				   <!-- Page Title -->
+					<section id="page-title" class="clearfix">
+						<h1>Page Not Found </h1>
+						<nav id="breadcrumbs"><ul><li><a href="https://dedicateddevelopers.com/">Home</a> › </li><li>Page Not Found</li></ul></nav>   
+					</section>
+					 <!-- //Page Title -->
+					<!-- Section Start -->
+					<div class="whitebg-container text-blackgrey clearfix" style="text-align:center;">
+						<img class="img-responsive" src="images/404.png">
+
+						<div><a href="https://www.dedicateddevelopers.com/" class="back-home">Go Back to Home</a></div>
+					</div>
+				
+                </div>
+            </div>
+            <div data-ng-include src="'../footer.html'"></div>
+			  </div>
+            </div>
+<!-- JS files -->
+<script src="../js/jquery-1.8.2.min.js"></script>
+<script src="../js/angular.min.js"></script>
+<script src="../js/html5.js"></script>
+<script src="../js/javascript.js"></script>
+</body>
+</html>

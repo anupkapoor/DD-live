@@ -1,0 +1,1190 @@
+[10-Dec-2018 02:17:23 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Dec-2018 02:17:23 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[14-Feb-2019 22:22:38 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[14-Feb-2019 22:22:38 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[14-Feb-2019 22:22:39 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[14-Feb-2019 22:22:39 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[20-Feb-2019 17:04:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Feb-2019 17:04:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Feb-2019 22:02:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Feb-2019 22:02:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 01:40:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 01:40:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 01:55:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 01:55:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 07:04:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 07:04:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 13:05:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 13:05:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 13:05:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 13:05:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 17:38:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 17:38:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Feb-2019 16:35:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Feb-2019 16:35:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Feb-2019 04:11:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 04:11:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Feb-2019 16:35:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 16:35:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Feb-2019 23:20:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 23:20:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Feb-2019 23:20:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 23:20:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 04:50:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 04:50:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 04:50:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 04:50:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 07:56:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 07:56:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 08:13:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 08:13:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 09:49:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 09:49:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 18:41:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 18:41:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 18:41:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 18:41:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Feb-2019 00:16:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Feb-2019 00:16:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Feb-2019 13:25:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Feb-2019 13:25:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Feb-2019 17:04:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Feb-2019 17:04:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 03:50:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 03:50:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 05:15:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 05:15:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 06:33:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 06:33:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 07:20:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 07:20:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 08:26:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 08:26:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 14:49:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 14:49:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 19:05:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 19:05:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 19:24:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 19:24:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 05:19:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 05:19:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 10:16:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 10:16:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 12:16:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 12:16:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 12:56:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 12:56:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 16:16:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 16:16:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 18:31:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 18:31:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 23:39:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 23:39:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Mar-2019 16:03:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Mar-2019 16:03:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Mar-2019 13:07:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Mar-2019 13:07:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Mar-2019 13:11:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Mar-2019 13:11:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Mar-2019 08:23:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Mar-2019 08:23:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Mar-2019 21:04:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Mar-2019 21:04:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Mar-2019 21:52:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Mar-2019 21:52:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Mar-2019 21:56:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Mar-2019 21:56:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Mar-2019 01:15:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Mar-2019 01:15:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Mar-2019 21:30:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Mar-2019 21:30:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-Mar-2019 17:04:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Mar-2019 17:04:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 02:07:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 02:07:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 03:53:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 03:53:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 03:55:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 03:55:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 19:13:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 19:13:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 19:15:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 19:15:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 19:16:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 19:16:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Mar-2019 13:29:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Mar-2019 13:29:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Mar-2019 16:30:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Mar-2019 16:30:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 00:44:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 00:44:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 00:44:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 00:44:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 12:23:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 12:23:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 14:26:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 14:26:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 14:47:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 14:47:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Mar-2019 01:44:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Mar-2019 01:44:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Mar-2019 18:33:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Mar-2019 18:33:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 10:07:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 10:07:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 18:04:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 18:04:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 08:08:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 08:08:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 08:35:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 08:35:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 08:37:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 08:37:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 09:21:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 09:21:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 09:22:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 09:22:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 04:14:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 04:14:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 10:24:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 10:24:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 12:14:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 12:14:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 18:38:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 18:38:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 19:06:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 19:06:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 19:07:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 19:07:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 19:11:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 19:11:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 19:11:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 19:11:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Mar-2019 07:01:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Mar-2019 07:01:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Mar-2019 09:08:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Mar-2019 09:08:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Mar-2019 05:23:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Mar-2019 05:23:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Mar-2019 05:34:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Mar-2019 05:34:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Mar-2019 12:09:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Mar-2019 12:09:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Mar-2019 01:41:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Mar-2019 01:41:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Mar-2019 12:15:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Mar-2019 12:15:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Mar-2019 16:08:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Mar-2019 16:08:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 05:23:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 05:23:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 05:29:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 05:29:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 14:18:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 14:18:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 15:26:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 15:26:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 18:05:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 18:05:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Mar-2019 19:03:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Mar-2019 19:03:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 09:22:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 09:22:44 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 10:42:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 10:42:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 15:48:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 15:48:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 17:52:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 17:52:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 19:45:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 19:45:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 21:57:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 21:57:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Mar-2019 12:44:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Mar-2019 12:44:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Mar-2019 11:22:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Mar-2019 11:22:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Mar-2019 11:22:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Mar-2019 11:22:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Mar-2019 14:17:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Mar-2019 14:17:44 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 01:20:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 01:20:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 01:20:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 01:20:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 06:27:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 06:27:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 07:00:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 07:00:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 22:55:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 22:55:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Mar-2019 11:55:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Mar-2019 11:55:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Mar-2019 18:05:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Mar-2019 18:05:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 01:38:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 01:38:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 07:08:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 07:08:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 07:48:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 07:48:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 09:05:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 09:05:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 09:26:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 09:26:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 11:17:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 11:17:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 11:36:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 11:36:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 17:33:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 17:33:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 17:53:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 17:53:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 18:04:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 18:04:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 22:51:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 22:51:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 23:11:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 23:11:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 23:46:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 23:46:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 00:01:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 00:01:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 00:21:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 00:21:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 10:37:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 10:37:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Mar-2019 13:41:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Mar-2019 13:41:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Mar-2019 08:22:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Mar-2019 08:22:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Mar-2019 23:48:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Mar-2019 23:48:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Mar-2019 23:48:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Mar-2019 23:48:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Apr-2019 07:38:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Apr-2019 07:38:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Apr-2019 22:11:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Apr-2019 22:11:46 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 00:47:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 00:47:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 06:59:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 06:59:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 08:01:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 08:01:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 08:44:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 08:44:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 09:36:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 09:36:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Apr-2019 18:04:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Apr-2019 18:04:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Apr-2019 09:28:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Apr-2019 09:28:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 08:18:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 08:18:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 08:23:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 08:23:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 08:28:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 08:28:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 16:08:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 16:08:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-Apr-2019 15:00:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-Apr-2019 15:00:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-Apr-2019 19:55:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-Apr-2019 19:55:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Apr-2019 12:14:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Apr-2019 12:14:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Apr-2019 17:07:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Apr-2019 17:07:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Apr-2019 02:35:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Apr-2019 02:35:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Apr-2019 18:03:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Apr-2019 18:03:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Apr-2019 22:58:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Apr-2019 22:58:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 09:38:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 09:38:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 15:45:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 15:45:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 17:20:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 17:20:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Apr-2019 10:19:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Apr-2019 10:19:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Apr-2019 11:46:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Apr-2019 11:46:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Apr-2019 12:33:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Apr-2019 12:33:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Apr-2019 21:29:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Apr-2019 21:29:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Apr-2019 14:37:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Apr-2019 14:37:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Apr-2019 18:07:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Apr-2019 18:07:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 03:14:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 03:14:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 03:15:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 03:15:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 08:48:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 08:48:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 08:48:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 08:48:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 09:00:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 09:00:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 09:01:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 09:01:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Apr-2019 18:04:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Apr-2019 18:04:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Apr-2019 05:59:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Apr-2019 05:59:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Apr-2019 13:26:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Apr-2019 13:26:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Apr-2019 18:03:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Apr-2019 18:03:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 04:47:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 04:47:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 04:47:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 04:47:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 10:44:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 10:44:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 10:57:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 10:57:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 10:57:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 10:57:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 21:25:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 21:25:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 22:40:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 22:40:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 22:41:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 22:41:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 23:17:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 23:17:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Apr-2019 09:47:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Apr-2019 09:47:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Apr-2019 16:53:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Apr-2019 16:53:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Apr-2019 18:02:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Apr-2019 18:02:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Apr-2019 11:18:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Apr-2019 11:18:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Apr-2019 15:14:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Apr-2019 15:14:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Apr-2019 15:59:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Apr-2019 15:59:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Apr-2019 19:39:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Apr-2019 19:39:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Apr-2019 14:49:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Apr-2019 14:49:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Apr-2019 16:56:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Apr-2019 16:56:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Apr-2019 13:31:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Apr-2019 13:31:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Apr-2019 21:56:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Apr-2019 21:56:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:08:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:08:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:22:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:22:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:22:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:22:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:29:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:29:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:31:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:41:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:41:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 08:00:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 08:00:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 11:43:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 11:43:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 14:03:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 14:03:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 14:45:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 14:45:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 15:42:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 15:42:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 18:04:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 18:04:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 20:16:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 20:16:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 20:16:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 20:16:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 01:20:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 01:20:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 01:20:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 01:20:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 03:39:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 03:39:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 16:09:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 16:09:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 16:09:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 16:09:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 17:22:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 17:22:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 17:22:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 17:22:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 21:10:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 21:10:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 21:11:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 21:11:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 10:27:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 10:27:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 11:59:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 11:59:46 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 16:42:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 16:42:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 16:59:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 16:59:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Apr-2019 19:57:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Apr-2019 19:57:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Apr-2019 23:38:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Apr-2019 23:38:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Apr-2019 00:01:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Apr-2019 00:01:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Apr-2019 03:28:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Apr-2019 03:28:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Apr-2019 06:10:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Apr-2019 06:10:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Apr-2019 07:34:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Apr-2019 07:34:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Apr-2019 23:02:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Apr-2019 23:02:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 06:16:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 06:16:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 06:31:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 06:31:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 13:15:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 13:15:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 14:59:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 14:59:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 14:59:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 14:59:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 18:04:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 18:04:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 03:31:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 03:31:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 03:50:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 03:50:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 04:19:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 04:19:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 04:40:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 04:40:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 06:28:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 06:28:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 07:54:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 07:54:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 07:54:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 07:54:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 13:03:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 13:03:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 13:04:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 13:04:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 17:48:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 17:48:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 18:08:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 18:08:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 00:03:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 00:03:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 00:48:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 00:48:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 00:57:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 00:57:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 01:41:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 01:41:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 04:27:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 04:27:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 04:56:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 04:56:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 08:31:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 08:31:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 09:46:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 09:46:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 10:37:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 10:37:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 10:57:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 10:57:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 11:07:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 11:07:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 12:32:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 12:32:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 17:13:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 17:13:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 17:24:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 17:24:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 17:25:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 17:25:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 18:31:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 18:31:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 20:35:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 20:35:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 21:05:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 21:05:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 21:30:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 21:30:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-May-2019 21:41:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-May-2019 21:41:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 02:53:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 02:53:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 03:13:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 03:13:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 04:16:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 04:16:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 04:16:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 04:16:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 04:48:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 04:48:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 10:12:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 10:12:44 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 16:15:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 16:15:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 17:44:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 17:44:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 17:52:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 17:52:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 00:19:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 00:19:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 00:19:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 00:19:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 03:41:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 03:41:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 13:19:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 13:19:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 19:18:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 19:18:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-May-2019 02:07:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-May-2019 02:07:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-May-2019 10:27:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-May-2019 10:27:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-May-2019 19:31:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-May-2019 19:31:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 16:59:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 16:59:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 18:04:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 18:04:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 22:34:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 22:34:44 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 02:35:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 02:35:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 04:22:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 04:22:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 09:55:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 09:55:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 10:35:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 10:35:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 11:31:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 11:31:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 12:07:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 12:07:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 20:10:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 20:10:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 20:12:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 20:12:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 20:20:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 20:20:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 20:20:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 20:20:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-May-2019 00:40:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-May-2019 00:40:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-May-2019 04:22:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-May-2019 04:22:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-May-2019 19:16:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-May-2019 19:16:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 10:11:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 10:11:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 10:22:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 10:22:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 15:24:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 15:24:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 19:08:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 19:08:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 07:38:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 07:38:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 07:38:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 07:38:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 18:04:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 18:04:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-May-2019 13:48:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-May-2019 13:48:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-May-2019 14:24:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-May-2019 14:24:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-May-2019 19:24:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-May-2019 19:24:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-May-2019 19:24:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-May-2019 19:24:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 06:36:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 06:36:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 14:08:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 14:08:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 14:22:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 14:22:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-May-2019 11:27:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-May-2019 11:27:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-May-2019 21:24:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-May-2019 21:24:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 00:38:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 00:38:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 05:54:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 05:54:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 09:00:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 09:00:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 09:37:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 09:37:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 19:03:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 19:03:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 19:03:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 19:03:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-May-2019 18:04:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-May-2019 18:04:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-May-2019 23:45:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-May-2019 23:45:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-May-2019 06:39:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-May-2019 06:39:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-May-2019 23:38:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-May-2019 23:38:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 00:04:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 00:04:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 00:05:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 00:05:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 05:45:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 05:45:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 09:37:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 09:37:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 10:03:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 10:03:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 16:22:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 16:22:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 16:41:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 16:41:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 19:57:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 19:57:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 20:14:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 20:14:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 03:59:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 03:59:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 03:59:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 03:59:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 06:02:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 06:02:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 06:03:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 06:03:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-May-2019 09:56:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-May-2019 09:56:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-May-2019 09:56:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-May-2019 09:56:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 00:59:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 00:59:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 10:41:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 10:41:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 11:56:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 11:56:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 13:05:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 13:05:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 15:17:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 15:17:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 17:43:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 17:43:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 18:04:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 18:04:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-May-2019 08:28:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-May-2019 08:28:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-May-2019 17:33:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-May-2019 17:33:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 06:59:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 06:59:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jun-2019 11:10:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jun-2019 11:10:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jun-2019 19:17:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jun-2019 19:17:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jun-2019 07:22:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Jun-2019 07:22:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jun-2019 10:38:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Jun-2019 10:38:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jun-2019 10:38:06 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Jun-2019 10:38:06 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Jun-2019 10:38:08 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Jun-2019 10:38:08 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Jun-2019 12:13:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2019 12:13:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Jun-2019 18:04:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2019 18:04:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-Jun-2019 04:53:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-Jun-2019 04:53:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-Jun-2019 04:53:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-Jun-2019 04:53:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Jun-2019 01:29:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Jun-2019 01:29:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Jun-2019 06:18:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Jun-2019 06:18:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Jun-2019 06:18:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Jun-2019 06:18:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Jun-2019 19:33:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Jun-2019 19:33:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Jun-2019 09:54:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Jun-2019 09:54:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Jun-2019 14:19:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Jun-2019 14:19:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 00:10:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 00:10:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 02:23:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 02:23:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 10:32:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 10:32:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 14:24:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 14:24:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 19:20:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 19:20:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Jun-2019 12:25:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Jun-2019 12:25:46 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Jun-2019 12:27:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Jun-2019 12:27:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Jun-2019 16:33:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Jun-2019 16:33:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 06:36:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 06:36:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 13:12:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 13:12:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 13:55:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 13:55:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 18:06:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 18:06:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 02:43:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 02:43:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 09:07:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 09:07:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 10:17:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 10:17:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 10:36:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 10:36:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 13:57:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 13:57:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 14:17:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 14:17:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 15:30:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 15:30:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 15:52:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 15:52:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Jun-2019 05:13:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 05:13:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Jun-2019 10:56:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 10:56:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Jun-2019 14:35:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 14:35:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Jun-2019 14:58:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 14:58:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Jun-2019 02:53:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jun-2019 02:53:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 03:31:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 03:31:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 03:34:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 03:34:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 04:36:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 04:36:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 05:48:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 05:48:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 07:27:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 07:27:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 15:29:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 15:29:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 15:51:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 15:51:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Jun-2019 07:24:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jun-2019 07:24:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Jun-2019 18:06:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jun-2019 18:06:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 15:31:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 15:31:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 16:36:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 16:36:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 19:55:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 19:55:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 23:25:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 23:25:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 06:26:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 06:26:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 07:18:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 07:18:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 14:14:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 14:14:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 14:20:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 14:20:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 14:29:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 14:29:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jun-2019 10:19:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jun-2019 10:19:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jun-2019 18:52:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jun-2019 18:52:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jun-2019 19:34:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jun-2019 19:34:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jun-2019 20:15:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jun-2019 20:15:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jun-2019 02:42:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jun-2019 02:42:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 07:27:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 07:27:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 10:46:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 10:46:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 12:20:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 12:20:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 16:36:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 16:36:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 21:38:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 21:38:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jun-2019 06:14:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jun-2019 06:14:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jun-2019 09:48:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jun-2019 09:48:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jun-2019 19:38:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jun-2019 19:38:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jun-2019 15:31:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jun-2019 15:31:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jun-2019 18:06:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jun-2019 18:06:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jun-2019 12:26:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jun-2019 12:26:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jun-2019 12:43:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jun-2019 12:43:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jun-2019 21:23:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jun-2019 21:23:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jun-2019 21:23:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jun-2019 21:23:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jun-2019 21:27:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jun-2019 21:27:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Jun-2019 22:56:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Jun-2019 22:56:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jul-2019 15:15:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jul-2019 15:15:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jul-2019 19:19:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jul-2019 19:19:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Jul-2019 00:16:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Jul-2019 00:16:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jul-2019 18:06:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jul-2019 18:06:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Aug-2019 13:58:44 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Aug-2019 13:58:44 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[24-Oct-2019 08:57:26 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[24-Oct-2019 08:57:26 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[24-Oct-2019 08:57:28 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[24-Oct-2019 08:57:28 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[25-Feb-2020 08:43:58 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[25-Feb-2020 08:43:58 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Mar-2020 05:02:40 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Mar-2020 05:02:40 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Mar-2020 05:02:40 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Mar-2020 05:02:40 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Mar-2020 05:02:40 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Mar-2020 05:02:40 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[24-Mar-2021 19:18:14 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[24-Mar-2021 19:18:14 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 06:18:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 09:23:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[04-Apr-2021 21:01:37 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[05-Apr-2021 08:35:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[05-Apr-2021 18:17:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 00:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 20:11:27 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[06-Apr-2021 22:24:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[07-Apr-2021 13:04:26 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[07-Apr-2021 13:04:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 11:49:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 11:49:05 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 11:49:05 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 13:34:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 15:51:00 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[08-Apr-2021 23:33:14 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 15:11:28 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 19:26:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 21:38:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Apr-2021 21:38:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[11-Apr-2021 05:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[11-Apr-2021 16:42:12 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[12-Apr-2021 16:29:21 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[13-Apr-2021 05:17:44 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 08:21:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 15:50:34 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 18:31:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[16-Apr-2021 18:32:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[18-Apr-2021 02:08:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[19-Apr-2021 03:51:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[20-Apr-2021 16:04:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 25
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 247
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[21-Apr-2021 11:21:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/industries/education-elearning-apps/index.php on line 250
+[10-Jun-2021 15:21:14 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Jun-2021 01:36:31 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Jun-2021 07:22:43 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Jun-2021 12:31:37 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 14:10:58 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 14:11:00 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 18:20:15 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 18:20:18 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Jun-2021 01:13:28 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Jun-2021 20:33:57 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[15-Jun-2021 18:27:34 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[16-Jun-2021 00:20:55 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0

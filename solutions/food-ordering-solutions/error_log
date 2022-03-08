@@ -1,0 +1,1041 @@
+[09-Oct-2018 20:13:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[10-Oct-2018 15:56:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[10-Oct-2018 23:05:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[11-Oct-2018 17:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[11-Oct-2018 19:36:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[12-Oct-2018 04:40:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[12-Oct-2018 18:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[12-Oct-2018 20:40:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[12-Oct-2018 20:43:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[13-Oct-2018 00:23:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[14-Oct-2018 00:55:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[14-Oct-2018 06:12:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[14-Oct-2018 13:52:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[15-Oct-2018 04:03:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[15-Oct-2018 10:42:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[15-Oct-2018 10:56:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[16-Oct-2018 03:37:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[17-Oct-2018 03:01:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[17-Oct-2018 03:19:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/bhatia/public_html/dedicateddevelopers.com/metatags.php:1) in /home4/bhatia/public_html/dedicateddevelopers.com/blog/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1197
+[17-Jan-2019 05:06:17 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[17-Jan-2019 05:06:17 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Feb-2019 17:06:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Feb-2019 17:06:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 01:39:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 01:39:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Feb-2019 13:04:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Feb-2019 13:04:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Feb-2019 00:54:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Feb-2019 00:54:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Feb-2019 00:57:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Feb-2019 00:57:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Feb-2019 06:55:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Feb-2019 06:55:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Feb-2019 16:34:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Feb-2019 16:34:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Feb-2019 20:38:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Feb-2019 20:38:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Feb-2019 16:36:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 16:36:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Feb-2019 23:19:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Feb-2019 23:19:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 04:50:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 04:50:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Feb-2019 18:42:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Feb-2019 18:42:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Feb-2019 00:15:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Feb-2019 00:15:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Feb-2019 12:44:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Feb-2019 12:44:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Feb-2019 17:33:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Feb-2019 17:33:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Feb-2019 18:07:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Feb-2019 18:07:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Feb-2019 11:47:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Feb-2019 11:47:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Feb-2019 17:06:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Feb-2019 17:06:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 03:22:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 03:22:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Feb-2019 19:04:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Feb-2019 19:04:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 00:23:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 00:23:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 07:17:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 07:17:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Mar-2019 18:56:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Mar-2019 18:56:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Mar-2019 12:16:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Mar-2019 12:16:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Mar-2019 03:41:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Mar-2019 03:41:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Mar-2019 13:09:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Mar-2019 13:09:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Mar-2019 21:03:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Mar-2019 21:03:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Mar-2019 21:53:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Mar-2019 21:53:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-Mar-2019 17:06:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-Mar-2019 17:06:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-Mar-2019 06:25:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-Mar-2019 06:25:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 00:14:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 00:14:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 02:07:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 02:07:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 02:07:50 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Mar-2019 02:07:50 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Mar-2019 08:07:54 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Mar-2019 08:07:54 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Mar-2019 03:48:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 03:48:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 14:44:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 14:44:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 19:10:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 19:10:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Mar-2019 21:22:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Mar-2019 21:22:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 07:48:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 07:48:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 14:56:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 14:56:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 19:22:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 19:22:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Mar-2019 20:27:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Mar-2019 20:27:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 00:44:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 00:44:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 12:22:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 12:22:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 14:25:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 14:25:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 14:46:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 14:46:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 19:41:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 19:41:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 19:41:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 19:41:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 19:42:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 19:42:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 19:42:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 19:42:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Mar-2019 19:42:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Mar-2019 19:42:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Mar-2019 01:43:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Mar-2019 01:43:44 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 13:51:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 13:51:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 13:51:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 13:51:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 14:04:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 14:04:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 14:04:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 14:04:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Mar-2019 18:06:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Mar-2019 18:06:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 08:07:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 08:07:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 08:55:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 08:55:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Mar-2019 18:48:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Mar-2019 18:48:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 06:22:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 06:22:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 19:05:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 19:05:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-Mar-2019 19:11:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-Mar-2019 19:11:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Mar-2019 00:41:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Mar-2019 00:41:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Mar-2019 08:21:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Mar-2019 08:21:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Mar-2019 12:09:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Mar-2019 12:09:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Mar-2019 01:40:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Mar-2019 01:40:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 05:19:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 05:19:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Mar-2019 18:07:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2019 18:07:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 10:08:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 10:08:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 17:56:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 17:56:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Mar-2019 19:16:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Mar-2019 19:16:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Mar-2019 00:31:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Mar-2019 00:31:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Mar-2019 14:06:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Mar-2019 14:06:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Mar-2019 15:04:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Mar-2019 15:04:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Mar-2019 10:36:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Mar-2019 10:36:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Mar-2019 11:21:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Mar-2019 11:21:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Mar-2019 12:45:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Mar-2019 12:45:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 01:20:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 01:20:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 06:30:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 06:30:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 13:08:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 13:08:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Mar-2019 22:54:44 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Mar-2019 22:54:44 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Mar-2019 11:33:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Mar-2019 11:33:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Mar-2019 17:45:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Mar-2019 17:45:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 01:35:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 01:35:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 07:16:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 07:16:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 18:06:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 18:06:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 04:41:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 04:41:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 07:55:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 07:55:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Mar-2019 13:01:40 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[28-Mar-2019 13:01:40 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[29-Mar-2019 13:40:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Mar-2019 13:40:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Mar-2019 07:35:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Mar-2019 07:35:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Mar-2019 08:03:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Mar-2019 08:03:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Mar-2019 22:24:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Mar-2019 22:24:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Apr-2019 22:10:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Apr-2019 22:10:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Apr-2019 22:25:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Apr-2019 22:25:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 07:45:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 07:45:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Apr-2019 09:06:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Apr-2019 09:06:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Apr-2019 09:23:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Apr-2019 09:23:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Apr-2019 18:06:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Apr-2019 18:06:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 03:00:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 03:00:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 09:13:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 09:13:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Apr-2019 14:01:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Apr-2019 14:01:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Apr-2019 06:08:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Apr-2019 06:08:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Apr-2019 19:22:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Apr-2019 19:22:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Apr-2019 05:17:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Apr-2019 05:17:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-Apr-2019 05:18:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-Apr-2019 05:18:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Apr-2019 14:01:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Apr-2019 14:01:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Apr-2019 18:05:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Apr-2019 18:05:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 12:37:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 12:37:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 14:51:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 14:51:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 15:16:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 15:16:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 17:03:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 17:03:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Apr-2019 19:16:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Apr-2019 19:16:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Apr-2019 21:35:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Apr-2019 21:35:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Apr-2019 01:36:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Apr-2019 01:36:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Apr-2019 21:29:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Apr-2019 21:29:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-Apr-2019 03:41:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Apr-2019 03:41:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Apr-2019 00:08:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Apr-2019 00:08:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Apr-2019 13:57:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Apr-2019 13:57:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Apr-2019 18:05:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Apr-2019 18:05:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Apr-2019 20:08:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Apr-2019 20:08:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Apr-2019 13:11:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Apr-2019 13:11:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Apr-2019 14:17:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Apr-2019 14:17:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Apr-2019 19:20:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Apr-2019 19:20:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 04:46:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 04:46:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 10:44:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 10:44:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 11:25:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 11:25:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 11:25:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 11:25:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Apr-2019 22:22:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Apr-2019 22:22:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Apr-2019 00:37:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Apr-2019 00:37:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Apr-2019 06:19:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Apr-2019 06:19:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Apr-2019 15:57:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Apr-2019 15:57:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Apr-2019 12:02:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Apr-2019 12:02:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Apr-2019 14:01:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Apr-2019 14:01:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Apr-2019 19:28:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Apr-2019 19:28:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:21:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:21:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:30:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:30:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 06:30:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 06:30:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 08:02:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 08:02:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Apr-2019 18:05:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2019 18:05:46 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 07:46:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 07:46:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 13:36:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 13:36:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Apr-2019 16:15:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Apr-2019 16:15:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 02:42:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 02:42:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 16:50:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 16:50:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Apr-2019 22:40:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Apr-2019 22:40:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Apr-2019 23:48:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Apr-2019 23:48:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Apr-2019 07:30:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Apr-2019 07:30:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Apr-2019 08:21:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Apr-2019 08:21:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Apr-2019 09:01:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Apr-2019 09:01:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Apr-2019 08:24:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Apr-2019 08:24:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 01:33:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 01:33:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 04:49:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 04:49:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 04:56:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 04:56:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 06:23:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 06:23:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 05:07:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 05:07:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 14:58:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 14:58:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-May-2019 18:06:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-May-2019 18:06:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-May-2019 00:43:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-May-2019 00:43:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-May-2019 01:13:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-May-2019 01:13:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 03:24:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 03:24:06 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-May-2019 13:03:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-May-2019 13:03:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-May-2019 19:06:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-May-2019 19:06:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 00:19:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 00:19:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 00:27:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 00:27:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 04:23:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 04:23:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 13:17:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 13:17:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[06-May-2019 19:16:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[06-May-2019 19:16:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-May-2019 04:59:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-May-2019 04:59:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 18:06:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 18:06:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 02:22:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 02:22:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 02:22:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 02:22:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 02:35:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 02:35:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 02:34:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 02:34:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 03:03:39 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 03:03:39 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 21:09:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 21:09:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 05:35:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 05:35:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 20:10:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 20:10:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-May-2019 00:22:01 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-May-2019 00:22:01 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-May-2019 04:46:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-May-2019 04:46:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-May-2019 19:15:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-May-2019 19:15:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 13:08:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 13:08:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 15:09:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 15:09:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 22:55:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 22:55:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 11:12:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 11:12:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 14:51:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 14:51:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 18:06:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 18:06:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-May-2019 01:47:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-May-2019 01:47:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[16-May-2019 06:37:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-May-2019 06:37:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-May-2019 19:26:36 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-May-2019 19:26:36 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 00:48:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 00:48:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 01:25:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 01:25:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 12:01:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 12:01:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-May-2019 14:14:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-May-2019 14:14:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-May-2019 13:09:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-May-2019 13:09:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 03:28:08 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 03:28:08 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 15:29:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 15:29:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-May-2019 19:04:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-May-2019 19:04:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-May-2019 07:15:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-May-2019 07:15:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-May-2019 11:40:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-May-2019 11:40:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-May-2019 15:51:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-May-2019 15:51:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-May-2019 18:06:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-May-2019 18:06:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-May-2019 23:37:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-May-2019 23:37:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 00:03:04 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 00:03:04 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 00:40:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 00:40:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 05:08:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 05:08:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 06:01:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 06:01:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 09:39:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 09:39:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-May-2019 23:06:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-May-2019 23:06:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 00:45:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 00:45:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 03:59:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 03:59:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-May-2019 06:02:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-May-2019 06:02:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-May-2019 00:50:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-May-2019 00:50:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-May-2019 00:52:23 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-May-2019 00:52:23 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-May-2019 21:56:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-May-2019 21:56:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-May-2019 00:57:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-May-2019 00:57:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 00:59:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 00:59:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 17:44:06 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 17:44:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-May-2019 18:06:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-May-2019 18:06:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-May-2019 01:02:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-May-2019 01:02:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-May-2019 09:04:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-May-2019 09:04:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-May-2019 21:23:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-May-2019 21:23:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 01:39:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 01:39:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 04:56:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 04:56:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 06:00:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 06:00:54 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 12:39:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 12:39:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 13:45:20 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 13:45:20 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jun-2019 14:06:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jun-2019 14:06:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Jun-2019 04:17:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Jun-2019 04:17:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Jun-2019 23:02:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Jun-2019 23:02:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jun-2019 19:16:19 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jun-2019 19:16:19 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jun-2019 21:39:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jun-2019 21:39:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jun-2019 12:02:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Jun-2019 12:02:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jun-2019 22:13:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Jun-2019 22:13:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jun-2019 22:13:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Jun-2019 22:13:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Jun-2019 04:40:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2019 04:40:58 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Jun-2019 06:00:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2019 06:00:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Jun-2019 18:06:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Jun-2019 18:06:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[07-Jun-2019 04:52:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[07-Jun-2019 04:52:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-Jun-2019 06:17:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-Jun-2019 06:17:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 19:15:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 19:15:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-Jun-2019 20:28:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-Jun-2019 20:28:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Jun-2019 13:43:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Jun-2019 13:43:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-Jun-2019 19:47:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-Jun-2019 19:47:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 06:43:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 06:43:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 13:11:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 13:11:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 13:55:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 13:55:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Jun-2019 18:09:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Jun-2019 18:09:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 01:19:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 01:19:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[13-Jun-2019 08:34:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Jun-2019 08:34:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Jun-2019 15:18:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 15:18:46 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-Jun-2019 15:21:22 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed!  in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[14-Jun-2019 15:21:22 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Jun-2019 07:34:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[16-Jun-2019 07:34:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[17-Jun-2019 06:42:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[17-Jun-2019 06:42:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 03:30:28 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 03:30:28 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2019 04:36:48 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2019 04:36:48 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Jun-2019 07:40:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jun-2019 07:40:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Jun-2019 18:10:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jun-2019 18:10:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 02:20:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 02:20:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 09:44:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 09:44:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 10:51:12 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 10:51:12 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 12:23:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 12:23:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 12:56:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 12:56:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 13:01:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 13:01:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 13:45:31 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 13:45:31 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 14:18:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 14:18:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jun-2019 21:05:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jun-2019 21:05:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 05:23:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 05:23:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 14:21:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 14:21:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jun-2019 19:14:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jun-2019 19:14:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 01:17:54 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 01:17:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 07:27:16 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 07:27:16 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jun-2019 10:48:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jun-2019 10:48:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jun-2019 02:07:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jun-2019 02:07:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jun-2019 05:26:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jun-2019 05:26:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jun-2019 15:25:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jun-2019 15:25:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jun-2019 18:09:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jun-2019 18:09:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jun-2019 07:46:52 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jun-2019 07:46:52 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jun-2019 12:25:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jun-2019 12:25:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jun-2019 18:58:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jun-2019 18:58:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jun-2019 21:29:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jun-2019 21:29:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jun-2019 21:29:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jun-2019 21:29:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Jul-2019 19:15:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Jul-2019 19:15:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Jul-2019 00:01:40 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Jul-2019 00:01:40 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[02-Jul-2019 04:08:51 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[02-Jul-2019 04:08:51 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[03-Jul-2019 18:10:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[03-Jul-2019 18:10:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[04-Jul-2019 03:45:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[04-Jul-2019 03:45:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Jul-2019 11:02:05 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[28-Jul-2019 11:02:05 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Sep-2019 07:37:23 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Sep-2019 07:37:23 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Sep-2019 07:37:25 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Sep-2019 07:37:25 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[24-Nov-2019 09:05:34 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[24-Nov-2019 09:05:34 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Dec-2019 02:11:05 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Dec-2019 02:11:05 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Dec-2019 02:11:05 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Dec-2019 02:11:05 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[23-Dec-2019 11:35:51 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[23-Dec-2019 11:35:51 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[25-Feb-2020 08:44:02 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[25-Feb-2020 08:44:02 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[25-Feb-2020 14:44:08 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[25-Feb-2020 14:44:08 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Jun-2020 12:02:30 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Jun-2020 12:02:30 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[24-Jun-2020 17:18:28 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[24-Jun-2020 17:18:28 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[24-Jun-2020 17:18:29 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[24-Jun-2020 17:18:29 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[24-Mar-2021 19:18:14 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[24-Mar-2021 19:18:14 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[25-Mar-2021 02:30:22 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[25-Mar-2021 02:30:22 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[25-Mar-2021 02:30:23 America/Chicago] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[25-Mar-2021 02:30:23 America/Chicago] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 06:19:06 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 06:19:06 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 06:19:06 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 06:19:06 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 06:19:06 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 06:19:06 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 09:19:50 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 09:19:50 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 09:19:50 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 09:19:50 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 09:19:50 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 09:19:50 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 21:01:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 21:01:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 21:01:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[04-Apr-2021 21:01:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 21:01:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[04-Apr-2021 21:01:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[05-Apr-2021 14:15:24 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[05-Apr-2021 18:10:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[05-Apr-2021 18:10:04 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[05-Apr-2021 18:10:04 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[05-Apr-2021 18:10:04 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 18:10:04 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 18:10:04 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[05-Apr-2021 18:10:05 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[05-Apr-2021 18:10:05 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[05-Apr-2021 18:10:05 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 00:18:57 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 00:18:57 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 00:18:57 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 00:18:57 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 00:18:57 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 00:18:57 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 00:18:58 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 00:18:58 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 00:18:58 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 02:40:49 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 02:40:49 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 02:40:49 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 02:40:49 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 02:40:49 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 02:40:49 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 02:40:50 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 02:40:50 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 02:40:50 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 06:38:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 06:38:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 06:38:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 06:38:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 06:38:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 06:38:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 06:38:48 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 06:38:48 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 06:38:48 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 14:03:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 14:03:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 14:03:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 14:03:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 14:03:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 14:03:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 14:03:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 14:03:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 14:03:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 19:46:31 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 19:46:31 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 19:46:31 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 19:46:31 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 19:46:31 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 19:46:31 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 19:46:32 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 19:46:32 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 19:46:32 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 21:31:34 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 21:31:34 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 21:31:34 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[06-Apr-2021 21:31:34 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 21:31:34 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 21:31:34 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[06-Apr-2021 21:31:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 21:31:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[06-Apr-2021 21:31:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 18:32:36 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 18:32:36 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 18:32:36 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 18:32:36 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 18:32:36 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 18:32:36 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 18:32:37 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 18:32:37 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 18:32:37 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 18:32:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 18:32:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 18:32:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 18:32:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 18:32:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 18:32:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 18:32:39 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 18:32:39 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 18:32:39 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 19:29:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 19:29:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 19:29:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[07-Apr-2021 19:29:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 19:29:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 19:29:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[07-Apr-2021 19:29:24 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 19:29:24 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[07-Apr-2021 19:29:24 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 05:07:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 05:07:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 05:07:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 05:07:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 05:07:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 05:07:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 05:07:32 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 05:07:32 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 05:07:32 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 06:07:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 06:07:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 06:07:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 06:07:38 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 06:07:38 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 06:07:38 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 06:07:40 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 06:07:40 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 06:07:40 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 13:20:28 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 13:20:28 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 13:20:28 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 13:20:28 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 13:20:28 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 13:20:28 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 13:20:29 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 13:20:29 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 13:20:29 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 18:12:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 18:12:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 18:12:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[08-Apr-2021 18:12:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 18:12:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 18:12:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[08-Apr-2021 18:12:57 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 18:12:57 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[08-Apr-2021 18:12:57 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 10:49:01 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 10:49:01 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 10:49:01 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 10:49:01 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 10:49:01 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 10:49:01 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 10:49:02 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 10:49:02 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 10:49:02 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 13:46:46 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 13:46:46 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 13:46:46 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 13:46:46 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 13:46:46 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 13:46:46 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 13:46:47 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 13:46:47 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 13:46:47 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 14:19:09 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 14:21:15 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 19:09:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 19:09:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 19:09:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 19:09:56 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 19:09:56 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 19:09:56 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 19:09:57 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 19:09:57 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 19:09:57 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 21:38:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 21:38:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 21:38:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[10-Apr-2021 21:38:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 21:38:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 21:38:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[10-Apr-2021 21:38:24 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 21:38:24 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Apr-2021 21:38:24 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[11-Apr-2021 11:23:21 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Apr-2021 11:23:21 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Apr-2021 11:23:21 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Apr-2021 11:23:21 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Apr-2021 11:23:21 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Apr-2021 11:23:21 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Apr-2021 11:23:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[11-Apr-2021 11:23:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[11-Apr-2021 11:23:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[11-Apr-2021 15:45:52 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[12-Apr-2021 07:12:47 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[12-Apr-2021 07:12:47 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[12-Apr-2021 07:12:47 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[12-Apr-2021 07:12:47 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[12-Apr-2021 07:12:47 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[12-Apr-2021 07:12:47 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[12-Apr-2021 07:12:49 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[12-Apr-2021 07:12:49 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[12-Apr-2021 07:12:49 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[12-Apr-2021 08:11:01 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[12-Apr-2021 08:11:01 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[12-Apr-2021 08:11:01 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[12-Apr-2021 08:11:01 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[12-Apr-2021 08:11:01 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[12-Apr-2021 08:11:01 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[12-Apr-2021 08:11:02 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[12-Apr-2021 08:11:02 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[12-Apr-2021 08:11:02 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[13-Apr-2021 03:57:43 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[13-Apr-2021 03:57:43 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[13-Apr-2021 03:57:43 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[13-Apr-2021 03:57:43 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[13-Apr-2021 03:57:43 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[13-Apr-2021 03:57:43 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[13-Apr-2021 03:57:45 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[13-Apr-2021 03:57:45 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[13-Apr-2021 03:57:45 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[14-Apr-2021 08:17:49 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[14-Apr-2021 08:17:49 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[14-Apr-2021 08:17:49 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[14-Apr-2021 08:17:49 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[14-Apr-2021 08:17:49 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[14-Apr-2021 08:17:49 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[14-Apr-2021 08:17:51 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[14-Apr-2021 08:17:51 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[14-Apr-2021 08:17:51 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[15-Apr-2021 06:05:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[16-Apr-2021 15:49:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[16-Apr-2021 15:49:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[16-Apr-2021 15:49:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[16-Apr-2021 15:49:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Apr-2021 15:49:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Apr-2021 15:49:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Apr-2021 15:49:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[16-Apr-2021 15:49:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[16-Apr-2021 15:49:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[16-Apr-2021 18:36:35 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[17-Apr-2021 00:59:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[17-Apr-2021 00:59:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[17-Apr-2021 00:59:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[17-Apr-2021 00:59:30 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[17-Apr-2021 00:59:30 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[17-Apr-2021 00:59:30 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[17-Apr-2021 00:59:31 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[17-Apr-2021 00:59:31 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[17-Apr-2021 00:59:31 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 09:35:06 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 09:35:06 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 09:35:06 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 09:35:06 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 09:35:06 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 09:35:06 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 09:35:12 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 09:35:12 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 09:35:12 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 15:28:59 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 19:41:22 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 20:03:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 20:03:42 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 20:03:42 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[18-Apr-2021 20:03:42 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 20:03:42 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 20:03:42 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[18-Apr-2021 20:03:43 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 20:03:43 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[18-Apr-2021 20:03:43 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[19-Apr-2021 13:11:18 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[19-Apr-2021 13:11:18 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[19-Apr-2021 13:11:18 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[19-Apr-2021 13:11:18 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[19-Apr-2021 13:11:18 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[19-Apr-2021 13:11:18 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[19-Apr-2021 13:11:20 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[19-Apr-2021 13:11:20 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[19-Apr-2021 13:11:20 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[20-Apr-2021 00:02:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[20-Apr-2021 00:02:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[20-Apr-2021 00:02:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[20-Apr-2021 00:02:33 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Apr-2021 00:02:33 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Apr-2021 00:02:33 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Apr-2021 00:02:34 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[20-Apr-2021 00:02:34 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[20-Apr-2021 00:02:34 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[20-Apr-2021 11:22:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[20-Apr-2021 11:22:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[20-Apr-2021 11:22:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[20-Apr-2021 11:22:23 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Apr-2021 11:22:23 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Apr-2021 11:22:23 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[20-Apr-2021 11:22:25 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[20-Apr-2021 11:22:25 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[20-Apr-2021 11:22:25 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[22-Apr-2021 05:01:44 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[22-Apr-2021 05:01:45 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[22-Apr-2021 06:04:59 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[22-Apr-2021 06:04:59 UTC] PHP Warning:  include(https://dedicateddevelopers.com/client-logos.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[22-Apr-2021 06:04:59 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/client-logos.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 25
+[22-Apr-2021 06:04:59 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[22-Apr-2021 06:04:59 UTC] PHP Warning:  include(https://dedicateddevelopers.com/testimonials.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[22-Apr-2021 06:04:59 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/testimonials.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 199
+[22-Apr-2021 06:05:00 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[22-Apr-2021 06:05:00 UTC] PHP Warning:  include(https://dedicateddevelopers.com/footer.php): failed to open stream: no suitable wrapper could be found in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[22-Apr-2021 06:05:00 UTC] PHP Warning:  include(): Failed opening 'https://dedicateddevelopers.com/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/bhatia/public_html/dedicateddevelopers.com/solutions/food-ordering-solutions/index.php on line 202
+[10-Jun-2021 04:52:32 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[10-Jun-2021 05:08:49 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[10-Jun-2021 06:00:39 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[10-Jun-2021 17:02:38 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Jun-2021 03:10:33 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Jun-2021 08:05:10 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[11-Jun-2021 08:17:19 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[12-Jun-2021 14:28:58 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[12-Jun-2021 15:03:47 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 14:10:32 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 18:19:28 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[13-Jun-2021 18:20:16 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[14-Jun-2021 20:33:23 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[16-Jun-2021 00:20:27 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[16-Jun-2021 04:02:39 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0

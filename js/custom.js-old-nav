@@ -1,0 +1,38 @@
+$(document).ready(function() {function toggleSidebar() {    $(".top-bar-wrap").toggleClass("show-nav");    $("main").toggleClass("move-to-left");    $(".sidebar-item").toggleClass("active");}$(window).scroll(function() {        var scroll = $(window).scrollTop();        if (scroll >= 50) {			$('.top-bar').addClass('flexi-nav');         } else {            $('.top-bar').removeClass('flexi-nav');         }});$(".hamburger").on("click tap", function() {toggleSidebar();});$(".navigation .item.why-us").on("click tap", function() {$(".navigation .item").removeClass("active-item");$(this).addClass("active-item");});$(".navigation .item.solution").on("click tap", function() {$(".navigation .item").removeClass("active-item");$(this).addClass("active-item");});$(".navigation .item.developer").on("click tap", function() {$(".navigation .item").removeClass("active-item");$(this).addClass("active-item");});$(".navigation .item.portfolio").on("click tap", function() {
+    
+	$(".navigation .item").removeClass("active-item");
+	$(this).addClass("active-item");
+  });
+  
+  $(".navigation .item.trending").on("click tap", function() {
+    
+	$(".navigation .item").removeClass("active-item");
+	$(this).addClass("active-item");
+  });
+  
+  $(".navigation .item.contact").on("click tap", function() {
+    
+	$(".navigation .item").removeClass("active-item");
+	$(this).addClass("active-item");
+  });
+  $(document).keyup(function(e) {
+    if (e.keyCode === 27) {
+      toggleSidebar();
+    }
+  });
+ 
+$("#slideshow > div:gt(0)").hide();setInterval(function() {   $('#slideshow > div:first')    .fadeOut(1000).delay(3000)    .next().delay(1500)    .fadeIn(1000)    .end().delay(1500)    .appendTo('#slideshow');},  4000);$("#slideshow2 > div:gt(0)").hide();setInterval(function() {   $('#slideshow2 > div:first').fadeOut(500) .next() .fadeIn(500) .end() .appendTo('#slideshow2');},  2000);$('map').imageMapResize();	$('.testimonial-1').mouseover(function() {		$('.testimonial-1-block').show(); 	});		$('.testimonial-2').mouseover(function() {		$('.testimonial-2-block').show();	});	$('.testimonial-3').mouseover(function() {		$('.testimonial-3-block').show(); 	});	$('.testimonial-4').mouseover(function() {		$('.testimonial-4-block').show(); 	});	$('.testimonial-5').mouseover(function() {		$('.testimonial-5-block').show(); 	});	$('.testimonial-6').mouseover(function() {		$('.testimonial-6-block').show(); 	});	$('.testimonial-7').mouseover(function() {		$('.testimonial-7-block').show(); 	});	$('.testimonial-8').mouseover(function() {		$('.testimonial-8-block').show(); 	});	$('.testimonial-9').mouseover(function() {		$('.testimonial-9-block').show();	});	$('.testimonial-10').mouseover(function() {		$('.testimonial-10-block').show(); 	});	$('.testimonial-11').mouseover(function() {		$('.testimonial-11-block').show(); 	});	$('.testimonial-12').mouseover(function() {		$('.testimonial-12-block').show(); 	});	$('.testimonial-13').mouseover(function() {		$('.testimonial-13-block').show(); 	})	$('.testimonial-14').mouseover(function() {		$('.testimonial-14-block').show(); 	});	$('.testimonial-15').mouseover(function() {
+		$('.testimonial-15-block').show();
+ 	})
+	$('.testimonial-16').mouseover(function() {
+		$('.testimonial-16-block').show();
+ 	});
+
+$('.testimonial-map').mouseout(function() {
+	$('.testimonial-block').hide();
+});
+
+
+
+
+});
