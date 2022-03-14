@@ -2,7 +2,7 @@
 <?php require_once('metatags.php'); ?>
 <!doctype html>
     <html lang="en">
-    <head>
+    <head><meta name="robots" content="noindex, nofollow" />
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<title><?php echo $title; ?></title>
@@ -55,9 +55,7 @@ function myScripts() {
   'https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '1923448507666530');
   fbq('track', 'PageView');
-
 }
-
 </script>
 
 <!-- Facebook Pixel Code -->
@@ -75,17 +73,7 @@ function myScripts() {
 		gtag('config', 'AW-965442346');
 	</script>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-   <!-- Hotjar Tracking Code for https://www.dedicateddevelopers.com -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:2871779,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
+   
     </head>
     <body class="loading">
 	<!-- Google Tag Manager (noscript) -->
@@ -93,6 +81,5 @@ function myScripts() {
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<!-- End Google Tag Manager (noscript) -->
         <header>
-            <?php //require_once('header-top-lp.php'); ?>
-            <?php require_once('main-top-nav.php'); ?>
-        </header>
+            <?php require_once('header-top-lp-newyork.php'); ?>
+         </header>

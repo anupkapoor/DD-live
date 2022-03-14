@@ -100,7 +100,7 @@ color: #ffffff;
 										<form class="moonray-form-clearfix shadow" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 class="text-center">Book a Free Strategy Session for your Web/Mobile App Project:</h3></div>
+													<h3 class="text-center">Request a Free Strategy Session for your Web/Mobile App Project:</h3></div>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
 												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
@@ -219,7 +219,7 @@ color: #ffffff;
 				<div class="container-fluid">
 					<div class="container">
 					
-					<div class="row mt-3">
+					<div class="row">
 						<div class="col-lg-2 col-sm-3"><img src="<?php echo BASE_URL ?>/images/greg-h.png" alt="Greg" class="img-fluid max-width-250" /></div>
 						<div class="col-lg-10 col-sm-9 "><p>"Dedicated Developers team helped us develop custom Splash web apps for our super high-end clients including <strong>Spotify, Facebook, Condé Nast, General Electric, Expedia and Uber</strong>. With their help, we've grown our software business to <strong>$20,000,000+ in recurring revenue</strong> and over 800 clients."</p>
 <p><strong>- Greg Higgins</strong><br /><strong>Vice President, SplashThat.com</strong></p>
@@ -1521,7 +1521,7 @@ color: #ffffff;
 										<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 style="font-size:26px;">Book a Free Strategy Session for your Web/Mobile App Project:</h3></div>
+													<h3 style="font-size:26px;">Request a Free Strategy Session for your Web/Mobile App Project:</h3></div>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
 												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
@@ -1741,7 +1741,7 @@ color: #ffffff;
 										<form class="moonray-form-clearfix shadow" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 class="text-center">Book a Free Strategy Session for your Web/Mobile App Project:</h3></div>
+													<h3 class="text-center">Request a Free Strategy Session for your Web/Mobile App Project:</h3></div>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
 												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>

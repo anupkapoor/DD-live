@@ -1,9 +1,9 @@
 <?php include "../../config.php"; ?>
-	<?php include "../../header-lp.php"; ?>
+	<?php include "../../header-lp-newyork.php"; ?>
 		<!-- Home -->
-		<div class="landing-page-v">
+		<div class="landing-page-v ">
 			<!-- Client Logos Section -->
-			<section class="section-1-lp  py-5 my-4">
+			<section class="section-1-lp newyork py-5 my-4">
 				<div class="container-fluid">
 					<div class="container">
 						<div class="row ">
@@ -142,9 +142,9 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
      <p class="text-center"><span style="color: #1e6ebe; font-size:30px">Our Valued New York Based Clients</span></p>
-	 <img src="<?php echo BASE_URL ?>/images/client-logos-2-lp.png" alt="Client Logos" class="img-fluid" />
+	 <img src="<?php echo BASE_URL ?>/images/client-logos-2-lp-newyork.png" alt="Client Logos" class="img-fluid" />
 	 <p class="text-center mt-5">Our Valued Clients Globally</p>
-       <img src="<?php echo BASE_URL ?>/images/client-logos-1-lp.png" alt="Client Logos" class="img-fluid" />
+       <img src="<?php echo BASE_URL ?>/images/client-logo1-newyork.png" alt="Client Logos" class="img-fluid" />
     </div>
     
    
@@ -163,14 +163,15 @@
 								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In New York</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
 						</div>
 						<div class="row pt-5 py-4">
-							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>Demand Products, Alpharetta, GA</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo2" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2.png" alt="Play Testimonial" />
-				  </a><p class="text-center mt-2 mb-0"><strong>Robert Hagerman Consulting, Cumming, GA</strong></p> </div>
+							<div class=" col-md-6 bot-margin-add"> <a id="showVideo6" class="video-testimonial-btn" title="What Our Clients Say"> 
+					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-6.png" alt="Play Testimonial" />
+				  </a> <p class="text-center mt-2 mb-0"><strong>SplashThat, NewYork, NY</strong></p></div>
+							<div class=" col-md-6"> <a id="showVideo7" class="video-testimonial-btn" title="What Our Clients Say"> 
+					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-7.png" alt="Play Testimonial" />
+				  </a><p class="text-center mt-2 mb-0"><strong>Paddle Partner, Hicksville, NY </strong></p> </div>
 						</div>
-						<div class="row pb-4">
+						
+						<!--<div class="row pb-4">
 							
 				  <div class=" col-md-6 bot-margin-add"> <a id="showVideo1" class="video-testimonial-btn" title="What Our Clients Say"> 
 					 <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-1.png" alt="Play Testimonial" />
@@ -178,7 +179,9 @@
 							<div class=" col-md-6"> <a id="showVideo4" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-4.png" alt="Play Testimonial" />
 				  </a> <p class="text-center mt-2 mb-0"><strong>ROC Cabinetry, Norcross, GA</strong></p></div>
-						</div>
+						</div>-->
+
+
 					</div>
 					<div class="video-testimonial-root">
 						<div class="video-front" id="opened-video"></div><a id="close-video"> X </a></div>
@@ -189,7 +192,7 @@
 					<div class="container px-4">
 						<div class="row pb-4">
 							<div class="col">
-								<h2 class="text-center">We Love Helping Our New York Neighbors But... <br /><span style="color: #1e6ebe;">We’ve Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
+								<h2 class="text-center">We Love Helping Our New York Neighbors But... <br /><span style="color: #1e6ebe;">We've Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
 							</div>
 						</div>
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -426,7 +429,7 @@
 													</div>
 													<div class="row">
 														<div class="col pt-3">
-															<p>I'm getting $55,000 to $75,000 in services a year for $1,000 a month. More importantly, I’m less stressed, I have more free time and my appointments are consistently filled … there’s no doubt working with Dedicated Developers has been a great success.</p>
+															<p>I'm getting $55,000 to $75,000 in services a year for $1,000 a month. More importantly, I’m less stressed, I have more free time and my appointments are consistently filled … there's no doubt working with Dedicated Developers has been a great success.</p>
 														</div>
 													</div>
 												</div>
@@ -485,63 +488,46 @@
 				<div class="container-fluid pb-1">
 					<div class="container">
 						<h2 class="pb-2">Your New York-Based Development Team <br />with a Worldwide Reach</h2>
-                        <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
+						<p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
-                        
-                        	<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/images/vishal-lp.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vishal B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Alpharetta, GA</strong></p>
+							<div class="col-md-4  text-center">
+							<img src="images/marti_b.jpg" class="rounded-circle"  />
+							<p class="text-white"><strong>Martí B.</strong><br />Senior UI/UX Designer<br /><strong>Albany, NY</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/vikas_b.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vikas B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Marietta, GA</strong></p>
+							<div class="col-md-4  text-center">
+							<img src="images/vinay_k.jpg" class="rounded-circle" />
+							<p class="text-white"><strong>Vinay K. </strong><br />Principal Mobile App Developer<br><strong>Buffalo, NY</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Rajesh K.</strong>
-									<br />Principal Backend Developer<br><strong>New York, GA</strong></p>
+							<div class="col-md-4  text-center">
+							<img src="images/manju_m.jpg" class="rounded-circle" />
+							<p class="text-white"><strong>Manjunath M. </strong>
+								<br />Principal Backend Developer<br><strong>Auburn, NY</strong>
+							</p>
 							</div>
-                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Dominic C.</strong>
-									<br />CRM Engineer<br><strong>New York, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Karen K.</strong>
-									<br />Senior Software Developer<br><strong>New York, GA</strong></p>
-							</div>
-                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Manoj K.</strong>
-									<br />Principal Developer<br><strong>Marietta, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/thora_toft.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Thora T.</strong>
-									<br />Senior UI/UX Designer <br><strong>Roswell, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/varinder-pal.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Varinder P.</strong>
-									<br />Senior Web Developer<br><strong>Alpharetta, GA</strong></p>
-							</div>
-                            <div class="col text-center"> <img src="images/harsimran-singh.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Harsimran S.</strong>
-									<br />Senior Software Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/sharanjeet.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Sharanjit S.</strong>
-									<br />Senior QA Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							
-							
-							
-							
-							
-							
-							
 						</div>
-						<!-- <div class="row">
-							<div class="col text-center pt-3 pb-0"><a href="#" class="outline-btn-lp">View All</a></div>
-						</div> -->
+						<div class="row">
+							<div class="col-md-4  text-center">
+							<img src="images/anweshan_p.jpg" class="rounded-circle" />
+							<p class="text-white"><strong>Anweshan P.</strong>
+								<br />Senior Software Developer<br><strong>Hudson, NY</strong>
+							</p>
+							</div>
+							<div class="col-md-4  text-center">
+							<img src="images/arjun_r.jpg" class="rounded-circle" />
+							<p class="text-white"><strong>Arjun R. </strong>
+								<br />Senior React Developer<br><strong>Ithaca, NY</strong>
+							</p>
+							</div>
+							<div class="col-md-4  text-center">
+							<img src="images/lekha_k.jpg" class="rounded-circle" />
+							<p class="text-white"><strong>Lekha V. </strong>
+								<br />Senior Angular Developer<br><strong>Long Beach, NY</strong>
+							</p>
+							</div>
+						</div>
 					</div>
 				</div>
-		</section>
+			</section>
 		<section class="section-6-lp gradient-section-lp pt-5 pb-0 mb-5">
 			<div class="container-fluid">
 				<div class="container">
@@ -602,16 +588,18 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Doctors Beyond</strong></p>
 									<p>A telemedicine app to allow patients unlimited access to Doctors, anytime and anywhere.</p>
-									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">New York, GA</p>
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+									<p class="map-location">Atlanta, GA</p>
 								</div>
 							</div>
-								<img src="images/doctorsbeyond_thumb.jpg" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/doctorsbeyond_thumb.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
 					</a>
-				</li> 
+				</li>
+				
+				
 				<li>
 						<a href="<?php echo PORTFOLIO_URL ?>/numinav/" target="_blank">
 							<p class="portfolio-title-black">Numinav</p>
@@ -619,11 +607,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Numinav</strong></p>
 									<p>Next level ride sharing app</p>
-									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">New York, GA</p>
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+									<p class="map-location">Atlanta, GA</p>
 								</div>
 							</div>
-								<img src="images/portfolio-listing-13.jpg" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-13.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -636,11 +624,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>KLS Dating App</strong></p>
 									<p>KLS helps people become the best versions of themselves</p>
-									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">New York, GA</p>
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+									<p class="map-location">Atlanta, GA</p>
 								</div>
 							</div>
-								<img src="images/portfolio-listing-11.jpg" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-11.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -653,11 +641,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Cut Time</strong></p>
 									<p>Cut Time is an app that allows service based businesses</p>
-									<img src="images/map-location.png" alt=""  />
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
 									<p class="map-location">Hoover, AL</p>
 								</div>
 							</div>
-								<img src="images/portfolio-listing-12.jpg" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-12.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -670,11 +658,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Demand Products</strong></p>
 									<p>Specialists in Tools & Equipment for Foam Installation</p>
-									<img src="images/map-location.png" alt=""  />
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
 									<p class="map-location">Alpharetta, GA</p>
 								</div>
 							</div>
-								<img src="images/portfolio-listing-10.jpg" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-10.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -687,11 +675,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Corning® Gorilla® Glass</strong></p>
 									<p>Notification app for large conference</p>
-									<img src="images/map-location.png" alt=""  />
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
 									<p class="map-location">New York, NY</p>
 								</div>
 							</div>
-								<img src="images/portfolio-listing-14.jpg" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-14.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -704,11 +692,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Shuttle Rydez</strong></p>
 									<p>Automotive Dealership Shuttle Management System</p>
-									<img src="images/map-location.png" alt=""  />
+									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
 									<p class="map-location">Vancouver, Canada</p>
 								</div>
 							</div>
-								<img src="images/shuttle-rydez-thumb.png" alt="" class="responsive-img" /> 
+								<img src="<?php echo BASE_URL; ?>/atlanta/images/shuttle-rydez-thumb.png" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -720,11 +708,27 @@
 										<div class="portfolio-hover-content">
 											<p><strong>Audvisor Sound Advice</strong></p>
 											<p>Micro-podcasts that are filled with actionable insights from various world-class experts</p>
-											<img src="images/map-location.png" alt=""  />
+											<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
 											<p class="map-location">SanFranscisco, CA</p>
 										</div>
 									</div>
-										<img src="images/audvisor_thumbnail.png" alt="Audvisor Sound Advice" class="responsive-img" /> 
+										<img src="<?php echo BASE_URL; ?>/atlanta/images/audvisor_thumbnail.png" alt="Audvisor Sound Advice" class="responsive-img" /> 
+									<div>
+										
+									</div>
+							</a>
+						</li>
+						<li><a href="<?php echo PORTFOLIO_URL ?>/trick-it-out-lacrosse/" target="_blank">
+									<p class="portfolio-title-black" style="color:#ffffff">Trick It Out Lacrosse</p>
+									<div class="portfolio-hover">
+										<div class="portfolio-hover-content">
+											<p><strong>Trick It Out Lacrosse</strong></p>
+											<p class="font-size-16">Fastest way to learn how the<br>best LAX players perform.</p>
+											<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+											<p class="map-location">New York, NY</p>
+										</div>
+									</div>
+										<img src="<?php echo BASE_URL; ?>/atlanta/images/tios-thumbnail.jpg" alt="Trick It Out Lacrosse" class="responsive-img" /> 
 									<div>
 										
 									</div>
@@ -906,16 +910,17 @@
 					</div>
 			</section>
 			
-			<section class="section-12-lp black-bg-v pb-0 mt-0 ">
+			<section class="section-12-lp black-bg-v pb-0 mt-0">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12 m-auto text-center pt-0">
 								<h2 class="text-center pt-3">App Development Expertise</h2>
 <!--								<p class="pt-3">Our expert developers are up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p> -->
-                                    <p class="pt-3">One of New York’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
+                                    <p class="pt-3">One of Atlanta’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
 							</div>
 						</div>
 					</div>
+					
 					<div class="container">
 						<div class="row pb-0">
 							<div class="col-md-12 m-auto text-center pt-4 pb-0 mb-0">
@@ -934,86 +939,88 @@
 								<div class="tab-content" id="nav-tabContent">
 								  <div class="tab-pane fade show active" id="tab-ios" role="tabpanel" aria-labelledby="nav-icon-1-tab">
 									  <ul>
-										  <li><img alt="tab-ios" src="images/1.png" /><p>Swift</p></li>
-										  <li><img alt="tab-ios"  src="images/2.png" /><p>Objective-C</p></li>
-										  <li><img alt="tab-ios"  src="images/3.png" /><p>X-Code</p></li>
-										  <li><img alt="tab-ios"  src="images/4.png" /><p>Touch Id</p></li>
-										  <li><img alt="tab-ios"  src="images/5.png" /><p>React Native</p></li>
-										  <li><img alt="tab-ios"  src="images/6.png" /><p>Flutter</p></li>
-										  <li><img alt="tab-ios"  src="images/7.png" /><p>AFNetwork</p></li>
+										  <li><img alt="tab-ios" src="<?php echo BASE_URL; ?>/atlanta/images/1.png" /><p>Swift</p></li>
+										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/2.png" /><p>Objective-C</p></li>
+										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/3.png" /><p>X-Code</p></li>
+										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/4.png" /><p>Touch Id</p></li>
+										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/5.png" /><p>React Native</p></li>
+										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/6.png" /><p>Flutter</p></li>
+										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/7.png" /><p>AFNetwork</p></li>
 									  </ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-android" role="tabpanel" aria-labelledby="nav-icon-2-tab">
 									<ul>
-										<li><img  alt="android-icon" src="images/8.png" /><p>Java</p></li>
-										<li><img alt="android-icon" src="images/9.png" /><p>Android Wear</p></li>
-										<li><img alt="android-icon" src="images/10.png" /><p>Kotlin</p></li>
-										<li><img alt="android-icon" src="images/11.png" /><p>React Native</p></li>
-										<li><img alt="android-icon" src="images/12.png" /><p>Flutter</p></li>
+										<li><img  alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/8.png" /><p>Java</p></li>
+										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/9.png" /><p>Android Wear</p></li>
+										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/10.png" /><p>Kotlin</p></li>
+										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/11.png" /><p>React Native</p></li>
+										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/12.png" /><p>Flutter</p></li>
 									</ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-hybrid" role="tabpanel" aria-labelledby="nav-icon-3-tab">
 									<ul>
-										<li><img alt="hybrid-icon" src="images/13.png" /><p>Phone Gap</p></li>
-										<li><img alt="hybrid-icon" src="images/14.png" /><p>HTML5</p></li>
-										<li><img alt="hybrid-icon" src="images/15.png" /><p>Hybrid</p></li>
-										<li><img alt="hybrid-icon" src="images/16.png" /><p>Angular Js</p></li>
-										<li><img alt="hybrid-icon" src="images/17.png" /><p>Sencha Touch</p></li>
+										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/13.png" /><p>Phone Gap</p></li>
+										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/14.png" /><p>HTML5</p></li>
+										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/15.png" /><p>Hybrid</p></li>
+										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/16.png" /><p>Angular Js</p></li>
+										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/17.png" /><p>Sencha Touch</p></li>
 									</ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-wearable" role="tabpanel" aria-labelledby="nav-icon-4-tab">
 									  <ul>
-											<li><img alt="wearable-icon" src="images/18.png" /><p>Fitness Tracker</p></li>
-											<li><img alt="wearable-icon" src="images/19.png" /><p>Android Wear</p></li>
-											<li><img alt="wearable-icon" src="images/20.png"/><p>Apple Watch</p></li>
+											<li><img alt="wearable-icon" src="<?php echo BASE_URL; ?>/atlanta/images/18.png" /><p>Fitness Tracker</p></li>
+											<li><img alt="wearable-icon" src="<?php echo BASE_URL; ?>/atlanta/images/19.png" /><p>Android Wear</p></li>
+											<li><img alt="wearable-icon" src="<?php echo BASE_URL; ?>/atlanta/images/20.png"/><p>Apple Watch</p></li>
 									  </ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-web" role="tabpanel" aria-labelledby="nav-icon-5-tab">
 										<ul>
-											<li><img alt="web-icon" src="images/21.png" /><p>CSS3</p></li>
-											<li><img alt="web-icon" src="images/22.png" /><p>HTML5</p></li>
-											<li><img alt="web-icon" src="images/23.png" /><p>Angular JS</p></li>
-											<li><img alt="web-icon" src="images/24.png" /><p>Java</p></li>
-											<li><img alt="web-icon" src="images/25.png" /><p>Bootstrap</p></li>
-											<li><img alt="web-icon" src="images/26.png" /><p>WordPress</p></li>
+											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/21.png" /><p>CSS3</p></li>
+											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/22.png" /><p>HTML5</p></li>
+											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/23.png" /><p>Angular JS</p></li>
+											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/24.png" /><p>Java</p></li>
+											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/25.png" /><p>Bootstrap</p></li>
+											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/26.png" /><p>WordPress</p></li>
 										</ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-ui" role="tabpanel" aria-labelledby="nav-icon-6-tab">
 									  <ul>
-										  <li><img alt="ui-icon" src="images/27.png" /><p>Invision</p></li>
-										  <li><img alt="ui-icon" src="images/27b.png" /><p>SKetch</p></li>
-										  <li><img alt="ui-icon" src="images/28.png" /><p>Illustrator</p></li>
-										  <li><img alt="ui-icon" src="images/29.png" /><p>Photoshop</p></li>
-										  <li><img alt="ui-icon" src="images/30.png" /><p>Zeplin</p></li>
-										  <li><img alt="ui-icon" src="images/31.png" /><p>Balsamiq</p></li>
-										  <li><img alt="testing-icon" src="images/32.png" /><p>Axure</p></li>
+										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/27.png" /><p>Invision</p></li>
+										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/27b.png" /><p>SKetch</p></li>
+										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/28.png" /><p>Illustrator</p></li>
+										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/29.png" /><p>Photoshop</p></li>
+										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/30.png" /><p>Zeplin</p></li>
+										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/31.png" /><p>Balsamiq</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/32.png" /><p>Axure</p></li>
 									  </ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-testing" role="tabpanel" aria-labelledby="nav-icon-7-tab">
 									  <ul>
-										  <li><img alt="testing-icon" src="images/33.png" /><p>Selenium</p></li>
-										  <li><img alt="testing-icon" src="images/34.png" /><p>jMeter </li>
-										  <li><img alt="testing-icon" src="images/35.png" /><p>QTP</p></li>
-										  <li><img alt="testing-icon" src="images/36.png" /><p>Jira</p></li>
-										  <li><img alt="testing-icon" src="images/37.png" /><p>Bugzila</p></li>
-										  <li><img alt="testing-icon" src="images/38.png" /><p>Appium</p></li>
-										  <li><img alt="testing-icon" src="images/39.png" /><p>Tsung</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/33.png" /><p>Selenium</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/34.png" /><p>jMeter </li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/35.png" /><p>QTP</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/36.png" /><p>Jira</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/37.png" /><p>Bugzila</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/38.png" /><p>Appium</p></li>
+										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/39.png" /><p>Tsung</p></li>
 									  </ul>
 								  </div>
-								  <div class="tab-pane fade" id="tab-database" role="tabpanel" aria-labelledby="nav-icon-8-tab">
-									  <ul>
-										  <li><img  src="images/40.png" alt="database-icon" /><p>PostgreSQL</p></li>
-										  <li><img alt="database-icon" src="images/41.png" /><p>Firebase</p></li>
-										  <li><img alt="database-icon" src="images/42.png" /><p>DynamoDB</p></li>
-										  <li><img alt="database-icon" src="images/43.png" /><p>Mongo DB</p></li>
-										  <li><img alt="database-icon" src="images/44.png" /><p>Mariadb</p></li>
-										  <li><img alt="database-icon" src="images/45.png" /><p>MySQL</p></li>
+								  <div class="tab-pane fade" id="tab-database" role="tabpanel" aria-labelledby="nav-icon-8-tab" >
+									   
+									   <ul>
+										  <li><img  src="<?php echo BASE_URL; ?>/atlanta/images/40.png" alt="database-icon" /><p>PostgreSQL</p></li>
+										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/41.png" /><p>Firebase</p></li>
+										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/42.png" /><p>DynamoDB</p></li>
+										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/43.png" /><p>Mongo DB</p></li>
+										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/44.png" /><p>Mariadb</p></li>
+										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/45.png" /><p >MySQL</p></li>
 									  </div>
 									  </ul>
+									 
 								  </div>
 							</div>
 						</div>
-					</div>
+					</div><div id="why-choose-dd" style="clear:both; width:100%; float:left;">&nbsp;</div>
 			</section>
 			
 		<!-- Why Choose Dedicated developers Block -->
@@ -1371,21 +1378,9 @@
 							<div class="bottom-buttons"><button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNewMobile" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fas fa-chevron-left"></i></span> <span class="visually-hidden">Previous</span> </button>
 							<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsNewMobile" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"><i class="fas fa-chevron-right"></i></span> <span class="visually-hidden">Next</span> </button>
 						    </div>
-						</div>
-						
-						
-						
-						
+						</div> 
 					</div>
-				</div>
-        
-        
-        
-        
-        
-        
-        
-			
+				</div> 
 		</section>
 		<section class="section-13-lp gradient-section-lp pt-5 pb-3 mb-0">
 			<div class="container-fluid">
@@ -1553,7 +1548,7 @@
 										Monday thru Friday<br />
 										08:00 AM - 06:00 PM<br />
 										Phone: (770) 274-4482<br />
-										Email: New York@DedicatedDevelopers.com</p>
+										Email: NewYork@DedicatedDevelopers.com</p>
 									</div>
 								</div>
 							</div>
@@ -1687,18 +1682,13 @@
 											</div>
 										</form>
 									</div>
-								</div>
+			</div>
       </div>
     
     </div>
   </div>
 </div>
- 
-
-
-
-
-		<?php require_once "../../footer-landing.php"; ?>
+ <?php require_once "../../footer-landing.php"; ?>
 <style>.footer-bottom .section-2 a.request-quote{height: 56px; text-decoration:none; padding:0;line-height:56px}</style>
 		<!-- Button trigger modal -->
  

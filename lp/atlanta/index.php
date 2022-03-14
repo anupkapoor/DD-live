@@ -1,5 +1,5 @@
-<?php include "config.php"; ?>
-	<?php include "header-lp-atlanta.php"; ?>
+<?php include "../../config.php"; ?>
+	<?php include "../../header-lp-atlanta.php"; ?>
 		<!-- Home -->
 		<style>
 		.section-12-lp ul {padding-left:0;}
@@ -13,59 +13,12 @@
 		    #neil-nav ul {
     padding: 0;
 }
-
-.section-1-lp h1 {font-size: 40px;}
-.section-1-lp p,.section-1-lp p span,.section-1-lp p strong {font-size: 18px;}
-.section-1-lp p.font-size-22px,.section-1-lp p.font-size-22px span,.section-1-lp p.font-size-22px strong {font-size: 22px;}
-span.blue-color-text {color: #1e6ebe;}
-
-
-.moonray-form.form-landing-page #mr-field-element-967502111092, .moonray-form.form-landing-page2 #mr-field-element-967502111092 {
-	 box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38);
--webkit-box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38);
--moz-box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38);
-	border: 0;
-	 border-radius: 5px; 
-	color: #ffffff;
-	cursor: pointer;
-	font-size: 20px;
-	height: 52px;
-	line-height: 52px;
-	max-width: 100%;
-	padding: 0;
-	width: 100%;
-	font-family: ralewaybold;
-	margin-top: 0;
-	
-	 background: rgb(251,132,57);
-background: -moz-linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%);
-background: -webkit-linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%);
-background: linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fb8439",endColorstr="#fd541d",GradientType=1);
-
-}
-
-.moonray-form.form-landing-page #mr-field-element-967502111092:hover,  .moonray-form.form-landing-page2 #mr-field-element-967502111092:hover {
-	 
-	
-	 background: rgb(253,84,29,1);
-background: -moz-linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%);
-background: -webkit-linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%);
-background: linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fb8439",endColorstr="#fd541d",GradientType=1);
-border: 0;
-color: #ffffff;
-}
-
-
-
 @media screen and (max-width: 700px) {
 .landing-page-v {padding-top: 112px;}
 }
 
-@media screen and (max-width: 576px) {
- .max-width-250{max-width:250px; width:96%; margin:0 auto 30px; }
-}
+ 
+
 @media screen and (max-width: 479px) {
 	
  .section-12-lp ul {
@@ -85,12 +38,9 @@ color: #ffffff;
 					<div class="container">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
-								<p class="font-size-22px"><strong>Are You Frustrated Dealing With Incompetent App Developers OR Just Confused Whom To Hire? <span class="word-break"> If Yes... Then Meet:</span></strong></p>
-								<h1><span>America's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
-								
-								<p class="font-size-22px" >Book your <strong><span class="blue-color-text">Free Strategy Session</strong></span> now to discover how to <strong>transform your idea into a successful app</strong> business using the <strong>exact 6 step-process</strong> that our <strong>start-up founder clients</strong> have used to turn their <strong>idea into a software empire</strong>. </p>
-								
-								<p>We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco, Los Angeles, New York, Chicago</strong> and <strong>Boston</strong>. We look forward to meeting you in person at one of our offices OR over a Zoom Call to turn your app idea into a multi-million dollar business. </p>
+								<p><strong>Are You Frustrated Dealing With Incompetent App Developers OR Just Confused Whom To Hire? If Yes... Then Meet:<span class="word-break">If Yes... Then Meet:</span></strong></p>
+								<h1><span>Atlanta's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
+								<p>Our local development team looks forward to meeting you in person at our office in Alpharetta, GA to turn your app idea into a multi-million dollar business.</p>
 							</div>
 							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
 								
@@ -100,7 +50,7 @@ color: #ffffff;
 										<form class="moonray-form-clearfix shadow" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 class="text-center">Book a Free Strategy Session for your Web/Mobile App Project:</h3></div>
+													<h3 class="text-center">Request a Quote for your<br /> Web/Mobile App Project</h3></div>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
 												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
@@ -139,9 +89,9 @@ color: #ffffff;
 													<option value="438">Greater than $250,000</option>
 												</select>
 											</div>
-									 <div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
+									 
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
-												<input type="submit" name="submit-button" value="Schedule a Time >>" class="moonray-form-input" id="mr-field-element-967502111092">
+												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
 												<input name="afft_" type="hidden" value="" />
@@ -214,54 +164,19 @@ color: #ffffff;
 					</div>
 				</div>
 			</section>
-			
 			<section class="section-2-lp border-top-1px-lp">
 				<div class="container-fluid">
-					<div class="container">
-					
-					<div class="row mt-3">
-						<div class="col-lg-2 col-sm-3"><img src="<?php echo BASE_URL ?>/images/greg-h.png" alt="Greg" class="img-fluid max-width-250" /></div>
-						<div class="col-lg-10 col-sm-9 "><p>"Dedicated Developers team helped us develop custom Splash web apps for our super high-end clients including <strong>Spotify, Facebook, Condé Nast, General Electric, Expedia and Uber</strong>. With their help, we've grown our software business to <strong>$20,000,000+ in recurring revenue</strong> and over 800 clients."</p>
-<p><strong>- Greg Higgins</strong><br /><strong>Vice President, SplashThat.com</strong></p>
-</p></div>
-					</div>
-   
-					  <div id="clientLogolp" class="carousel slide carousel-fade" data-bs-ride="carousel">
-					  <div class="carousel-inner">
-						<div class="carousel-item active">
-						  
-						 <p class="text-center mt-5">Our clients include Global Brands, Silicon Valley Founders</p>
-						   <img src="<?php echo BASE_URL ?>/images/client-logos-1-lp.png" alt="Client Logos" class="img-fluid" />
-						</div>
-						
-					   
-					  </div>
-					 
-					</div>
-					   
-					</div>
+					<?php require_once "client-logos-lp.php"; ?>
 				</div>
 			</section>
-			
-			
 			<section class="section-3-lp gray-section-lp py-5">
 				<div class="container-fluid">
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<h2 class="text-center" style="font-size:40px;">What Our <span style="color: #1e6ebe;">Clients</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers</span> Local Development Team</h2> </div>
+								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In Atlanta</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
 						</div>
-						
-						
-						
 						<div class="row pt-5 py-4">
-							<div class=" col-md-6 bot-margin-add"> <a id="showVideo6" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-6.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>SplashThat, NewYork, NY</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo7" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-7.png" alt="Play Testimonial" />
-				  </a><p class="text-center mt-2 mb-0"><strong>Paddle Partner, Hicksville, NY </strong></p> </div>
-						</div><div class="row pt-5 py-4">
 							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3.png" alt="Play Testimonial" />
 				  </a> <p class="text-center mt-2 mb-0"><strong>Demand Products, Alpharetta, GA</strong></p></div>
@@ -269,7 +184,15 @@ color: #ffffff;
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2.png" alt="Play Testimonial" />
 				  </a><p class="text-center mt-2 mb-0"><strong>Robert Hagerman Consulting, Cumming, GA</strong></p> </div>
 						</div>
-						 
+						<div class="row pb-4">
+							
+				  <div class=" col-md-6 bot-margin-add"> <a id="showVideo1" class="video-testimonial-btn" title="What Our Clients Say"> 
+					 <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-1.png" alt="Play Testimonial" />
+					</a> <p class="text-center mt-2 mb-0"><strong>Know Longer Single, Buckhead, GA</strong></p></div>
+							<div class=" col-md-6"> <a id="showVideo4" class="video-testimonial-btn" title="What Our Clients Say"> 
+					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-4.png" alt="Play Testimonial" />
+				  </a> <p class="text-center mt-2 mb-0"><strong>ROC Cabinetry, Norcross, GA</strong></p></div>
+						</div>
 					</div>
 					<div class="video-testimonial-root">
 						<div class="video-front" id="opened-video"></div><a id="close-video"> X </a></div>
@@ -280,7 +203,7 @@ color: #ffffff;
 					<div class="container px-4">
 						<div class="row pb-4">
 							<div class="col">
-								<h2 class="text-center">We’ve Also Helped Companies In More Than <span style="color: #1e6ebe;"><br />25 Countries Launch The Web & Mobile Apps </span> They Needed To Succeed</h2>
+								<h2 class="text-center">We Love Helping Our Atlanta Neighbors But... <br /><span style="color: #1e6ebe;">We’ve Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
 							</div>
 						</div>
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -575,7 +498,7 @@ color: #ffffff;
 			<section class="section-5-lp  py-5">
 				<div class="container-fluid pb-1">
 					<div class="container">
-						<h2 class="pb-2">Your US Based Development Team <br />with a Worldwide Reach</h2>
+						<h2 class="pb-2">Your Atlanta-Based Development Team <br />with a Worldwide Reach</h2>
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
@@ -850,7 +773,7 @@ color: #ffffff;
 							<h2 class="text-center">How We Work</h2>
 						</div>
 						<div class="col-md-12 col-lg-6">
-							<p>With Dedicated Developers you get the best of both worlds – US-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced team will keep you well informed as we turn your app idea into a customer getting profit machine. <br><strong style="font-size: 18px;">With Dedicated Developers you enjoy:</strong></p>
+							<p>With Dedicated Developers you get the best of both worlds – Atlanta-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced Atlanta team will keep you well informed as we turn your app idea into a customer getting profit machine. <br><strong style="font-size: 18px;">With Dedicated Developers you enjoy:</strong></p>
 						</div>
 					</div>
 				</div>
@@ -878,7 +801,7 @@ color: #ffffff;
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
 									<ul>
-									   <li>US Based Delivery Team</li>
+									   <li>Atlanta Based Delivery Team</li>
 										<li>Up-to-date on latest technology</li>
 										<li>Suggest app improvements</li>
 										<li>Deliver highest quality in shortest time</li>
@@ -932,7 +855,7 @@ color: #ffffff;
 					<div class="container">
 						<div class="row py-3">
 							<div class="col-md-12">
-									<h2 class="text-center">Mobile App Development Services</h2>
+									<h2 class="text-center">Mobile App Development Services <br />In Atlanta</h2>
 							</div>
 						</div>
 						<div class="row pb-3">
@@ -1021,7 +944,7 @@ color: #ffffff;
 							<div class="col-md-12 m-auto text-center pt-0">
 								<h2 class="text-center pt-3">App Development Expertise</h2>
 <!--								<p class="pt-3">Our expert developers are up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p> -->
-                                    <p class="pt-3">One of US’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
+                                    <p class="pt-3">One of Atlanta’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
 							</div>
 						</div>
 					</div>
@@ -1521,7 +1444,7 @@ color: #ffffff;
 										<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 style="font-size:26px;">Book a Free Strategy Session for your Web/Mobile App Project:</h3></div>
+													<h3>Request a Quote for your Web/Mobile App Project</h3></div>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
 												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
@@ -1565,10 +1488,8 @@ color: #ffffff;
 													<p>By submitting this form, you agree to our&nbsp;<a href="https://dedicateddevelopers.com/terms-conditions/" target="_blank">Terms of Service</a> and <a href="https://dedicateddevelopers.com/privacy-policy/" target="_blank">Privacy Policy</a></p>
 												</div>
 											</div> -->
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
-											
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
-												<input type="submit" name="submit-button" value="Schedule a Time >>" class="moonray-form-input" id="mr-field-element-967502111092" src/>
+												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
 												<input name="afft_" type="hidden" value="" />
@@ -1644,84 +1565,36 @@ color: #ffffff;
 			<section class="section-14-lp py-5">
 				<div class="container-fluid ">
 					<div class="container">
-						 <div class="row">
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								  <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Atlanta</strong><br /> 
+						 <div class="row py-4">
+							<div class="col-12 col-sm-12 col-md-6 col-lg-6">
+								 <div class="row address-block-lp p-4">
+									<div class="col-sm-4 col-md-3 p-4">
+										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" />
+									</div>
+									<div class="col-sm-8  col-md-9 px-4 pt-4">
+										<p><strong>Atlanta</strong><br /> 
 										Dedicated Developers<br />
 										2300 Lakeview Parkway, Suite 700,<br />
 										Alpharetta GA 30009<br />
 										Phone: (770) 274-4482</p>
 									</div>
-							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>New York</strong><br /> 
-										Dedicated Developers<br />
-										275 Seventh Ave, 7th Floor,<br />
-										New York, NY 10001<br />
-										Phone: (646) 504-4982</p>
+								</div>
+								<div class="row address-block-lp  p-4">
+									<div class="col-sm-4 col-md-3 p-4">
+										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon2.png" alt="DD address" />
 									</div>
-							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>San Francisco</strong><br /> 
-										Dedicated Developers<br />
-										1390 Market Street, Suite 200,<br />
-										San Francisco, CA 94102<br />
-										Phone: (415) 992-7442</p>
+									<div class="col-sm-8 col-md-9 px-4 pt-4">
+										<p><strong>Hours of Operation</strong><br />
+										Monday thru Friday<br />
+										08:00 AM - 06:00 PM<br />
+										Phone: (770) 274-4482<br />
+										Email: Atlanta@DedicatedDevelopers.com</p>
 									</div>
+								</div>
 							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Los Angeles</strong><br /> 
-										Dedicated Developers<br />
-										10880 Wilshire Blvd #1101,<br />
-										Los Angeles, CA 90024<br />
-										Phone: (310) 412-0043</p>
-									</div>
+							<div class="col-12 col-sm-12 col-md-6 col-lg-6 ">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4220248109473!2d-84.2923187847848!3d34.0586942806041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5757346a55555%3A0x1a10aad986184e49!2s2300%20Lakeview%20Pkwy%20%23700a%2C%20Alpharetta%2C%20GA%2030009%2C%20USA!5e0!3m2!1sen!2sin!4v1635862978048!5m2!1sen!2sin" width="100%" height="470" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Chicago</strong><br /> 
-										Dedicated Developers<br />
-										55 E. Monroe Street, Suite 3800,<br />
-										Chicago, IL 60603<br />
-										Phone: (312) 761-4448</p>
-									</div>
-							</div>
-							
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Boston</strong><br /> 
-										Dedicated Developers<br />
-										90 Canal Street, 4th Floor,<br />
-										Boston, MA 02114<br />
-										Phone: (617) 655 9333</p>
-									</div>
-							</div>
-								
-							 
-							</div>
-							 
 						</div>
 					</div>
 				</div>
@@ -1741,7 +1614,7 @@ color: #ffffff;
 										<form class="moonray-form-clearfix shadow" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 class="text-center">Book a Free Strategy Session for your Web/Mobile App Project:</h3></div>
+													<h3 class="text-center">Request a Quote for your <br />Web/Mobile App Project</h3></div>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
 												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
@@ -1780,9 +1653,9 @@ color: #ffffff;
 													<option value="438">Greater than $250,000</option>
 												</select>
 											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
+											
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
-												<input type="submit" name="submit-button" value="Schedule a Time >>" class="moonray-form-input" id="mr-field-element-967502111092">
+												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
 											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
 												<input name="afft_" type="hidden" value="" />
