@@ -262,6 +262,34 @@ $(document).ready(function () {
       );
     jQuery("#close-video").show();
   });
+  
+  
+  /*Rohan Scripts Los Angles Page*/
+  
+  jQuery("#showVideo3r").click(function () {
+    jQuery("#opened-video")
+      .fadeIn()
+      .html(
+        '<div class="center-make"><div class="center-inner-video"><div class="responsive-iframe"><iframe id="video-iframe" src="https://player.vimeo.com/video/686541515?autoplay=1" width="1080" height="608" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>'
+      );
+    jQuery("#close-video").show();
+  });
+  
+  
+  
+  jQuery("#showVideo2r").click(function () {
+    jQuery("#opened-video")
+      .fadeIn()
+      .html(
+        '<div class="center-make"><div class="center-inner-video"><div class="responsive-iframe"><iframe id="video-iframe" src="https://player.vimeo.com/video/657993785?autoplay=1" width="1080" height="608" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>'
+      );
+    jQuery("#close-video").show();
+  });
+  
+  /*Rohan Scripts Los Angles Page Ended*/
+  
+  
+  
   jQuery("#showVideo4").click(function () {
     jQuery("#opened-video")
       .fadeIn()
