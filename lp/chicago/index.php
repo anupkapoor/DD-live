@@ -59,7 +59,7 @@
 													<option value="438">Greater than $250,000</option>
 												</select>
 											</div>
-									 
+									 <div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
 												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
@@ -1455,6 +1455,7 @@
 													<p>By submitting this form, you agree to our&nbsp;<a href="https://dedicateddevelopers.com/terms-conditions/" target="_blank">Terms of Service</a> and <a href="https://dedicateddevelopers.com/privacy-policy/" target="_blank">Privacy Policy</a></p>
 												</div>
 											</div> -->
+											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
 												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
@@ -1620,7 +1621,7 @@
 													<option value="438">Greater than $250,000</option>
 												</select>
 											</div>
-											
+											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
 												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
