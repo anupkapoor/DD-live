@@ -1497,7 +1497,33 @@ h2.portfolio-tagline3.rosellinda {
   font-size: 16px;
 }
 
-/*Responsive View Started 16 November 2021*/
+.landing-page-v .section-12-lp ul {padding-left:0;}
+.landing-page-v .section-7-lp .portfolio-listing .portfolio-hover-content p:nth-child(2){font-size:16px;}
+.landing-page-v .font-size-20px{font-size:20px;}
+.landing-page-v a{text-decoration:none;}
+.landing-page-v {padding-top: 60px;}
+.landing-page-v .mega-menu-block {top: 95px;}
+.landing-page-v .desktop-menu li.hire-developer-menu:hover > a::after , .desktop-menu li.solution-developer-menu:hover > a::after {bottom: -13px;}
+.landing-page-v #neil-nav ul { padding: 0;}
+.landing-page-v .section-1-lp h1 {font-size: 40px;}
+.landing-page-v .section-1-lp p,.section-1-lp p span,.section-1-lp p strong {font-size: 18px;}
+.landing-page-v .section-1-lp p.font-size-22px,.section-1-lp p.font-size-22px span,.section-1-lp p.font-size-22px strong {font-size: 22px;}
+.landing-page-v  span.blue-color-text {color: #1e6ebe;}
+.landing-page-v  .moonray-form.form-landing-page #mr-field-element-967502111092, .landing-page-v  .moonray-form.form-landing-page2 #mr-field-element-967502111092, .orange-button-cta { box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38);
+-webkit-box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38); -moz-box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38); border: 0; border-radius: 5px; 
+	color: #ffffff;	cursor: pointer; font-size: 20px; height: 52px; line-height: 52px; max-width: 100%; padding: 0; width: 100%;font-family: ralewaybold; margin-top: 0; background: rgb(251,132,57); background: -moz-linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%);background: -webkit-linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%);
+background: linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fb8439",endColorstr="#fd541d",GradientType=1);
+}
+
+.landing-page-v  .moonray-form.form-landing-page #mr-field-element-967502111092:hover,  .moonray-form.form-landing-page2 #mr-field-element-967502111092:hover,.orange-button-cta:hover {background: rgb(253,84,29,1); background: -moz-linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%); background: -webkit-linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%); background: linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fb8439",endColorstr="#fd541d",GradientType=1);
+border: 0;color: #ffffff;}
+.landing-page-v .list-style-v57 li{font-size:18px; font-family: "Montserrat"; font-weight: 600; color: #000000; padding: 15px 0px 0px 50px;	background: url(../images/list-icon-lp.png) left 10px no-repeat}   
+.landing-page-v .orange-button-cta{ display:block; text-align:center; margin-top:15px; height: 60px; line-height:60px;}
+.landing-page-v .orange-button-cta.mobile-button-v{display:none;}
+.landing-page-v .orange-button-cta.desktop-button-v{display:block;}
+
+.line-height-1-5 {line-height:1.5;}
+
 @media screen and (max-width: 1300px) {
   .section-4-lp .carousel-control-prev {
     left: 30%;
@@ -1543,6 +1569,11 @@ h2.portfolio-tagline3.rosellinda {
     display: none;
   }
 }
+
+@media screen and (max-width: 1030px) {
+.landing-page-v  .font-size-20px{font-size:17px;}
+}
+
 @media screen and (max-width: 991.25px) {
   .section-1-lp p {
     max-width: 740px;
@@ -1625,6 +1656,12 @@ h2.portfolio-tagline3.rosellinda {
     font-size: 36px;
   }
 }
+
+@media screen and (max-width: 800px) {
+.landing-page-v  .orange-button-cta {font-size:16px;}
+}
+
+
 @media screen and (max-width: 767.25px) {
   .bot-margin-add {
     margin-bottom: 25px !important;
@@ -1692,6 +1729,12 @@ h2.portfolio-tagline3.rosellinda {
   }
 }
 
+@media screen and (max-width: 700px) {
+.landing-page-v {padding-top: 112px;}
+.landing-page-v .orange-button-cta.mobile-button-v{display:block;}
+.landing-page-v .orange-button-cta.desktop-button-v{display:none;}
+}
+
 @media screen and (max-width: 660px) {
   .section-4-lp h2 {
     font-size: 32px;
@@ -1703,6 +1746,17 @@ h2.portfolio-tagline3.rosellinda {
     text-align: center !important;
   }
 }
+
+@media screen and (max-width: 576px) {
+.landing-page-v .max-width-250 {
+	max-width: 150px;
+	width: 96%;
+	margin: 0 auto 30px;
+	border: solid 1px #eee;
+	border-radius: 15px;
+}
+}
+
 @media screen and (max-width: 570px) {
   .section-6-lp-right .section-6-blk,
   .section-6-lp-right .section-6-white {
@@ -1762,6 +1816,17 @@ h2.portfolio-tagline3.rosellinda {
     font-size: 26px;
   }
 }
+
+@media screen and (max-width: 479px) {
+.landing-page-v .section-12-lp ul {
+	margin: 50px auto;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding-left:0;
+}
+}
+
 @media screen and (max-width: 470px) {
   .section-1-lp h1 {
     font-size: 37px;
