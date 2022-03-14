@@ -38,7 +38,7 @@
 					<div class="container">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
-								<p><strong>Are You Frustrated Dealing With Incompetent App Developers OR Just Confused Whom To Hire? If Yes... Then Meet:<span class="word-break">If Yes... Then Meet:</span></strong></p>
+								<p><strong>Are You Frustrated Dealing With Offshore and/or Expensive Incompetent App Developers? <span class="word-break">If Yes... Then Meet:</span></strong></p>
 								<h1><span>Atlanta's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
 								<p>Our local development team looks forward to meeting you in person at our office in Alpharetta, GA to turn your app idea into a multi-million dollar business.</p>
 							</div>
@@ -166,7 +166,7 @@
 			</section>
 			<section class="section-2-lp border-top-1px-lp">
 				<div class="container-fluid">
-					<?php require_once "client-logos-lp.php"; ?>
+					<?php require_once "../../client-logos-lp.php"; ?>
 				</div>
 			</section>
 			<section class="section-3-lp gray-section-lp py-5">
@@ -1733,7 +1733,7 @@
 
 <style>.footer-bottom .section-2 a.request-quote{height: 56px; text-decoration:none; padding:0;line-height:56px}</style>
 
-		<?php require_once "footer-landing.php"; ?>
+		<?php require_once "../../footer-landing.php"; ?>
 
 		<!-- Button trigger modal -->
  

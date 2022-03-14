@@ -1,16 +1,16 @@
 <?php include "../../config.php"; ?>
-	<?php include "../../header-lp-los-angeles.php"; ?>
+	<?php include "../../header-lp.php"; ?>
 		<!-- Home -->
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
 			<section class="section-1-lp  py-5 my-4">
 				<div class="container-fluid">
-					<div class="container los-angles">
+					<div class="container">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
-								<p><strong>Are You Frustrated Dealing With Offshore and/or Expensive Incompetent App Developers? <span class="word-break">If Yes... Then Meet:</span></strong></p>
-								<h1><span>Los Angeles</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
-								<p>Our local development team looks forward to meeting you in person at our office in Los Angeles to turn your app idea into a multi-million dollar business.</p>
+								<p><strong>Stand Out from the Competition & Grow at a <span class="word-break">Faster Pace ...</span></strong></p>
+								<h1>Top Web & <span>Mobile App</span> Development<br /><span>Company in Atlanta</span></h1>
+								<p>Dedicated Developers is known for delivering feature-rich, smooth functioning apps that push your company forward to greater success.</p>
 							</div>
 							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
 								
@@ -136,23 +136,7 @@
 			</section>
 			<section class="section-2-lp border-top-1px-lp">
 				<div class="container-fluid">
-					<div class="container">
-   
-  <div id="clientLogolp" class="carousel slide carousel-fade" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-     <p class="text-center"><span style="color: #1e6ebe; font-size:30px">Our Valued Los Angeles Based Clients</span></p>
-	 <img src="<?php echo BASE_URL ?>/images/client-logos-2-lp.png" alt="Client Logos" class="img-fluid" />
-	 <p class="text-center mt-5">Our Valued Clients Globally</p>
-       <img src="<?php echo BASE_URL ?>/images/client-logos-1-lp.png" alt="Client Logos" class="img-fluid" />
-    </div>
-    
-   
-  </div>
- 
-</div>
-   
-</div>
+					<?php require_once "../../client-logos-lp.php"; ?>
 				</div>
 			</section>
 			<section class="section-3-lp gray-section-lp py-5">
@@ -160,24 +144,24 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In Los Angeles</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
+								<h2 class="text-center">What Clients In Atlanta Have to Say About Working With Dedicated Developers Atlanta-Based Development Team</h2> </div>
 						</div>
 						<div class="row pt-5 py-4">
 							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>Eben Pagan, Hot Topic Media, GA</strong></p></div>
+				  </a> </div>
 							<div class=" col-md-6"> <a id="showVideo2" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2.png" alt="Play Testimonial" />
-				  </a><p class="text-center mt-2 mb-0"><strong>Jason Womack, Get Momentum Coaching, GA</strong></p> </div>
+				  </a> </div>
 						</div>
 						<div class="row pb-4">
 							
 				  <div class=" col-md-6 bot-margin-add"> <a id="showVideo1" class="video-testimonial-btn" title="What Our Clients Say"> 
 					 <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-1.png" alt="Play Testimonial" />
-					</a> <p class="text-center mt-2 mb-0"><strong>Know Longer Single, Buckhead, GA</strong></p></div>
+					</a> </div>
 							<div class=" col-md-6"> <a id="showVideo4" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-4.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>ROC Cabinetry, Norcross, GA</strong></p></div>
+				  </a> </div>
 						</div>
 					</div>
 					<div class="video-testimonial-root">
@@ -189,7 +173,7 @@
 					<div class="container px-4">
 						<div class="row pb-4">
 							<div class="col">
-								<h2 class="text-center">We Love Helping Our Los Angeles Neighbors But... <br /><span style="color: #1e6ebe;">We’ve Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
+								<h2 class="text-center">We’ve Helped Companies in More Than <br />25 Countries Get the Web & Mobile Apps They Need to Succeed</h2>
 							</div>
 						</div>
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -203,7 +187,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial1.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Neil Venketramen</strong></p>
-															<!-- <p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p>-->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">Co-Founder, Lean Buddy</p>
 														</div>
 													</div>
@@ -220,7 +204,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial2.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jane Nguyen</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">CEO & Founder, Complete Business Accounting</p>
 														</div>
 													</div>
@@ -243,7 +227,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial3.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Nitin Chhoda</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">CEO & Founder, Total Activation.</p>
 														</div>
 													</div>
@@ -260,7 +244,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial4.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jared Prazen</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">Director of Business Development, Traffic Motion</p>
 														</div>
 													</div>
@@ -283,7 +267,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial5.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Joui Turandot</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">President, JTM Consulting.</p>
 														</div>
 													</div>
@@ -300,7 +284,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial6.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Greg Higgins</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">Director of Strategic Partnerships, Splash</p>
 														</div>
 													</div>
@@ -323,7 +307,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial7.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Chelsea O’Brien</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">President, Tech Diva Media</p>
 														</div>
 													</div>
@@ -340,7 +324,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial8.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jason Womack</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">Get Momentum Coaching</p>
 														</div>
 													</div>
@@ -363,7 +347,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial9.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Eben Pagan</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">Hot Topic Media</p>
 														</div>
 													</div>
@@ -380,7 +364,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial10.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Niall Strickland</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">Growth Oracle</p>
 														</div>
 													</div>
@@ -403,7 +387,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial11.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Dr. Bradley Nelson</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">CEO and Founder, Healers Library</p>
 														</div>
 													</div>
@@ -420,7 +404,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial12.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Bill Parravano</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">CEO and Founder, Healing Concepts, L.P.</p>
 														</div>
 													</div>
@@ -443,7 +427,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial13.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Mike Lambert</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">CTO, Virtual Project Manager, Inc.</p>
 														</div>
 													</div>
@@ -460,7 +444,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial14.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>J.Will</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
+															<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>
 															<p class="m-0 p-0 text-style-2-lp">President & Co-Founder, Advisor Internet Marketing</p>
 														</div>
 													</div>
@@ -481,52 +465,52 @@
 					</div>
 				</div>
 			</section>
-			<section class="section-5-lp  py-5 los-angles">
+			<section class="section-5-lp  py-5">
 				<div class="container-fluid pb-1">
 					<div class="container">
-						<h2 class="pb-2">Your Los Angeles-Based Development Team <br />with a Worldwide Reach</h2>
+						<h2 class="pb-2">Atlanta-Based Development Team <br />With a Worldwide Reach</h2>
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
                         	<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/images/vishal-lp.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Vishal B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Alpharetta, GA</strong></p>
+									<br />Principal Mobile and Web App Developer</p>
 							</div>
-							<div class="col text-center"> <img src="images/vikas_b.jpg" class="rounded-circle" />
+							<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/images/vikas-lp.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Vikas B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Marietta, GA</strong></p>
+									<br />Principal Mobile and Web App Developer</p>
 							</div>
-                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Rajesh K.</strong>
-									<br />Principal Backend Developer<br><strong>Los Angeles, GA</strong></p>
+									<br />Principal Backend Developer</p>
 							</div>
-                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Dominic C.</strong>
-									<br />CRM Engineer<br><strong>Los Angeles, GA</strong></p>
+									<br />CRM Engineer</p>
 							</div>
-							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle"  />
+							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Karen K.</strong>
-									<br />Senior Software Developer<br><strong>Los Angeles, GA</strong></p>
+									<br />Senior Software Developer</p>
 							</div>
-                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Manoj K.</strong>
-									<br />Principal Developer<br><strong>Marietta, GA</strong></p>
+									<br />Principal Developer</p>
 							</div>
 							<div class="col text-center"> <img src="images/thora_toft.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Thora T.</strong>
-									<br />Senior UI/UX Designer <br><strong>Roswell, GA</strong></p>
+									<br />Senior UI/UX Designer</p>
 							</div>
 							<div class="col text-center"> <img src="images/varinder-pal.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Varinder P.</strong>
-									<br />Senior Web Developer<br><strong>Alpharetta, GA</strong></p>
+									<br />Senior Web Developer</p>
 							</div>
                             <div class="col text-center"> <img src="images/harsimran-singh.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Harsimran S.</strong>
-									<br />Senior Software Developer<br><strong>Cumming, GA</strong></p>
+									<br />Senior Software Developer</p>
 							</div>
 							<div class="col text-center"> <img src="images/sharanjeet.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Sharanjit S.</strong>
-									<br />Senior QA Developer<br><strong>Cumming, GA</strong></p>
+									<br />Senior Quality Developer</p>
 							</div>
 							
 							
@@ -548,7 +532,7 @@
 					<div class="row pb-0">
 						<div class="col-12 col-sm-12 col-md-12 col-lg-6">
 							    <h2 class="text-start text-white">The Proof is in the Numbers!</h2>
-								<p class="text-white">When you consider our staff, our experience, our awards, our satisfied clients and much more… the answer is clear: </p>
+								<p class="text-white">When you consider our staff, our experience, our awards, our satisfied clients and much more … the answer is clear: </p>
                                 <p class="text-white">Working with Dedicated Developers is the ideal way to get the powerful, easy-to-use app you envision.</p>
 								<a class="btn-white-lp" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Get Started Now</a>
 						</div>
@@ -574,9 +558,8 @@
 						</div>
 						<div class="col-md-6">
 							 <div class="section-6-img-right-lp mt-5 pt-3 p-5">
-								<p class="mb-0 pt-3"><strong>4.97</strong></p>
-								
-								<p class="star-setting"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><br>Approval Rating</p>
+								<p class="mb-0 pt-3"><strong>4.9</strong></p>
+								<p>Approval Rating</p>
 							</div>			 
 						</div>
 					</div>
@@ -603,7 +586,7 @@
 									<p><strong>Doctors Beyond</strong></p>
 									<p>A telemedicine app to allow patients unlimited access to Doctors, anytime and anywhere.</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">Los Angeles, GA</p>
+									<p class="map-location">Atlanta, GA</p>
 								</div>
 							</div>
 								<img src="images/doctorsbeyond_thumb.jpg" alt="" class="responsive-img" /> 
@@ -611,7 +594,9 @@
 								
 							</div>
 					</a>
-				</li> 
+				</li>
+				
+				
 				<li>
 						<a href="<?php echo PORTFOLIO_URL ?>/numinav/" target="_blank">
 							<p class="portfolio-title-black">Numinav</p>
@@ -620,7 +605,7 @@
 									<p><strong>Numinav</strong></p>
 									<p>Next level ride sharing app</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">Los Angeles, GA</p>
+									<p class="map-location">Atlanta, GA</p>
 								</div>
 							</div>
 								<img src="images/portfolio-listing-13.jpg" alt="" class="responsive-img" /> 
@@ -637,7 +622,7 @@
 									<p><strong>KLS Dating App</strong></p>
 									<p>KLS helps people become the best versions of themselves</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">Los Angeles, GA</p>
+									<p class="map-location">Atlanta, GA</p>
 								</div>
 							</div>
 								<img src="images/portfolio-listing-11.jpg" alt="" class="responsive-img" /> 
@@ -688,7 +673,7 @@
 									<p><strong>Corning® Gorilla® Glass</strong></p>
 									<p>Notification app for large conference</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">Los Angeles, NY</p>
+									<p class="map-location">New York, NY</p>
 								</div>
 							</div>
 								<img src="images/portfolio-listing-14.jpg" alt="" class="responsive-img" /> 
@@ -730,27 +715,6 @@
 									</div>
 							</a>
 						</li>
-						
-						
-						
-						<li>
-						<a href="<?php echo PORTFOLIO_URL ?>/fat-burning-man/" target="_blank">
-							<p class="portfolio-title-black">Fat Burning Man</p>
-							<div class="portfolio-hover">
-								<div class="portfolio-hover-content">
-									<p><strong>Fat Burning Man</strong></p>
-									<p>Burn Belly Fat &amp; Feel Great</p>
-									
-									<img src="images/map-location.png" alt="">
-									<p class="map-location">Dallas, TX</p>
-								</div>
-							</div>
-							<img src="images/portfolio-listing-4.jpg" alt="" class="responsive-img">
-						</a>
-					</li>
-						
-						
-						
 					</ul>
 					</div>
 			</section> 
@@ -762,7 +726,7 @@
 							<h2 class="text-center">How We Work</h2>
 						</div>
 						<div class="col-md-12 col-lg-6">
-							<p>With Dedicated Developers you get the best of both worlds – Los Angeles-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced Los Angeles team will keep you well informed as we turn your app idea into a customer getting profit machine. <br></p>
+							<p>With Dedicated Developers you get the best of both worlds – market-leading app development talent and an Atlanta-based management team. We’ll walk you through our unique blueprint process and then keep you informed as your app idea is turned into wonderful reality. With Dedicated Developers you enjoy:</p>
 						</div>
 					</div>
 				</div>
@@ -770,8 +734,6 @@
 			<section class="section-9-lp py-0 relative-negative-170">
 				<div class="container mb-0 pb-0">
 					<div class="row pb-3">
-					   <div class="col-12 pb-3"> <p><strong style="font-size: 18px; display:block; text-align:center;">With Dedicated Developers you enjoy:</strong></p></div>
-					    
 						<div class="col-12 col-sm-6 col-md-3 section-9-box">
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
@@ -783,7 +745,7 @@
 									<!-- <div class="section-9-number">01</div>-->
 								</div>
 								<div class="process-info">
-									<h3 class="text-center">Proprietary "I2A Blueprint" <br />Process</h3>
+									<h3 class="text-center">Proprietary Blueprint<br />Process</h3>
 									<div class="section-9-number">01</div>
 								</div>
 							</div>
@@ -792,7 +754,7 @@
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
 									<ul>
-									   <li>Los Angeles Based Delivery Team</li>
+									   <li>Atlanta Based Delivery Team</li>
 										<li>Up-to-date on latest technology</li>
 										<li>Suggest app improvements</li>
 										<li>Deliver highest quality in shortest time</li>
@@ -800,7 +762,7 @@
 									<!-- <div class="section-9-number">02</div>-->
 								</div>
 								<div class="process-info">
-									<h3 class="text-center">Talented App Designers<br />& Developers</h3>
+									<h3 class="text-center">Talented app<br />developers</h3>
 									<div class="section-9-number">02</div>
 								</div>
 							</div>
@@ -809,15 +771,14 @@
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
 									<ul>
-										<li>via In-person office meetings</li>
-                                        <li>Zoom video calls, Chat, Phone support</li>
+										<li>US-based management, customer service</li>
 										<li>You are kept up-to-date throughout</li>
 										<li>You are able to make changes at each step</li>
 									</ul>
 									<!-- <div class="section-9-number">03</div>-->
 								</div>
 								<div class="process-info">
-									<h3 class="text-center">Open Communication</h3>
+									<h3 class="text-center">Open communication</h3>
 									<div class="section-9-number">03</div>
 								</div>
 							</div>
@@ -833,7 +794,7 @@
 									<!-- <div class="section-9-number">04</div>-->
 								</div>
 								<div class="process-info">
-									<h3 class="text-center">Satisfaction<br />Guarantee</h3>
+									<h3 class="text-center">Satisfaction<br />guarantee</h3>
 									<div class="section-9-number">04</div>
 								</div>
 							</div>
@@ -846,7 +807,7 @@
 					<div class="container">
 						<div class="row py-3">
 							<div class="col-md-12">
-									<h2 class="text-center">Mobile App Development Services <br />In Los Angeles</h2>
+									<h2 class="text-start">Effective Services Preferred For Mobile <br />App Development</h2>
 							</div>
 						</div>
 						<div class="row pb-3">
@@ -918,7 +879,7 @@
 					<div class="container section-11-bg-lp">
 						<div class="row p-5">
 							<div class="col-md-7 col-lg-8">
-									<h3 class="text-start">To receive state-of-the-art features, engaging design and true ease of use…</h3>
+									<h3 class="text-start">Receive state-of-the-art features, engaging design and true ease of use …</h3>
 									<h2 class="text-start">Select Dedicated Developers For Your App Project!</h2>
 							</div>
 							<div class="col-md-5 col-lg-4 text-end">
@@ -934,8 +895,7 @@
 						<div class="row">
 							<div class="col-md-12 m-auto text-center pt-0">
 								<h2 class="text-center pt-3">App Development Expertise</h2>
-<!--								<p class="pt-3">Our expert developers are up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p> -->
-                                    <p class="pt-3">One of Los Angeles’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
+								<p class="pt-3">Our expert developers are up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
 							</div>
 						</div>
 					</div>
@@ -1090,7 +1050,7 @@
 					<div class="container px-4">
 						<div class="row pb-4">
 							<div class="col">
-								<h2 class="text-center">5 Star Ratings On Google And Clutch Reviews</h2>
+								<h2>5 Star Rating On Google And Clutch Reviews</h2>
 							</div>
 						</div>
 						<div id="carouselExampleControlsNew" class="carousel slide" data-bs-ride="carousel">
@@ -1238,167 +1198,6 @@
 							<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsNew" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"><i class="fas fa-chevron-right"></i></span> <span class="visually-hidden">Next</span> </button>
 						    </div>
 						</div>
-						
-						
-						
-						
-						
-						<div id="carouselExampleControlsNewMobile" class="carousel slide" data-bs-ride="carousel">
-							<div class="carousel-inner">
-								<div class="carousel-item active">
-									<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/tyler.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Tyler Archer</h5>
-                <p>4 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 4 years ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>Before I started to work with the developers at Dedicated Developers, I was left to do everything myself in my start-up business. I wanted to focus on the copywriting part of website building and work on growing my business and adding new clients. To do that, I needed to scale the development portion - HTML, CSS, PHP, Javascript, etc. I had tried outsourcing with other development companies in the past with very limited success.  The deadlines were often missed and people would go missing and be unavailable. Finally, when I started working with Dedicated Developers in 2010, my business really started to take off. I was able to pass off all of the programming work to my DD developer. Each night I send the tasks to my developer and when I get into the office the next morning, everything is ready! It's almost like my business is open 24 / 7, with work getting done overnight. I have been working with Dedicated Developers for over 7 years and I'm always extremely happy with my developer's performance. I work directly with the lead developer and that allows me to work with one person and get him used to my way of doing things. This results in huge time savings and has increased my business profitability. If I didn't have my team at Dedicated Developers, I wouldn't have been able to scale my client base and take on nearly as many projects as we currently have. If you have any software project, I strongly recommend working with Dedicated Developers.</p>
-        </div>
-      </div>
-      							</div>
-                                <div class="carousel-item">
-      								<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/damir-brajdic.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Damir Brajdic</h5>
-                <p>3 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 8 months ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>Our company Demand Products, needed better product listings for its website, I knew exactly who to turn to – Dedicated Developers.</p>
-            <p>Having worked with Dedicated Developers in the past, I knew they were ideally suited to this task. Plus, they are super easy to work with.</p>
-            <p>The project, itself, involved writing effective content for 50 top selling products. The existing content and structure was poor and riddled with grammatical errors and technical jargon that made it difficult to read.</p>
-            <p>The Dedicated Developers team delivered phenomenal re-written content.</p>
-            <p>The revised content improves tone and clarity so that it resonates with the target audience (Construction workers), while not being too simplistic. The copy is also shorter and more inviting, better organized and much more actionable. We are very happy with the revised content. In fact, we have already started receiving positive feedback from team members who are on the front lines interacting with customers, answering phones and processing orders. We are seeing a consistent uptick in online orders that don’t require a salesperson to get involved. We have most definitely received twice the value of its investment in just a short amount of time.</p>
-        </div>
-      </div>
-								</div>
-								<div class="carousel-item">
-									<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/viral-darji.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Viral Darji</h5>
-                <p>1 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> a year ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>Before we met Dedicated Developers, we were working with another unreliable development company. It would take days to get a response from the developer for a simple query, and they never provided any estimated completion dates. We pivoted and hired Dedicated Developers as our technical partners to handle all of our technical issues. The team is responsive, knowledgeable, connected and offers expert guidance. We have been working with their team for over 4 years now, and they have been maintaining and updating various apps for our company. We would highly recommend Dedicated Developers to anyone looking for a great development partner.</p>
-        </div>
-      </div>
-      							</div>
-                                <div class="carousel-item">
-      								<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/jodi-womack.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Jodi Womack</h5>
-                <p>4 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> a year ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>I have been working with Dedicated Developers since December 2014. Their team helped me with website re-design, managing membership system, and email marketing funnel automation. I am very pleased with excellent service that I have received from their team on a consistent basis. If they take up your project, consider it done.
-</p>
-        </div>
-      </div>
-								</div>
-                                <div class="carousel-item">
-									<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/robert-hagerman.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Robert Hagerman</h5>
-                <p>4 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 4 years ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>I needed a detailed technical feasibility analysis of our project that required strong understanding of the underlying hardware and existing software code.  This was needed to find out if it was the right time to move forward with our project. Dedicated Developers came prepared to meet us and understand our physical hardware project and the project requirements. The project is a combination of hardware and software development and we engaged Dedicated Developers for an in-depth technical feasibility, and project strategy. We were able to meet with their technical architects and immediately felt comfortable that they were the right team to work on our project. I am extremely pleased with the outcome and their approach. We worked through a project management systems along with frequent phone calls and in-office visits. They asked great questions that reflected their deep technological background and provided solutions for any challenges that we faced during our engagement.  I'm excited to find a development partner that has a high level of technical expertise and is professional and friendly in all their dealings. I'd highly recommend companies looking to develop advanced hardware and software projects use Dedicated Developers, they won't be disappointed.
-</p>
-        </div>
-      </div>
-      							</div>
-      							<div class="carousel-item">
-      								<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/niall-strickland.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Niall Strickland</h5>
-                <p>2 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 3 years ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>I have been designing and building business software applications for about 10 years. Over the years, I have worked with various developers in Ireland as well as in Germany, the United Kingdom and the United States. None of them were able to deliver a fully functional product within the agreed upon time frame or within a budget that was agreed at the outset. I have been working with Dedicated Developers for the last 3 years and astonishingly, the level of service from them was a million times better than what I experienced with other developers. Competitively, they are second to none. During this time, the Dedicated Developers team worked on a large number of different projects for my company including finishing my first product launch.  They have been excellent at sticking with the promised milestones and budgets, which in itself is a breath of fresh air especially when it comes to working with the developers.  The lead developer I work with is highly professional and has shown a great understanding of our different products, fantastic technical skills, and working with him continues to be a real pleasure.  The project management portal provided by Dedicated Developers makes it easy to keep on top of any project and to exchange ideas with the development team and the project managers. I would highly recommend Dedicated Developers to any business in need of a reliable partner to help you with your mobile and web-based product development projects.
-</p>
-        </div>
-      </div>
-								</div>
-                                <div class="carousel-item">
-									<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/kate-mitchell.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Kate Mitchell</h5>
-                <p>1 review</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> a year ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>I wanted a company to perform a UX Analysis, create Wireframes, and build us a Minimum Viable Product (MVP). There was an idea, but I needed to turn that into a solid MVP. The Dedicated Developers team acted as consultants and provided outstanding brainstorming sessions that improved on our original app concept. The UX Analysis was very detailed and was able to shed light on how to best proceed. The team then created Wireframes that clearly laid out how the app would work, and what the best user flow would be. Dedicated Developers then moved on to create our MVP. They have done an outstanding job and now we can take MVP to complete product development.  We really liked that while working with them we never felt rushed in terms of providing feedback and we could openly discuss our questions and ideas about the project on the phone. We loved the fact they were always available to talk live and were prompt in responding to our questions or ideas via messages. The project management dashboard also allowed us the ease to access ongoing project discussions when it was convenient and even while we were on the go! The project was wrapped up within a timely manner and was completed with the original estimated delivery time. The whole team is really profession-al and friendly, and have been great to work with. We would definitely recommend Dedicated Developers to any business that is looking to take their mobile app idea and turn it into a reality.
-</p>
-        </div>
-      </div>
-								</div>
-                                <div class="carousel-item">
-                                	<div class="google-revies-center-part">
-      	<div class="person-box">
-        	<div class="image-box">
-            	<img src="images/ginny-brajdic.png" />
-            </div>
-            <div class="person-details-box">
-            	<h5>Ginny Brajdic</h5>
-                <p>2 reviews</p>
-                <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> 2 years ago</p>
-            </div>
-        </div>
-      	<div class="review-box">
-        	<p>We were looking for a company to update our E-commerce site and were excited when we found Dedicated Developers. They came to our office to understand our requirements. It was great to connect with professionals personally who really understood our vision for design and what we envisioned. They conducted a thorough UX analysis and were able to articu-late ideas on how to develop a state of the art design, which was then followed up with Wireframes. They were always available to answer any of our questions, were prompt with their email communication, and it was easy to schedule a conference call or an in-person meeting with their team. Their design team was top notch and have been able to capture our strategy and design intent.  Our favorite thing about Dedicated Developers was that they al-ways looked out for our best interests rather than pushing their agenda. We felt super com-fortable working with their team, and with all the dealings we had with them, it’s clear they genuinely work hard for the success of their client's business. I would highly recommend them to anyone needing their website redesigned, especially in the E-commerce space.
-</p>
-        </div>
-      </div>
-                                </div>
-							</div>
-							<div class="bottom-buttons"><button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNewMobile" data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fas fa-chevron-left"></i></span> <span class="visually-hidden">Previous</span> </button>
-							<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsNewMobile" data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"><i class="fas fa-chevron-right"></i></span> <span class="visually-hidden">Next</span> </button>
-						    </div>
-						</div>
-						
-						
-						
-						
 					</div>
 				</div>
         
@@ -1471,11 +1270,11 @@
 													<option value="438">Greater than $250,000</option>
 												</select>
 											</div>
-											<!-- <div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
+											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
 												<div id="mr-field-element-47025000165" class=" moonray-form-element-html">
 													<p>By submitting this form, you agree to our&nbsp;<a href="https://dedicateddevelopers.com/terms-conditions/" target="_blank">Terms of Service</a> and <a href="https://dedicateddevelopers.com/privacy-policy/" target="_blank">Privacy Policy</a></p>
 												</div>
-											</div> -->
+											</div>
 											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
 												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
 											</div>
@@ -1560,11 +1359,11 @@
 										<img src="images/map-section-icon1.png" alt="DD address" />
 									</div>
 									<div class="col-sm-8  col-md-9 px-4 pt-4">
-										<p><strong>Los Angeles</strong><br /> 
+										<p><strong>Atlanta</strong><br /> 
 										Dedicated Developers<br />
-										10880 Wilshire Blvd #1101,<br />
-										Los Angeles, CA 90024<br />
-										Phone: (310) 412-0043</p>
+										2300 Lakeview Parkway, Suite 700,<br />
+										Alpharetta GA 30009<br />
+										Phone: (770) 274-4482</p>
 									</div>
 								</div>
 								<div class="row address-block-lp  p-4">
@@ -1575,8 +1374,8 @@
 										<p><strong>Hours of Operation</strong><br />
 										Monday thru Friday<br />
 										08:00 AM - 06:00 PM<br />
-										Phone: (310) 412-0043<br />
-										Email: losangeles@DedicatedDevelopers.com</p>
+										Phone: (770) 274-4482<br />
+										Email: Atlanta@DedicatedDevelopers.com</p>
 									</div>
 								</div>
 							</div>
