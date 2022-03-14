@@ -163,22 +163,14 @@
 								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In Los Angeles</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
 						</div>
 						<div class="row pt-5 py-4">
-							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3" class="video-testimonial-btn" title="What Our Clients Say"> 
+							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3r" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3-r.jpg" alt="Play Testimonial" />
 				  </a> <p class="text-center mt-2 mb-0"><strong>Eben Pagan, Hot Topic Media, GA</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo2" class="video-testimonial-btn" title="What Our Clients Say"> 
+							<div class=" col-md-6"> <a id="showVideo2r" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2-r.jpg" alt="Play Testimonial" />
 				  </a><p class="text-center mt-2 mb-0"><strong>Jason Womack, Get Momentum Coaching, GA</strong></p> </div>
 						</div>
-						<div class="row pb-4">
-							
-				  <div class=" col-md-6 bot-margin-add"> <a id="showVideo1" class="video-testimonial-btn" title="What Our Clients Say"> 
-					 <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-1.png" alt="Play Testimonial" />
-					</a> <p class="text-center mt-2 mb-0"><strong>Know Longer Single, Buckhead, GA</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo4" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-4.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>ROC Cabinetry, Norcross, GA</strong></p></div>
-						</div>
+						
 					</div>
 					<div class="video-testimonial-root">
 						<div class="video-front" id="opened-video"></div><a id="close-video"> X </a></div>
