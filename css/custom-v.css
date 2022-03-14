@@ -1530,6 +1530,10 @@ border: 0;color: #ffffff;}
 
 .line-height-1-5 {line-height:1.5;}
 
+@media screen and (max-width: 1400px) {
+.header-right-lp a.top-links-lp.los-angles {font-size: 18px;}
+}
+
 @media screen and (max-width: 1300px) {
   .section-4-lp .carousel-control-prev {
     left: 30%;
@@ -1548,6 +1552,9 @@ border: 0;color: #ffffff;}
   .header-right-lp a.top-links-lp {
     font-size: 13px;
   }
+  
+  .header-right-lp a.top-links-lp.los-angles {font-size: 12px;}
+
   .section-1-lp h1 {
     font-size: 51px;
   }
