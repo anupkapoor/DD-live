@@ -458,6 +458,9 @@ a.top-links-lp:before {
   background-size: contain;
   background-repeat: no-repeat;
 }
+.section-1-lp .container.los-angles{
+	background-image: url(../images/section-1-lp-los-angles.png);
+}
 .section-1-lp h1 {
   /*font-size:76.75px;*/
   font-size: 47.75px;
@@ -562,6 +565,9 @@ section.section-2-lp {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+.section-5-lp.los-angles {
+  background-image: url(../images/team-section-bg-lp-los-angles.jpg);
 }
 .section-5-lp p.font-20 {
   font-size: 20px;
