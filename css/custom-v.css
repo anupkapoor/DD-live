@@ -1527,8 +1527,26 @@ border: 0;color: #ffffff;}
 .landing-page-v .orange-button-cta{ display:block; text-align:center; margin-top:15px; height: 60px; line-height:60px;}
 .landing-page-v .orange-button-cta.mobile-button-v{display:none;}
 .landing-page-v .orange-button-cta.desktop-button-v{display:block;}
-
 .line-height-1-5 {line-height:1.5;}
+
+.dd-main-ontra-form .ussr .moonray-form { max-width: 500px; width: 100%; border-width: 0; background-color: #ffffff;}
+.dd-main-ontra-form .ussr .moonray-form form{ -webkit-box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important; -moz-box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important; box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;}
+.dd-main-ontra-form .ussr .moonray-form h3 {padding: 20px !important; line-height: 28px !important; font-weight:normal !important; font-family:"RalewayMedium" !important; border-bottom: 22px solid #fff !important; margin-bottom: 0 !important;}
+.dd-main-ontra-form .ussr .moonray-form .moonray-form-element-wrapper { margin:0 0 10px 0;}
+.dd-main-ontra-form .ussr .moonray-form .moonray-form-input, .dd-main-ontra-form .ussr .moonray-form .moonray-form-label { margin: 0 auto;
+float: none; max-width: 85%;}
+.dd-main-ontra-form .ussr .moonray-form .moonray-form-label {padding-bottom:5px;}
+.dd-main-ontra-form .ussr .moonray-form .moonray-form-input-type-submit input[type="submit"].moonray-form-input  {box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38); -webkit-box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38); -moz-box-shadow: 1px 0px 20px 1px rgba(0,0,0,0.38); 
+border-radius: 5px !important; color: #ffffff !important; cursor: pointer; font-size: 20px !important; height: 52px;line-height: 52px;
+padding: 0; width: 100%; font-family: ralewaybold; margin : 0 auto; background: rgb(251,132,57) !important; background: -moz-linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%) !important;background: -webkit-linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%) !important;background: linear-gradient(180deg, rgba(251,132,57,1) 0%, rgba(253,84,29,1) 100%) !important;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fb8439",endColorstr="#fd541d",GradientType=1) !important; max-width:85% !important; border:0 !important; margin-bottom:25px !important;}
+
+.dd-main-ontra-form .ussr .moonray-form .moonray-form-input-type-submit input[type="submit"].moonray-form-input:hover  {background: -moz-linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%) !important;background: -webkit-linear-gradient(180deg, rgba(253,84,29,1251,132,57,1) 0%, rgba(251,132,57,1) 100%) !important;background: linear-gradient(180deg, rgba(253,84,29,1) 0%, rgba(251,132,57,1) 100%) !important;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fd541d",endColorstr="#fb8439",GradientType=1) !important;}
+
+.dd-middle-ontra-form.dd-main-ontra-form .ussr .moonray-form form {box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }
+.dd-middle-ontra-form.dd-main-ontra-form .ussr .moonray-form{padding:0;}
+
+
+#staticBackdrop .dd-middle-ontra-form.dd-main-ontra-form .close-button-lp {right: 7px;top: 3px;}
 
 @media screen and (max-width: 1300px) {
   .section-4-lp .carousel-control-prev {

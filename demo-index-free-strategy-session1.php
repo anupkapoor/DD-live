@@ -1,5 +1,12 @@
 <?php include "config.php"; ?>
 	<?php include "header-lp-atlanta-no-index.php"; ?>
+	<style>.section-1-lp .container {
+	background-image: url(../images/section-1-lp-bg.png);
+	background-position: center center;
+	background-size: 50%;
+	/* background-size: contain; */
+	background-repeat: no-repeat;
+}</style>
 		<!-- Home -->
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
@@ -26,7 +33,9 @@
 										<li>Understand the two hidden reasons why founders fail when trying to build an app (and how to avoid them).</li>
 										<li><span class="blue-color-text">Answer all of your questions about the app development process.</span></li>
 									</ul>
-							 <div class="">
+									<h5><strong>SPOTS ARE LIMITED</strong> so register now to claim your complimentary Strategy Session with one of our development experts.</h5>
+											<p class="py-3">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p>
+							 <div class="py-3">
 								<a class="orange-button-cta desktop-button-v" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Book a Complimentary Strategy Session for your Web/Mobile App Project</a>
 								
 								<a class="orange-button-cta mobile-button-v" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Book a Complimentary Session</a>
