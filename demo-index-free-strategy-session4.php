@@ -30,7 +30,7 @@
 										<li>Understand the two hidden reasons why founders fail when trying to build an app (and how to avoid them).</li>
 										<li><span class="blue-color-text">Answer all of your questions about the app development process.</span></li>
 									</ul>
-									 <p class="py-3">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p>Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>
+									<!-- <p class="py-3">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p>Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>-->
 							
 							</div>
                             <div class="col-12 col-sm-12 col-md-12 col-lg-5">
