@@ -13,121 +13,8 @@
 								<p>Our local development team looks forward to meeting you in person at our office in Los Angeles to turn your app idea into a multi-million dollar business.</p>
 							</div>
 							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
-								
-								
-								<div class="moonray-form-p2c21081f178 ussr">
-									<div class="form-landing-page moonray-form  moonray-form-label-pos-stacked">
-										<form class="moonray-form-clearfix shadow" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
-												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 class="text-center">Request a Quote for your<br /> Web/Mobile App Project</h3></div>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
-												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
-												<input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-954250408779" required value="" placeholder="First Name" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email">
-												<label for="mr-field-element-900895699369" class="moonray-form-label"></label>
-												<input name="email" type="email" class="moonray-form-input" id="mr-field-element-900895699369" required value="" placeholder="Best Email Address" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-tel">
-												<label for="mr-field-element-874520202076" class="moonray-form-label"></label>
-												<input name="sms_number" type="tel" class="moonray-form-input" id="mr-field-element-874520202076" value="" placeholder="Mobile Number" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-select">
-												<label for="mr-field-element-984794874128" class="moonray-form-label">What are you looking for?</label>
-												<select name="f1740" required class="moonray-form-input" id="mr-field-element-984794874128" value="" placeholder>
-													<option value="">Select...</option>
-													<option value="261">Hire Developers / Designers from us</option>
-													<option value="260">Build a Website</option>
-													<option value="259">Build a Web Application</option>
-													<option value="258">Build a Mobile Application</option>
-													<option value="257">Build a Web and Mobile Application</option>
-													<option value="252">Looking for a Job</option>
-													<option value="251">Looking for a Partnership Opportunities</option>
-													<option value="250">Looking to offer your Marketing Services / SEO to us</option>
-												</select>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-select">
-												<label for="mr-field-element-460859085592" class="moonray-form-label">What is your budget for this project?</label>
-												<select name="f1518" required class="moonray-form-input" id="mr-field-element-460859085592" value="" placeholder>
-													<option value="">Select...</option>
-													<option value="442">Less than $30,000</option>
-													<option value="441">$30,000 - $50,000</option>
-													<option value="440">$50,000 - $100,000</option>
-													<option value="439">$100,000 - $250,000</option>
-													<option value="438">Greater than $250,000</option>
-												</select>
-											</div>
-									 <div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
-												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="afft_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="aff_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="sess_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="ref_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="own_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="oprid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="contact_id" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_source" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_medium" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_term" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_content" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_campaign" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="referral_page" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_op_gclid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_op_gcid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_fbc" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_fbp" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="uid" type="hidden" value="p2c21081f178" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="uniquep2c21081f178" type="hidden" value="0" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="mopsbbk" type="hidden" value="0DAE5312D60401E05272FB29:B0170E8542B4F02E126307F4" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="mopbelg" type="hidden" value="0147440:E0FFCBC78A8E933C9CE6DBB7:DBB3D0EB6EF89CE120C183F8" />
-											</div>
-										</form>
-									</div>
+								<div class="dd-main-ontra-form">								
+								<script src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&uid=p2c21081f181&version=1"></script>
 								</div>
 							</div>
 						</div>
@@ -1419,126 +1306,12 @@
 							    </ul>
 						</div>
 						<div class="col-12 col-sm-12 col-md-6 col-lg-7">
-							<div class="moonray-form-p2c21081f178 ussr">
-									<div class="form-landing-page2 moonray-form  moonray-form-label-pos-stacked">
-										<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
-												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3>Request a Quote for your Web/Mobile App Project</h3></div>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
-												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
-												<input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-954250408779" required value="" placeholder="First Name*" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email">
-												<label for="mr-field-element-900895699369" class="moonray-form-label"></label>
-												<input name="email" type="email" class="moonray-form-input" id="mr-field-element-900895699369" required value="" placeholder="Best Email Address*" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-tel">
-												<label for="mr-field-element-874520202076" class="moonray-form-label"></label>
-												<input name="sms_number" type="tel" class="moonray-form-input" id="mr-field-element-874520202076" value="" placeholder="Mobile Number" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-select">
-												<label for="mr-field-element-984794874128" class="moonray-form-label">What are you looking for?*</label>
-												<select name="f1740" required class="moonray-form-input" id="mr-field-element-984794874128" value="" placeholder>
-													<option value="">Select...</option>
-													<option value="261">Hire Developers / Designers from us</option>
-													<option value="260">Build a Website</option>
-													<option value="259">Build a Web Application</option>
-													<option value="258">Build a Mobile Application</option>
-													<option value="257">Build a Web and Mobile Application</option>
-													<option value="252">Looking for a Job</option>
-													<option value="251">Looking for a Partnership Opportunities</option>
-													<option value="250">Looking to offer your Marketing Services / SEO to us</option>
-												</select>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-select">
-												<label for="mr-field-element-460859085592" class="moonray-form-label">What is your budget for this project?*</label>
-												<select name="f1518" required class="moonray-form-input" id="mr-field-element-460859085592" value="" placeholder>
-													<option value="">Select...</option>
-													<option value="442">Less than $30,000</option>
-													<option value="441">$30,000 - $50,000</option>
-													<option value="440">$50,000 - $100,000</option>
-													<option value="439">$100,000 - $250,000</option>
-													<option value="438">Greater than $250,000</option>
-												</select>
-											</div>
-											<!-- <div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
-												<div id="mr-field-element-47025000165" class=" moonray-form-element-html">
-													<p>By submitting this form, you agree to our&nbsp;<a href="https://dedicateddevelopers.com/terms-conditions/" target="_blank">Terms of Service</a> and <a href="https://dedicateddevelopers.com/privacy-policy/" target="_blank">Privacy Policy</a></p>
-												</div>
-											</div> -->
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
-												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="afft_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="aff_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="sess_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="ref_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="own_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="oprid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="contact_id" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_source" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_medium" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_term" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_content" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_campaign" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="referral_page" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_op_gclid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_op_gcid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_fbc" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_fbp" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="uid" type="hidden" value="p2c21081f178" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="uniquep2c21081f178" type="hidden" value="0" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="mopsbbk" type="hidden" value="0DAE5312D60401E05272FB29:B0170E8542B4F02E126307F4" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="mopbelg" type="hidden" value="0147440:E0FFCBC78A8E933C9CE6DBB7:DBB3D0EB6EF89CE120C183F8" />
-											</div>
-										</form>
-									</div>
-								</div>
+							<div class="dd-main-ontra-form dd-middle-ontra-form">
+							<script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&uid=p2c21081f182&version=1"></script>
+									
 							</div>
+							
+						</div>
 						</div>
 					</div>
 				</div>
@@ -1587,134 +1360,20 @@
 <!-- Modal -->
 <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
   <div class="modal-dialog">
-    <div class="modal-content">
-     
-      <div class="modal-body">
-       <div class="moonray-form-p2c21081f178 ussr"> <button type="button" class="close-button-lp" data-bs-dismiss="modal">X</button>
-									<div class="form-landing-page moonray-form  moonray-form-label-pos-stacked">
-										<form class="moonray-form-clearfix shadow" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8">
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-html">
-												<div id="mr-field-element-917789526240" class=" moonray-form-element-html">
-													<h3 class="text-center">Request a Quote for your <br />Web/Mobile App Project</h3></div>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text">
-												<label for="mr-field-element-954250408779" class="moonray-form-label"></label>
-												<input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-954250408779" required value="" placeholder="First Name" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email">
-												<label for="mr-field-element-900895699369" class="moonray-form-label"></label>
-												<input name="email" type="email" class="moonray-form-input" id="mr-field-element-900895699369" required value="" placeholder="Best Email Address" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-tel">
-												<label for="mr-field-element-874520202076" class="moonray-form-label"></label>
-												<input name="sms_number" type="tel" class="moonray-form-input" id="mr-field-element-874520202076" value="" placeholder="Mobile Number" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-select">
-												<label for="mr-field-element-984794874128" class="moonray-form-label">What are you looking for?</label>
-												<select name="f1740" required class="moonray-form-input" id="mr-field-element-984794874128" value="" placeholder>
-													<option value="">Select...</option>
-													<option value="261">Hire Developers / Designers from us</option>
-													<option value="260">Build a Website</option>
-													<option value="259">Build a Web Application</option>
-													<option value="258">Build a Mobile Application</option>
-													<option value="257">Build a Web and Mobile Application</option>
-													<option value="252">Looking for a Job</option>
-													<option value="251">Looking for a Partnership Opportunities</option>
-													<option value="250">Looking to offer your Marketing Services / SEO to us</option>
-												</select>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-select">
-												<label for="mr-field-element-460859085592" class="moonray-form-label">What is your budget for this project?</label>
-												<select name="f1518" required class="moonray-form-input" id="mr-field-element-460859085592" value="" placeholder>
-													<option value="">Select...</option>
-													<option value="442">Less than $30,000</option>
-													<option value="441">$30,000 - $50,000</option>
-													<option value="440">$50,000 - $100,000</option>
-													<option value="439">$100,000 - $250,000</option>
-													<option value="438">Greater than $250,000</option>
-												</select>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async defer></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LdE4aUUAAAAAK4f8kes3LxDUCR1PwirxuMrfxqZ"></div></div>
-											<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit">
-												<input type="submit" name="submit-button" value="Submit" class="moonray-form-input" id="mr-field-element-967502111092" src/>
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="afft_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="aff_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="sess_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="ref_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="own_" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="oprid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="contact_id" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_source" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_medium" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_term" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_content" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="utm_campaign" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="referral_page" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_op_gclid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_op_gcid" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_fbc" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="_fbp" type="hidden" value="" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="uid" type="hidden" value="p2c21081f178" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="uniquep2c21081f178" type="hidden" value="0" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="mopsbbk" type="hidden" value="0DAE5312D60401E05272FB29:B0170E8542B4F02E126307F4" />
-											</div>
-											<div class="moonray-form-element-wrapper moonray-form-input-type-hidden">
-												<input name="mopbelg" type="hidden" value="0147440:E0FFCBC78A8E933C9CE6DBB7:DBB3D0EB6EF89CE120C183F8" />
-											</div>
-										</form>
-									</div>
-								</div>
-      </div>
-    
-    </div>
+     <div class="modal-content">
+      <div class="modal-body"> <div class="dd-main-ontra-form dd-middle-ontra-form"><button type="button" class="close-button-lp" data-bs-dismiss="modal">X</button>
+		<script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&uid=p2c21081f183&version=1"></script>
+		</div>
+		</div>
+	</div>
   </div>
 </div>
  
 
 
-
-
-		<?php require_once "../../footer-landing.php"; ?>
 <style>.footer-bottom .section-2 a.request-quote{height: 56px; text-decoration:none; padding:0;line-height:56px}</style>
+
+		<?php require_once "footer-landing.php"; ?>
+
 		<!-- Button trigger modal -->
  

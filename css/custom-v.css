@@ -1547,6 +1547,17 @@ padding: 0; width: 100%; font-family: ralewaybold; margin : 0 auto; background: 
 
 #staticBackdrop .dd-middle-ontra-form.dd-main-ontra-form .close-button-lp {right: 7px;top: 3px;}
  
+ 
+ 
+ .img-fluid.max-width-250 {
+	max-width: 151px;
+	margin-right: 0;
+	padding-right: 0;
+	text-align: right;
+	float: right;
+}
+
+
 @media screen and (max-width: 1400px) {
 .header-right-lp a.top-links-lp.los-angles {font-size: 18px;}
 }
