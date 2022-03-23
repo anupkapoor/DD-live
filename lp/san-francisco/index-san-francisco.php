@@ -1,10 +1,6 @@
-<?php include "config.php"; ?>
-	<?php include "header-lp-atlanta-no-index.php"; ?>
+<?php include "../../config.php"; ?>
+	<?php include "../../header-lp-san-francisco.php"; ?>
 		<!-- Home -->
-		<style>.section-1-lp .container {background-image: none;}
-		.landing-page-v .list-style-v57 li {padding: 15px 0px 0px 0;background: none;}
-		.section-12-lp.gradient-section-lp p{max-width:none;}
-		</style>
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
 			<section class="section-1-lp  py-5 my-4">
@@ -12,87 +8,48 @@
 					<div class="container">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
-								
-							<h1>Go from <span>Idea to App</span> With a <span>Free Strategy Session</span></h1>
-							
-							<p class="font-size-22px" ><strong>LIMITED SPOTS AVAILABLE NOW</strong>: Discover How to <strong><span class="blue-color-text">Transform Your Vision Into A Successful App</span></strong> Business using the <strong><span class="blue-color-text">
-							Same Proven Blueprint that our Multi-Million Dollar Clients use</span></strong>.</p>
-							
-							
-							<p><strong>Dreaming of launching a successful app?</strong> Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you:</p>
-								<ul class="p-0 list-style-v57">
-										<li>Customize the exact 6 step proven process you must follow to build a profitable app.</li>
-										<li><span class="blue-color-text">Determine the realistic budget for your app and how to save money when you launch it.</span></li>
-										<li>Map out the exact tech stack your developers should use to build your app so you can scale up quickly and easily.</li>
-										<li><span class="blue-color-text">Validate your idea and audience before you invest any money and how to build a hungry crowd during pre-launch.</span></li>
-										<li>Set a realistic time-frame your app development should take so you can plan your marketing strategy and timing for a perfect launch.</li>
-										<li><span class="blue-color-text">Find out how to build an MVP for your app in the next 60 days on a shoestring budget to minimize financial risk.</span></li>
-										<li>Understand the two hidden reasons why founders fail when trying to build an app (and how to avoid them).</li>
-										<li><span class="blue-color-text">Answer all of your questions about the app development process.</span></li>
-									</ul>
-									<!-- <p class="py-3">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p>Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>-->
-							
+								<p><strong>Are You Frustrated Dealing With Offshore and/or Expensive Incompetent App Developers? <span class="word-break">If Yes... Then Meet:</span></strong></p>
+								<h1><span>San Francisco's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
+								<p>Our local development team looks forward to meeting you in person at our office in San Francisco to turn your app idea into a multi-million dollar business.</p>
 							</div>
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-5">
+							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
 								<div class="dd-main-ontra-form">								
 								<script src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&uid=p2c21081f181&version=1"></script>
 								</div>
-								<div class="p-3">
-                                 <h5 class="pt-2"><strong>SPOTS ARE LIMITED</strong> so register now to claim your complimentary Strategy Session with one of our development experts.</h5>                              
-</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
-			
 			<section class="section-2-lp border-top-1px-lp">
 				<div class="container-fluid">
 					<div class="container">
-					
-					<div class="row mt-3">
-						<div class="col-lg-2 col-sm-3"><img src="<?php echo BASE_URL ?>/images/greg-h.png" alt="Greg" class="img-fluid max-width-250" /></div>
-						<div class="col-lg-10 col-sm-9 "><p class="font-size-20px line-height-1-5">"Dedicated Developers team helped us develop custom Splash web apps for our super high-end clients including <strong>Spotify, Facebook, Condé Nast, General Electric, Expedia and Uber</strong>. With their help, we've grown our software business to <strong>$20,000,000+ in recurring revenue</strong> and over 800 clients."</p>
-<p><strong>- Greg Higgins</strong><br /><strong>Vice President, SplashThat.com</strong></p>
-</p></div>
-					</div>
    
-					  <div id="clientLogolp" class="carousel slide carousel-fade" data-bs-ride="carousel">
-					  <div class="carousel-inner">
-						<div class="carousel-item active">
-						  
-						 <p class="text-center mt-5">Our clients include Global Brands, Silicon Valley Founders</p>
-						   <img src="<?php echo BASE_URL ?>/images/client-logos-1-lp.png" alt="Client Logos" class="img-fluid" />
-						</div>
-						
-					   
-					  </div>
-					 
-					</div>
-					   
-					</div>
+  <div id="clientLogolp" class="carousel slide carousel-fade" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+     <p class="text-center"><span style="color: #1e6ebe; font-size:30px">Our Valued San Francisco Based Clients</span></p>
+	 <img src="<?php echo BASE_URL ?>/images/client-logos-2-lp.png" alt="Client Logos" class="img-fluid" />
+	 <p class="text-center mt-5">Our Valued Clients Globally</p>
+       <img src="<?php echo BASE_URL ?>/images/client-logos-1-lp.png" alt="Client Logos" class="img-fluid" />
+    </div>
+    
+   
+  </div>
+ 
+</div>
+   
+</div>
 				</div>
 			</section>
-			
-			
 			<section class="section-3-lp gray-section-lp py-5">
 				<div class="container-fluid">
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<h2 class="text-center" style="font-size:40px;">What Our <span style="color: #1e6ebe;">Clients</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers</span> Local Development Team</h2> </div>
+								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In San Francisco</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
 						</div>
-						
-						
-						
 						<div class="row pt-5 py-4">
-							<div class=" col-md-6 bot-margin-add"> <a id="showVideo6" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-6.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>SplashThat, NewYork, NY</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo7" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-7.png" alt="Play Testimonial" />
-				  </a><p class="text-center mt-2 mb-0"><strong>Paddle Partner, Hicksville, NY </strong></p> </div>
-						</div><div class="row pt-5 py-4">
 							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3" class="video-testimonial-btn" title="What Our Clients Say"> 
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3.png" alt="Play Testimonial" />
 				  </a> <p class="text-center mt-2 mb-0"><strong>Demand Products, Alpharetta, GA</strong></p></div>
@@ -100,7 +57,15 @@
 					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2.png" alt="Play Testimonial" />
 				  </a><p class="text-center mt-2 mb-0"><strong>Robert Hagerman Consulting, Cumming, GA</strong></p> </div>
 						</div>
-						 
+						<div class="row pb-4">
+							
+				  <div class=" col-md-6 bot-margin-add"> <a id="showVideo1" class="video-testimonial-btn" title="What Our Clients Say"> 
+					 <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-1.png" alt="Play Testimonial" />
+					</a> <p class="text-center mt-2 mb-0"><strong>Know Longer Single, Buckhead, GA</strong></p></div>
+							<div class=" col-md-6"> <a id="showVideo4" class="video-testimonial-btn" title="What Our Clients Say"> 
+					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-4.png" alt="Play Testimonial" />
+				  </a> <p class="text-center mt-2 mb-0"><strong>ROC Cabinetry, Norcross, GA</strong></p></div>
+						</div>
 					</div>
 					<div class="video-testimonial-root">
 						<div class="video-front" id="opened-video"></div><a id="close-video"> X </a></div>
@@ -111,7 +76,7 @@
 					<div class="container px-4">
 						<div class="row pb-4">
 							<div class="col">
-								<h2 class="text-center">We’ve Also Helped Companies In More Than <span style="color: #1e6ebe;"><br />25 Countries Launch The Web & Mobile Apps </span> They Needed To Succeed</h2>
+								<h2 class="text-center">We Love Helping Our San Francisco Neighbors But... <br /><span style="color: #1e6ebe;">We’ve Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
 							</div>
 						</div>
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -125,7 +90,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial1.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Neil Venketramen</strong></p>
-															<!-- <p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p>-->
+															<!-- <p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p>-->
 															<p class="m-0 p-0 text-style-2-lp">Co-Founder, Lean Buddy</p>
 														</div>
 													</div>
@@ -142,7 +107,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial2.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jane Nguyen</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO & Founder, Complete Business Accounting</p>
 														</div>
 													</div>
@@ -165,7 +130,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial3.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Nitin Chhoda</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO & Founder, Total Activation.</p>
 														</div>
 													</div>
@@ -182,7 +147,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial4.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jared Prazen</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Director of Business Development, Traffic Motion</p>
 														</div>
 													</div>
@@ -205,7 +170,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial5.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Joui Turandot</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">President, JTM Consulting.</p>
 														</div>
 													</div>
@@ -222,7 +187,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial6.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Greg Higgins</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Director of Strategic Partnerships, Splash</p>
 														</div>
 													</div>
@@ -245,7 +210,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial7.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Chelsea O’Brien</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">President, Tech Diva Media</p>
 														</div>
 													</div>
@@ -262,7 +227,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial8.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jason Womack</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Get Momentum Coaching</p>
 														</div>
 													</div>
@@ -285,7 +250,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial9.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Eben Pagan</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Hot Topic Media</p>
 														</div>
 													</div>
@@ -302,7 +267,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial10.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Niall Strickland</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Growth Oracle</p>
 														</div>
 													</div>
@@ -325,7 +290,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial11.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Dr. Bradley Nelson</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO and Founder, Healers Library</p>
 														</div>
 													</div>
@@ -342,7 +307,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial12.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Bill Parravano</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO and Founder, Healing Concepts, L.P.</p>
 														</div>
 													</div>
@@ -365,7 +330,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial13.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Mike Lambert</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CTO, Virtual Project Manager, Inc.</p>
 														</div>
 													</div>
@@ -382,7 +347,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial14.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>J.Will</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">President & Co-Founder, Advisor Internet Marketing</p>
 														</div>
 													</div>
@@ -406,7 +371,7 @@
 			<section class="section-5-lp  py-5">
 				<div class="container-fluid pb-1">
 					<div class="container">
-						<h2 class="pb-2">Your US Based Development Team <br />with a Worldwide Reach</h2>
+						<h2 class="pb-2">Your San Francisco-Based Development Team <br />with a Worldwide Reach</h2>
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
@@ -414,39 +379,39 @@
 								<p class="text-white"><strong>Vishal B.</strong>
 									<br />Principal Mobile and Web App Developer<br><strong>Alpharetta, GA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/vikas_b.jpg" class="rounded-circle" />
+							<div class="col text-center"> <img src="images/vikas_b.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Vikas B.</strong>
 									<br />Principal Mobile and Web App Developer<br><strong>Marietta, GA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/rajesh.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle"  />
 								<p class="text-white"><strong>Rajesh K.</strong>
-									<br />Principal Backend Developer<br><strong>Atlanta, GA</strong></p>
+									<br />Principal Backend Developer<br><strong>San Francisco, GA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/domnic.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
 								<p class="text-white"><strong>Dominic C.</strong>
-									<br />CRM Engineer<br><strong>Atlanta, GA</strong></p>
+									<br />CRM Engineer<br><strong>San Francisco, GA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/karen-k.jpg" class="rounded-circle"  />
+							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle"  />
 								<p class="text-white"><strong>Karen K.</strong>
-									<br />Senior Software Developer<br><strong>Atlanta, GA</strong></p>
+									<br />Senior Software Developer<br><strong>San Francisco, GA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/manoj_k.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle"  />
 								<p class="text-white"><strong>Manoj K.</strong>
 									<br />Principal Developer<br><strong>Marietta, GA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/thora_toft.jpg" class="rounded-circle" />
+							<div class="col text-center"> <img src="images/thora_toft.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Thora T.</strong>
 									<br />Senior UI/UX Designer <br><strong>Roswell, GA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/arjun.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Arjun R.</strong>
-									<br />Senior React Developer<br><strong>Alpharetta, GA</strong></p>
+							<div class="col text-center"> <img src="images/varinder-pal.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Varinder P.</strong>
+									<br />Senior Web Developer<br><strong>Alpharetta, GA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/sreelekha.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Lekha.</strong>
-									<br />Senior Angular Developer<br><strong>Cumming, GA</strong></p>
+                            <div class="col text-center"> <img src="images/harsimran-singh.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Harsimran S.</strong>
+									<br />Senior Software Developer<br><strong>Cumming, GA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/atlanta/images/sharanjeet.jpg" class="rounded-circle" />
+							<div class="col text-center"> <img src="images/sharanjeet.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Sharanjit S.</strong>
 									<br />Senior QA Developer<br><strong>Cumming, GA</strong></p>
 							</div>
@@ -524,18 +489,16 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Doctors Beyond</strong></p>
 									<p>A telemedicine app to allow patients unlimited access to Doctors, anytime and anywhere.</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
-									<p class="map-location">Atlanta, GA</p>
+									<img src="images/map-location.png" alt=""  />
+									<p class="map-location">San Francisco, GA</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/doctorsbeyond_thumb.jpg" alt="" class="responsive-img" /> 
+								<img src="images/doctorsbeyond_thumb.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
 					</a>
-				</li>
-				
-				
+				</li> 
 				<li>
 						<a href="<?php echo PORTFOLIO_URL ?>/numinav/" target="_blank">
 							<p class="portfolio-title-black">Numinav</p>
@@ -543,11 +506,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Numinav</strong></p>
 									<p>Next level ride sharing app</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
-									<p class="map-location">Atlanta, GA</p>
+									<img src="images/map-location.png" alt=""  />
+									<p class="map-location">San Francisco, GA</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-13.jpg" alt="" class="responsive-img" /> 
+								<img src="images/portfolio-listing-13.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -560,11 +523,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>KLS Dating App</strong></p>
 									<p>KLS helps people become the best versions of themselves</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
-									<p class="map-location">Atlanta, GA</p>
+									<img src="images/map-location.png" alt=""  />
+									<p class="map-location">San Francisco, GA</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-11.jpg" alt="" class="responsive-img" /> 
+								<img src="images/portfolio-listing-11.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -577,11 +540,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Cut Time</strong></p>
 									<p>Cut Time is an app that allows service based businesses</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+									<img src="images/map-location.png" alt=""  />
 									<p class="map-location">Hoover, AL</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-12.jpg" alt="" class="responsive-img" /> 
+								<img src="images/portfolio-listing-12.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -594,11 +557,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Demand Products</strong></p>
 									<p>Specialists in Tools & Equipment for Foam Installation</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+									<img src="images/map-location.png" alt=""  />
 									<p class="map-location">Alpharetta, GA</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-10.jpg" alt="" class="responsive-img" /> 
+								<img src="images/portfolio-listing-10.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -611,11 +574,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Corning® Gorilla® Glass</strong></p>
 									<p>Notification app for large conference</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
-									<p class="map-location">New York, NY</p>
+									<img src="images/map-location.png" alt=""  />
+									<p class="map-location">San Francisco, NY</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/portfolio-listing-14.jpg" alt="" class="responsive-img" /> 
+								<img src="images/portfolio-listing-14.jpg" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -628,11 +591,11 @@
 								<div class="portfolio-hover-content">
 									<p><strong>Shuttle Rydez</strong></p>
 									<p>Automotive Dealership Shuttle Management System</p>
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+									<img src="images/map-location.png" alt=""  />
 									<p class="map-location">Vancouver, Canada</p>
 								</div>
 							</div>
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/shuttle-rydez-thumb.png" alt="" class="responsive-img" /> 
+								<img src="images/shuttle-rydez-thumb.png" alt="" class="responsive-img" /> 
 							<div>
 								
 							</div>
@@ -644,32 +607,31 @@
 										<div class="portfolio-hover-content">
 											<p><strong>Audvisor Sound Advice</strong></p>
 											<p>Micro-podcasts that are filled with actionable insights from various world-class experts</p>
-											<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
+											<img src="images/map-location.png" alt=""  />
 											<p class="map-location">SanFranscisco, CA</p>
 										</div>
 									</div>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/audvisor_thumbnail.png" alt="Audvisor Sound Advice" class="responsive-img" /> 
+										<img src="images/audvisor_thumbnail.png" alt="Audvisor Sound Advice" class="responsive-img" /> 
 									<div>
 										
 									</div>
 							</a>
 						</li>
-						<li><a href="<?php echo PORTFOLIO_URL ?>/trick-it-out-lacrosse/" target="_blank">
-									<p class="portfolio-title-black" style="color:#ffffff">Trick It Out Lacrosse</p>
-									<div class="portfolio-hover">
-										<div class="portfolio-hover-content">
-											<p><strong>Trick It Out Lacrosse</strong></p>
-											<p class="font-size-16">Fastest way to learn how the<br>best LAX players perform.</p>
-											<img src="<?php echo BASE_URL; ?>/atlanta/images/map-location.png" alt=""  />
-											<p class="map-location">New York, NY</p>
-										</div>
-									</div>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/tios-thumbnail.jpg" alt="Trick It Out Lacrosse" class="responsive-img" /> 
-									<div  id="our-solution">
-										&nbsp;
-									</div>
-							</a>
-						</li>
+						<li>
+						<a href="<?php echo PORTFOLIO_URL ?>/fat-burning-man/" target="_blank">
+							<p class="portfolio-title-black">Fat Burning Man</p>
+							<div class="portfolio-hover">
+								<div class="portfolio-hover-content">
+									<p><strong>Fat Burning Man</strong></p>
+									<p>Burn Belly Fat &amp; Feel Great</p>
+									
+									<img src="images/map-location.png" alt="">
+									<p class="map-location">Dallas, TX</p>
+								</div>
+							</div>
+							<img src="images/portfolio-listing-4.jpg" alt="" class="responsive-img">
+						</a>
+					</li>
 					</ul>
 					</div>
 			</section> 
@@ -681,14 +643,15 @@
 							<h2 class="text-center">How We Work</h2>
 						</div>
 						<div class="col-md-12 col-lg-6">
-							<p>With Dedicated Developers you get the best of both worlds – US-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced team will keep you well informed as we turn your app idea into a customer getting profit machine. <br><strong style="font-size: 18px;">With Dedicated Developers you enjoy:</strong></p>
+							<p>With Dedicated Developers you get the best of both worlds – San Francisco-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced San Francisco team will keep you well informed as we turn your app idea into a customer getting profit machine. <br></p>
 						</div>
 					</div>
 				</div>
 			</section>
 			<section class="section-9-lp py-0 relative-negative-170">
 				<div class="container mb-0 pb-0">
-					<div class="row pb-3">
+									<div class="row pb-3">
+									<div class="col-12 pb-3"> <p><strong style="font-size: 18px; display:block; text-align:center;">With Dedicated Developers you enjoy:</strong></p></div>
 						<div class="col-12 col-sm-6 col-md-3 section-9-box">
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
@@ -709,7 +672,7 @@
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
 									<ul>
-									   <li>US Based Delivery Team</li>
+									   <li>San Francisco Based Delivery Team</li>
 										<li>Up-to-date on latest technology</li>
 										<li>Suggest app improvements</li>
 										<li>Deliver highest quality in shortest time</li>
@@ -763,34 +726,34 @@
 					<div class="container">
 						<div class="row py-3">
 							<div class="col-md-12">
-									<h2 class="text-center">Mobile App Development Services</h2>
+									<h2 class="text-center">Mobile App Development Services <br />In San Francisco</h2>
 							</div>
 						</div>
 						<div class="row pb-3">
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/android-icon-lp.png" alt="Android App Development" />
+									<img src="images/android-icon-lp.png" alt="Android App Development" />
 									<p><strong>Android App<br />Development</strong></p>
 									<p>Get a high quality, full-stack app for the Android platform.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/apple-icon-lp.png" alt="iOS App Development" />
+									<img src="images/apple-icon-lp.png" alt="iOS App Development" />
 									<p><strong>iOS App<br />Development</strong></p>
 									<p>Ensure your app takes full advantage of the iOS platform.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-								<img src="<?php echo BASE_URL; ?>/atlanta/images/iot-icon-lp.png" alt="IoT - Internet of Things" />
+								<img src="images/iot-icon-lp.png" alt="IoT - Internet of Things" />
 								<p><strong>IoT - Internet of Things</strong></p>
 								<p>Get the high degree of functionality IoT apps need today.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/wearable-icon-lp.png" alt="Wearable App Development" />
+									<img src="images/wearable-icon-lp.png" alt="Wearable App Development" />
 									<p><strong>Wearable App<br />Development</strong></p>
 									<p>We are experts at creating apps for watches, glasses and more.</p>
 								</div>
@@ -799,28 +762,28 @@
 						<div class="row ">
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/cross-plateform-lp.png" alt="Cross Platforms Development" />
+									<img src="images/cross-plateform-lp.png" alt="Cross Platforms Development" />
 									<p><strong>Cross Platforms<br />Development</strong></p>
 									<p>Need a multiple platform app for iOS or Android? Look no further!</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/native-icon-lp.png" alt="Native App Development" />
+									<img src="images/native-icon-lp.png" alt="Native App Development" />
 									<p><strong>Native App<br />Development</strong></p>
 									<p>Make sure your native app has all the best tools and features.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/hybird-icon-lp.png" alt="Hybrid App Development" />
+									<img src="images/hybird-icon-lp.png" alt="Hybrid App Development" />
 									<p><strong>Hybrid App<br />Development</strong></p>
 									<p>We have extensive knowledge and experience with hybrid app frameworks.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-md-6 col-lg-3">
 								<div class="developement-block-lp">
-									<img src="<?php echo BASE_URL; ?>/atlanta/images/vr-dev-icon-lp.png" alt="AR/VR App Development" />
+									<img src="images/vr-dev-icon-lp.png" alt="AR/VR App Development" />
 									<p><strong>AR/VR App<br />Development</strong></p>
 									<p>Get custom, futuristic apps that help your company stand out.</p>
 								</div>
@@ -830,7 +793,7 @@
 				</div>
 			</section>
 
-			<section class="section-11-lp py-0  relative-negative-100" id="trending">
+			<section class="section-11-lp py-0  relative-negative-100">
 				<div class="container-fluid">
 					<div class="container section-11-bg-lp">
 						<div class="row p-5">
@@ -846,17 +809,16 @@
 					</div>
 			</section>
 			
-			<section class="section-12-lp black-bg-v pb-0 mt-0">
+			<section class="section-12-lp black-bg-v pb-0 mt-0 ">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12 m-auto text-center pt-0">
 								<h2 class="text-center pt-3">App Development Expertise</h2>
 <!--								<p class="pt-3">Our expert developers are up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p> -->
-                                    <p class="pt-3">One of US’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
+                                    <p class="pt-3">One of San Francisco’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
 							</div>
 						</div>
 					</div>
-					
 					<div class="container">
 						<div class="row pb-0">
 							<div class="col-md-12 m-auto text-center pt-4 pb-0 mb-0">
@@ -875,92 +837,90 @@
 								<div class="tab-content" id="nav-tabContent">
 								  <div class="tab-pane fade show active" id="tab-ios" role="tabpanel" aria-labelledby="nav-icon-1-tab">
 									  <ul>
-										  <li><img alt="tab-ios" src="<?php echo BASE_URL; ?>/atlanta/images/1.png" /><p>Swift</p></li>
-										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/2.png" /><p>Objective-C</p></li>
-										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/3.png" /><p>X-Code</p></li>
-										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/4.png" /><p>Touch Id</p></li>
-										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/5.png" /><p>React Native</p></li>
-										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/6.png" /><p>Flutter</p></li>
-										  <li><img alt="tab-ios"  src="<?php echo BASE_URL; ?>/atlanta/images/7.png" /><p>AFNetwork</p></li>
+										  <li><img alt="tab-ios" src="images/1.png" /><p>Swift</p></li>
+										  <li><img alt="tab-ios"  src="images/2.png" /><p>Objective-C</p></li>
+										  <li><img alt="tab-ios"  src="images/3.png" /><p>X-Code</p></li>
+										  <li><img alt="tab-ios"  src="images/4.png" /><p>Touch Id</p></li>
+										  <li><img alt="tab-ios"  src="images/5.png" /><p>React Native</p></li>
+										  <li><img alt="tab-ios"  src="images/6.png" /><p>Flutter</p></li>
+										  <li><img alt="tab-ios"  src="images/7.png" /><p>AFNetwork</p></li>
 									  </ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-android" role="tabpanel" aria-labelledby="nav-icon-2-tab">
 									<ul>
-										<li><img  alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/8.png" /><p>Java</p></li>
-										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/9.png" /><p>Android Wear</p></li>
-										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/10.png" /><p>Kotlin</p></li>
-										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/11.png" /><p>React Native</p></li>
-										<li><img alt="android-icon" src="<?php echo BASE_URL; ?>/atlanta/images/12.png" /><p>Flutter</p></li>
+										<li><img  alt="android-icon" src="images/8.png" /><p>Java</p></li>
+										<li><img alt="android-icon" src="images/9.png" /><p>Android Wear</p></li>
+										<li><img alt="android-icon" src="images/10.png" /><p>Kotlin</p></li>
+										<li><img alt="android-icon" src="images/11.png" /><p>React Native</p></li>
+										<li><img alt="android-icon" src="images/12.png" /><p>Flutter</p></li>
 									</ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-hybrid" role="tabpanel" aria-labelledby="nav-icon-3-tab">
 									<ul>
-										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/13.png" /><p>Phone Gap</p></li>
-										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/14.png" /><p>HTML5</p></li>
-										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/15.png" /><p>Hybrid</p></li>
-										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/16.png" /><p>Angular Js</p></li>
-										<li><img alt="hybrid-icon" src="<?php echo BASE_URL; ?>/atlanta/images/17.png" /><p>Sencha Touch</p></li>
+										<li><img alt="hybrid-icon" src="images/13.png" /><p>Phone Gap</p></li>
+										<li><img alt="hybrid-icon" src="images/14.png" /><p>HTML5</p></li>
+										<li><img alt="hybrid-icon" src="images/15.png" /><p>Hybrid</p></li>
+										<li><img alt="hybrid-icon" src="images/16.png" /><p>Angular Js</p></li>
+										<li><img alt="hybrid-icon" src="images/17.png" /><p>Sencha Touch</p></li>
 									</ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-wearable" role="tabpanel" aria-labelledby="nav-icon-4-tab">
 									  <ul>
-											<li><img alt="wearable-icon" src="<?php echo BASE_URL; ?>/atlanta/images/18.png" /><p>Fitness Tracker</p></li>
-											<li><img alt="wearable-icon" src="<?php echo BASE_URL; ?>/atlanta/images/19.png" /><p>Android Wear</p></li>
-											<li><img alt="wearable-icon" src="<?php echo BASE_URL; ?>/atlanta/images/20.png"/><p>Apple Watch</p></li>
+											<li><img alt="wearable-icon" src="images/18.png" /><p>Fitness Tracker</p></li>
+											<li><img alt="wearable-icon" src="images/19.png" /><p>Android Wear</p></li>
+											<li><img alt="wearable-icon" src="images/20.png"/><p>Apple Watch</p></li>
 									  </ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-web" role="tabpanel" aria-labelledby="nav-icon-5-tab">
 										<ul>
-											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/21.png" /><p>CSS3</p></li>
-											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/22.png" /><p>HTML5</p></li>
-											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/23.png" /><p>Angular JS</p></li>
-											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/24.png" /><p>Java</p></li>
-											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/25.png" /><p>Bootstrap</p></li>
-											<li><img alt="web-icon" src="<?php echo BASE_URL; ?>/atlanta/images/26.png" /><p>WordPress</p></li>
+											<li><img alt="web-icon" src="images/21.png" /><p>CSS3</p></li>
+											<li><img alt="web-icon" src="images/22.png" /><p>HTML5</p></li>
+											<li><img alt="web-icon" src="images/23.png" /><p>Angular JS</p></li>
+											<li><img alt="web-icon" src="images/24.png" /><p>Java</p></li>
+											<li><img alt="web-icon" src="images/25.png" /><p>Bootstrap</p></li>
+											<li><img alt="web-icon" src="images/26.png" /><p>WordPress</p></li>
 										</ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-ui" role="tabpanel" aria-labelledby="nav-icon-6-tab">
 									  <ul>
-										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/27.png" /><p>Invision</p></li>
-										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/27b.png" /><p>SKetch</p></li>
-										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/28.png" /><p>Illustrator</p></li>
-										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/29.png" /><p>Photoshop</p></li>
-										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/30.png" /><p>Zeplin</p></li>
-										  <li><img alt="ui-icon" src="<?php echo BASE_URL; ?>/atlanta/images/31.png" /><p>Balsamiq</p></li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/32.png" /><p>Axure</p></li>
+										  <li><img alt="ui-icon" src="images/27.png" /><p>Invision</p></li>
+										  <li><img alt="ui-icon" src="images/27b.png" /><p>SKetch</p></li>
+										  <li><img alt="ui-icon" src="images/28.png" /><p>Illustrator</p></li>
+										  <li><img alt="ui-icon" src="images/29.png" /><p>Photoshop</p></li>
+										  <li><img alt="ui-icon" src="images/30.png" /><p>Zeplin</p></li>
+										  <li><img alt="ui-icon" src="images/31.png" /><p>Balsamiq</p></li>
+										  <li><img alt="testing-icon" src="images/32.png" /><p>Axure</p></li>
 									  </ul>
 								  </div>
 								  <div class="tab-pane fade" id="tab-testing" role="tabpanel" aria-labelledby="nav-icon-7-tab">
 									  <ul>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/33.png" /><p>Selenium</p></li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/34.png" /><p>jMeter </li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/35.png" /><p>QTP</p></li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/36.png" /><p>Jira</p></li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/37.png" /><p>Bugzila</p></li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/38.png" /><p>Appium</p></li>
-										  <li><img alt="testing-icon" src="<?php echo BASE_URL; ?>/atlanta/images/39.png" /><p>Tsung</p></li>
+										  <li><img alt="testing-icon" src="images/33.png" /><p>Selenium</p></li>
+										  <li><img alt="testing-icon" src="images/34.png" /><p>jMeter </li>
+										  <li><img alt="testing-icon" src="images/35.png" /><p>QTP</p></li>
+										  <li><img alt="testing-icon" src="images/36.png" /><p>Jira</p></li>
+										  <li><img alt="testing-icon" src="images/37.png" /><p>Bugzila</p></li>
+										  <li><img alt="testing-icon" src="images/38.png" /><p>Appium</p></li>
+										  <li><img alt="testing-icon" src="images/39.png" /><p>Tsung</p></li>
 									  </ul>
 								  </div>
-								  <div class="tab-pane fade" id="tab-database" role="tabpanel" aria-labelledby="nav-icon-8-tab" >
-									   
-									   <ul>
-										  <li><img  src="<?php echo BASE_URL; ?>/atlanta/images/40.png" alt="database-icon" /><p>PostgreSQL</p></li>
-										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/41.png" /><p>Firebase</p></li>
-										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/42.png" /><p>DynamoDB</p></li>
-										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/43.png" /><p>Mongo DB</p></li>
-										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/44.png" /><p>Mariadb</p></li>
-										  <li><img alt="database-icon" src="<?php echo BASE_URL; ?>/atlanta/images/45.png" /><p >MySQL</p></li>
+								  <div class="tab-pane fade" id="tab-database" role="tabpanel" aria-labelledby="nav-icon-8-tab">
+									  <ul>
+										  <li><img  src="images/40.png" alt="database-icon" /><p>PostgreSQL</p></li>
+										  <li><img alt="database-icon" src="images/41.png" /><p>Firebase</p></li>
+										  <li><img alt="database-icon" src="images/42.png" /><p>DynamoDB</p></li>
+										  <li><img alt="database-icon" src="images/43.png" /><p>Mongo DB</p></li>
+										  <li><img alt="database-icon" src="images/44.png" /><p>Mariadb</p></li>
+										  <li><img alt="database-icon" src="images/45.png" /><p>MySQL</p></li>
 									  </div>
 									  </ul>
-									 
 								  </div>
 							</div>
 						</div>
-					</div><div id="why-choose-dd" style="clear:both; width:100%; float:left;">&nbsp;</div>
+					</div>
 			</section>
 			
 		<!-- Why Choose Dedicated developers Block -->
-		<section class="why-choose-dd py-5" >
+		<section class="why-choose-dd py-5">
 			<div class="container-block pt-0">
 				<h2>Why Choose <br/>Dedicated Developers</h2>
 				<h3 class="align-center bottom-margin pb-2">Whatever business you're in, our highly qualified and skilled developers are here to help. Our passion to deliver is our ongoing dedication to learn and craft new ideas, and transform those ideas into ever better solutions!</h3> </div>
@@ -1019,7 +979,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/tyler.png" />
+            	<img src="images/tyler.png" />
             </div>
             <div class="person-details-box">
             	<h5>Tyler Archer</h5>
@@ -1034,7 +994,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/damir-brajdic.png" />
+            	<img src="images/damir-brajdic.png" />
             </div>
             <div class="person-details-box">
             	<h5>Damir Brajdic</h5>
@@ -1055,7 +1015,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/viral-darji.png" />
+            	<img src="images/viral-darji.png" />
             </div>
             <div class="person-details-box">
             	<h5>Viral Darji</h5>
@@ -1070,7 +1030,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/jodi-womack.png" />
+            	<img src="images/jodi-womack.png" />
             </div>
             <div class="person-details-box">
             	<h5>Jodi Womack</h5>
@@ -1088,7 +1048,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/robert-hagerman.png" />
+            	<img src="images/robert-hagerman.png" />
             </div>
             <div class="person-details-box">
             	<h5>Robert Hagerman</h5>
@@ -1104,7 +1064,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/niall-strickland.png" />
+            	<img src="images/niall-strickland.png" />
             </div>
             <div class="person-details-box">
             	<h5>Niall Strickland</h5>
@@ -1122,7 +1082,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/kate-mitchell.png" />
+            	<img src="images/kate-mitchell.png" />
             </div>
             <div class="person-details-box">
             	<h5>Kate Mitchell</h5>
@@ -1138,7 +1098,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/ginny-brajdic.png" />
+            	<img src="images/ginny-brajdic.png" />
             </div>
             <div class="person-details-box">
             	<h5>Ginny Brajdic</h5>
@@ -1169,7 +1129,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/tyler.png" />
+            	<img src="images/tyler.png" />
             </div>
             <div class="person-details-box">
             	<h5>Tyler Archer</h5>
@@ -1186,7 +1146,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/damir-brajdic.png" />
+            	<img src="images/damir-brajdic.png" />
             </div>
             <div class="person-details-box">
             	<h5>Damir Brajdic</h5>
@@ -1207,7 +1167,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/viral-darji.png" />
+            	<img src="images/viral-darji.png" />
             </div>
             <div class="person-details-box">
             	<h5>Viral Darji</h5>
@@ -1224,7 +1184,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/jodi-womack.png" />
+            	<img src="images/jodi-womack.png" />
             </div>
             <div class="person-details-box">
             	<h5>Jodi Womack</h5>
@@ -1242,7 +1202,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/robert-hagerman.png" />
+            	<img src="images/robert-hagerman.png" />
             </div>
             <div class="person-details-box">
             	<h5>Robert Hagerman</h5>
@@ -1260,7 +1220,7 @@
       								<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/niall-strickland.png" />
+            	<img src="images/niall-strickland.png" />
             </div>
             <div class="person-details-box">
             	<h5>Niall Strickland</h5>
@@ -1278,7 +1238,7 @@
 									<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/kate-mitchell.png" />
+            	<img src="images/kate-mitchell.png" />
             </div>
             <div class="person-details-box">
             	<h5>Kate Mitchell</h5>
@@ -1296,7 +1256,7 @@
                                 	<div class="google-revies-center-part">
       	<div class="person-box">
         	<div class="image-box">
-            	<img src="<?php echo BASE_URL; ?>/atlanta/images/ginny-brajdic.png" />
+            	<img src="images/ginny-brajdic.png" />
             </div>
             <div class="person-details-box">
             	<h5>Ginny Brajdic</h5>
@@ -1330,7 +1290,7 @@
         
 			
 		</section>
-		<section class="section-13-lp gradient-section-lp pt-5 pb-3 mb-0" id="hire-developers">
+		<section class="section-13-lp gradient-section-lp pt-5 pb-3 mb-0">
 			<div class="container-fluid">
 				<div class="container">
 					<div class="row py-0">
@@ -1360,84 +1320,36 @@
 			<section class="section-14-lp py-5">
 				<div class="container-fluid ">
 					<div class="container">
-						 <div class="row">
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								  <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Atlanta</strong><br /> 
-										Dedicated Developers<br />
-										2300 Lakeview Parkway, Suite 700,<br />
-										Alpharetta GA 30009<br />
-										Phone: (770) 274-4482</p>
+						 <div class="row py-4">
+							<div class="col-12 col-sm-12 col-md-6 col-lg-6">
+								 <div class="row address-block-lp p-4">
+									<div class="col-sm-4 col-md-3 p-4">
+										<img src="images/map-section-icon1.png" alt="DD address" />
 									</div>
-							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>New York</strong><br /> 
-										Dedicated Developers<br />
-										275 Seventh Ave, 7th Floor,<br />
-										New York, NY 10001<br />
-										Phone: (646) 504-4982</p>
-									</div>
-							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>San Francisco</strong><br /> 
+									<div class="col-sm-8  col-md-9 px-4 pt-4">
+										<p><strong>San Francisco</strong><br /> 
 										Dedicated Developers<br />
 										1390 Market Street, Suite 200,<br />
 										San Francisco, CA 94102<br />
 										Phone: (415) 992-7442</p>
 									</div>
-							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Los Angeles</strong><br /> 
-										Dedicated Developers<br />
-										10880 Wilshire Blvd #1101,<br />
-										Los Angeles, CA 90024<br />
-										Phone: (310) 412-0043</p>
+								</div>
+								<div class="row address-block-lp  p-4">
+									<div class="col-sm-4 col-md-3 p-4">
+										<img src="images/map-section-icon2.png" alt="DD address" />
 									</div>
-							</div>
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Chicago</strong><br /> 
-										Dedicated Developers<br />
-										55 E. Monroe Street, Suite 3800,<br />
-										Chicago, IL 60603<br />
-										Phone: (312) 761-4448</p>
+									<div class="col-sm-8 col-md-9 px-4 pt-4">
+										<p><strong>Hours of Operation</strong><br />
+										Monday thru Friday<br />
+										08:00 AM - 06:00 PM<br />
+										Phone: (415) 992-7442<br />
+										Email: Sanfrancisco@DedicatedDevelopers.com</p>
 									</div>
+								</div>
 							</div>
-							
-							<div class="col-12 col-sm-12 col-md-4 col-lg-4 ">
-								 <div class="address-block-lp p-4">
-								 <p>
-										<img src="<?php echo BASE_URL; ?>/atlanta/images/map-section-icon1.png" alt="DD address" width="50" />
-									 </p>
-									 <p><strong>Boston</strong><br /> 
-										Dedicated Developers<br />
-										90 Canal Street, 4th Floor,<br />
-										Boston, MA 02114<br />
-										Phone: (617) 655 9333</p>
-									</div>
+							<div class="col-12 col-sm-12 col-md-6 col-lg-6 ">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.4220248109473!2d-84.2923187847848!3d34.0586942806041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5757346a55555%3A0x1a10aad986184e49!2s2300%20Lakeview%20Pkwy%20%23700a%2C%20Alpharetta%2C%20GA%2030009%2C%20USA!5e0!3m2!1sen!2sin!4v1635862978048!5m2!1sen!2sin" width="100%" height="470" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 							</div>
-								
-							 
-							</div>
-							 
 						</div>
 					</div>
 				</div>
