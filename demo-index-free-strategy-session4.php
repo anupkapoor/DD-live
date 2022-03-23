@@ -1,6 +1,10 @@
 <?php include "config.php"; ?>
-	<?php include "header-lp-atlanta.php"; ?>
-		<style>.section-1-lp .container {background-image: none;}</style>
+	<?php include "header-lp-atlanta-no-index.php"; ?>
+		<!-- Home -->
+		<style>.section-1-lp .container {background-image: none;}
+		.landing-page-v .list-style-v57 li {padding: 15px 0px 0px 0;background: none;}
+		.section-12-lp.gradient-section-lp p{max-width:none;}
+		</style>
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
 			<section class="section-1-lp  py-5 my-4">
@@ -8,22 +12,40 @@
 					<div class="container">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
-								<p class="font-size-22px"><strong>Are You Frustrated Dealing With Incompetent App Developers OR Just Confused Whom To Hire? <span class="word-break"> If Yes... Then Meet:</span></strong></p>
-								<h1><span>America's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
 								
-								<p class="font-size-22px" >Book your <strong><span class="blue-color-text">Free Strategy Session</strong></span> now to discover how to <strong>transform your idea into a successful app</strong> business using the <strong>exact 6 step-process</strong> that our <strong>start-up founder clients</strong> have used to turn their <strong>idea into a software empire</strong>. </p>
-								
-								<p>We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco, Los Angeles, New York, Chicago</strong> and <strong>Boston</strong>. We look forward to meeting you in person at one of our offices OR over a Zoom Call to turn your app idea into a multi-million dollar business. </p>
+							<h1>Go from <span>Idea to App</span> With a <span>Free Strategy Session</span></h1>
+							
+							<p class="font-size-22px" ><strong>LIMITED SPOTS AVAILABLE NOW</strong>: Discover How to <strong><span class="blue-color-text">Transform Your Vision Into A Successful App</span></strong> Business using the <strong><span class="blue-color-text">
+							Same Proven Blueprint that our Multi-Million Dollar Clients use</span></strong>.</p>
+							
+							
+							<p><strong>Dreaming of launching a successful app?</strong> Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you:</p>
+								<ul class="p-0 list-style-v57">
+										<li>Customize the exact 6 step proven process you must follow to build a profitable app.</li>
+										<li><span class="blue-color-text">Determine the realistic budget for your app and how to save money when you launch it.</span></li>
+										<li>Map out the exact tech stack your developers should use to build your app so you can scale up quickly and easily.</li>
+										<li><span class="blue-color-text">Validate your idea and audience before you invest any money and how to build a hungry crowd during pre-launch.</span></li>
+										<li>Set a realistic time-frame your app development should take so you can plan your marketing strategy and timing for a perfect launch.</li>
+										<li><span class="blue-color-text">Find out how to build an MVP for your app in the next 60 days on a shoestring budget to minimize financial risk.</span></li>
+										<li>Understand the two hidden reasons why founders fail when trying to build an app (and how to avoid them).</li>
+										<li><span class="blue-color-text">Answer all of your questions about the app development process.</span></li>
+									</ul>
+									 <p class="py-3">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p>Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>
+							
 							</div>
-							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-5">
 								<div class="dd-main-ontra-form">								
 								<script src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&uid=p2c21081f181&version=1"></script>
 								</div>
+								<div class="p-3">
+                                 <h5 class="pt-2"><strong>SPOTS ARE LIMITED</strong> so register now to claim your complimentary Strategy Session with one of our development experts.</h5>                              
+</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
+			
 			<section class="section-2-lp border-top-1px-lp">
 				<div class="container-fluid">
 					<div class="container">

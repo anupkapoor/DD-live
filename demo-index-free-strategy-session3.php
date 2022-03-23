@@ -1,6 +1,10 @@
 <?php include "config.php"; ?>
 	<?php include "header-lp-atlanta.php"; ?>
-		<style>.section-1-lp .container {background-image: none;}</style>
+		<!-- Home -->
+		<style>.section-1-lp .container {background-image: none;}
+		.landing-page-v .list-style-v57 li {padding: 15px 0px 0px 0;background: none;}
+		.section-12-lp.gradient-section-lp p{max-width:none;}
+		</style>
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
 			<section class="section-1-lp  py-5 my-4">
@@ -8,22 +12,61 @@
 					<div class="container">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
-								<p class="font-size-22px"><strong>Are You Frustrated Dealing With Incompetent App Developers OR Just Confused Whom To Hire? <span class="word-break"> If Yes... Then Meet:</span></strong></p>
-								<h1><span>America's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
 								
-								<p class="font-size-22px" >Book your <strong><span class="blue-color-text">Free Strategy Session</strong></span> now to discover how to <strong>transform your idea into a successful app</strong> business using the <strong>exact 6 step-process</strong> that our <strong>start-up founder clients</strong> have used to turn their <strong>idea into a software empire</strong>. </p>
-								
-								<p>We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco, Los Angeles, New York, Chicago</strong> and <strong>Boston</strong>. We look forward to meeting you in person at one of our offices OR over a Zoom Call to turn your app idea into a multi-million dollar business. </p>
+							<h1>Go from <span>Idea to App</span> With a <span>Free Strategy Session</span></h1>
+							
+							<p class="font-size-22px" ><strong>LIMITED SPOTS AVAILABLE NOW</strong>: Discover How to <strong><span class="blue-color-text">Transform Your Vision Into A Successful App</span></strong> Business using the <strong><span class="blue-color-text">
+							Same Proven Blueprint that our Multi-Million Dollar Clients use</span></strong>.</p>
+							
+							
+							<p><strong>Dreaming of launching a successful app?</strong> Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you:</p>
+								<ul class="p-0 list-style-v57">
+										<li>Customize the exact 6 step proven process you must follow to build a profitable app.</li>
+										<li><span class="blue-color-text">Determine the realistic budget for your app and how to save money when you launch it.</span></li>
+										<li>Map out the exact tech stack your developers should use to build your app so you can scale up quickly and easily.</li>
+										<li><span class="blue-color-text">Validate your idea and audience before you invest any money and how to build a hungry crowd during pre-launch.</span></li>
+										<li>Set a realistic time-frame your app development should take so you can plan your marketing strategy and timing for a perfect launch.</li>
+										<li><span class="blue-color-text">Find out how to build an MVP for your app in the next 60 days on a shoestring budget to minimize financial risk.</span></li>
+										<li>Understand the two hidden reasons why founders fail when trying to build an app (and how to avoid them).</li>
+										<li><span class="blue-color-text">Answer all of your questions about the app development process.</span></li>
+									</ul>
+									
+							
 							</div>
-							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-5">
 								<div class="dd-main-ontra-form">								
 								<script src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&uid=p2c21081f181&version=1"></script>
+								<div class="p-3">
+                                 <h5 class="pt-2"><strong>SPOTS ARE LIMITED</strong> so register now to claim your complimentary Strategy Session with one of our development experts.</h5> 
+								 </div>
 								</div>
+								
+								 <div class="trusted-imgs pt-3" style="background-color:#f6f7f9; float:left; padding-left:40px;">
+					<a target="_blank" class=" input-two-col" href="https://www.bbb.org/us/ga/alpharetta/profile/web-design/dedicated-developers-0443-27601452#bbbseal/" title="Dedicated Developers (Ultimate Virtual Employee), Web Design, Alpharetta, GA" style="padding: 0px; margin: 0px;" rel="nofollow"><img src="https://dedicateddevelopers.com/images/bbb-rating.png" alt="BBB Rating: A+" class="responsive-img" width="auto" height="auto"></a>
+					<a class="input-two-col" href="https://www.google.co.in/search?q=Dedicated+Developers&amp;gws_rd=cr&amp;dcr=0&amp;ei=X_ldWoGVFoay0ATq2pPgCQ#lrd=0x88f57573468834e3:0xa167e6dc45807152,1," target="_blank" rel="nofollow"><img src="https://dedicateddevelopers.com/images/google-rating.png" alt="Google 5 Star Customer Rating" class="responsive-img" width="auto" height="auto"></a>
+					<a class="input-two-col" target="_blank" href="https://www.goodfirms.co/companies/view/5296/dedicated-developers/" rel="nofollow"><img src="https://www.goodfirms.co/img/badges/media/white/circle/small/top-app-developers-us.png" alt="goodfirms" width="135px" height="auto"></a>
+					<a class="input-two-col" target="_blank" rel="nofollow" href="https://clutch.co/profile/dedicated-developers"><img src="https://dedicateddevelopers.com/images/we-delever-cluch.png" alt="Client Say We Deliver on Clutch" class="responsive-img" width="auto" height="auto"></a></div>                              
+
 							</div>
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> <section class="section-12-lp gradient-section-lp py-5">
+			<div class="container-fluid">
+				<div class="container">
+					<div class="row pb-0">
+						<div class="col-12 col-sm-12 col-md-12 text-center ">
+							    <h2 class="text-center text-white">We are headquartered in <strong>Atlanta</strong> </h2>
+								<p class="text-white text-center">and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p class="text-white text-center">Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>
+								 
+						</div>
+						 
+					</div>
+					 
+ 				</div>
+			</div>
+		</section>
+		 
 			<section class="section-2-lp border-top-1px-lp">
 				<div class="container-fluid">
 					<div class="container">
@@ -34,7 +77,7 @@
 <p><strong>- Greg Higgins</strong><br /><strong>Vice President, SplashThat.com</strong></p>
 </p></div>
 					</div>
-   
+   <hr />
 					  <div id="clientLogolp" class="carousel slide carousel-fade" data-bs-ride="carousel">
 					  <div class="carousel-inner">
 						<div class="carousel-item active">
