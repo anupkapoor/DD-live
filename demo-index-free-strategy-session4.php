@@ -2,12 +2,12 @@
 	<?php include "header-lp-atlanta-no-index.php"; ?>
 		<!-- Home -->
 		<style>.section-1-lp .container {background-image: none;}
-		.landing-page-v .list-style-v57 li {padding: 15px 0px 0px 0;background: none;}
+ 
 		.section-12-lp.gradient-section-lp p{max-width:none;}
 		</style>
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
-			<section class="section-1-lp  py-5 my-4">
+			<section class="section-1-lp  py-5 pb-3 my-4">
 				<div class="container-fluid">
 					<div class="container">
 						<div class="row ">
@@ -19,7 +19,7 @@
 							Same Proven Blueprint that our Multi-Million Dollar Clients use</span></strong>.</p>
 							
 							
-							<p><strong>Dreaming of launching a successful app?</strong> Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you:</p>
+							<p><strong>Dreaming of launching a successful app?</strong> <u>Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you</u>:</p>
 								<ul class="p-0 list-style-v57">
 										<li>Customize the exact 6 step proven process you must follow to build a profitable app.</li>
 										<li><span class="blue-color-text">Determine the realistic budget for your app and how to save money when you launch it.</span></li>
@@ -30,7 +30,7 @@
 										<li>Understand the two hidden reasons why founders fail when trying to build an app (and how to avoid them).</li>
 										<li><span class="blue-color-text">Answer all of your questions about the app development process.</span></li>
 									</ul>
-									<!-- <p class="py-3">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p>Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>-->
+								<p class="py-3 mb-1">We are headquartered in <strong>Atlanta</strong> and have development teams in <strong>San Francisco</strong>, <strong>Los Angeles</strong>, <strong>New York City</strong>, <strong>Chicago</strong>, and <strong>Boston</strong>.</p><p>Our award-winning local US-based development team looks forward to meeting you in person at one of our offices OR on a Zoom call to help you turn your app idea into a multi-million dollar business. </p>
 							
 							</div>
                             <div class="col-12 col-sm-12 col-md-12 col-lg-5">
@@ -39,9 +39,14 @@
 								</div>
 								<div class="p-3">
                                  <h5 class="pt-2"><strong>SPOTS ARE LIMITED</strong> so register now to claim your complimentary Strategy Session with one of our development experts.</h5>                              
-</div>
+</div><div class="trusted-imgs pt-3" style="background-color:#f6f7f9; float:left; padding-left:40px;">
+					<a target="_blank" class=" input-two-col" href="https://www.bbb.org/us/ga/alpharetta/profile/web-design/dedicated-developers-0443-27601452#bbbseal/" title="Dedicated Developers (Ultimate Virtual Employee), Web Design, Alpharetta, GA" style="padding: 0px; margin: 0px;" rel="nofollow"><img src="https://dedicateddevelopers.com/images/bbb-rating.png" alt="BBB Rating: A+" class="responsive-img" width="auto" height="auto"></a>
+					<a class="input-two-col" href="https://www.google.co.in/search?q=Dedicated+Developers&amp;gws_rd=cr&amp;dcr=0&amp;ei=X_ldWoGVFoay0ATq2pPgCQ#lrd=0x88f57573468834e3:0xa167e6dc45807152,1," target="_blank" rel="nofollow"><img src="https://dedicateddevelopers.com/images/google-rating.png" alt="Google 5 Star Customer Rating" class="responsive-img" width="auto" height="auto"></a>
+					<a class="input-two-col" target="_blank" href="https://www.goodfirms.co/companies/view/5296/dedicated-developers/" rel="nofollow"><img src="https://www.goodfirms.co/img/badges/media/white/circle/small/top-app-developers-us.png" alt="goodfirms" width="135px" height="auto"></a>
+					<a class="input-two-col" target="_blank" rel="nofollow" href="https://clutch.co/profile/dedicated-developers"><img src="https://dedicateddevelopers.com/images/we-delever-cluch.png" alt="Client Say We Deliver on Clutch" class="responsive-img" width="auto" height="auto"></a></div>  
 							</div>
 						</div>
+						 
 					</div>
 				</div>
 			</section>
@@ -219,7 +224,7 @@
 											<div class="col-12 col-sm-12 col-md-6 col-lg-6">
 												<div class="p-3 shadow rounded">
 													<div class="row">
-														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial6.png" alt="Testimonial" /> </div>
+														<div class="col-auto"><img src="<?php echo BASE_URL; ?>/images/testimonial6.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Greg Higgins</strong></p>
 														<!-- 	<p class="m-0 p-0 text-style-1-lp">Atlanta, GA</p> -->

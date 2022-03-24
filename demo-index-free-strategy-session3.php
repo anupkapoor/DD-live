@@ -19,7 +19,7 @@
 							Same Proven Blueprint that our Multi-Million Dollar Clients use</span></strong>.</p>
 							
 							
-							<p><strong>Dreaming of launching a successful app?</strong> Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you:</p>
+							<p><strong>Dreaming of launching a successful app?</strong> <u>Claim one of our limited ‘no strings attached’ strategy calls, and one of our app strategists will help you</u>:</p>
 								<ul class="p-0 list-style-v57">
 										<li>Customize the exact 6 step proven process you must follow to build a profitable app.</li>
 										<li><span class="blue-color-text">Determine the realistic budget for your app and how to save money when you launch it.</span></li>
