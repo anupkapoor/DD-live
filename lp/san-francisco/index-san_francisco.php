@@ -375,53 +375,32 @@
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
-                        	<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/images/vishal-lp.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vishal B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Alpharetta, GA</strong></p>
+                        	<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Soundarya B.</strong>
+									<br />CRM and Automation Expert<br><strong>San Francisco, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/vikas_b.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vikas B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Marietta, GA</strong></p>
+							<div class="col text-center"> <img src="images/rajesh_s.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Rajesh S.</strong>
+									<br />Technical Architect<br><strong>Sunnyvale, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Rajesh K.</strong>
-									<br />Principal Backend Developer<br><strong>San Francisco, GA</strong></p>
+                            <div class="col text-center"> <img src="images/sridhar.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Sridhar D.</strong>
+									<br />Principal Mobile App Developer<br><strong>Palo Alto, CA</strong></p>
 							</div>
                             <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Dominic C.</strong>
-									<br />CRM Engineer<br><strong>San Francisco, GA</strong></p>
+								<p class="text-white"><strong>Megha V.</strong>
+									<br />Senior Backend Developer<br><strong>Fairfax, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Karen K.</strong>
-									<br />Senior Software Developer<br><strong>San Francisco, GA</strong></p>
+							<div class="col text-center"> <img src="images/veeresha.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Veeresha H.</strong>
+									<br />Senior Software Developer<br><strong>Lafayetta, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Manoj K.</strong>
-									<br />Principal Developer<br><strong>Marietta, GA</strong></p>
+                            <div class="col text-center"> <img src="images/jeevan.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Jeevan V.</strong>
+									<br />NodeJs Technical Lead<br><strong>Oakland, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/thora_toft.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Thora T.</strong>
-									<br />Senior UI/UX Designer <br><strong>Roswell, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/varinder-pal.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Varinder P.</strong>
-									<br />Senior Web Developer<br><strong>Alpharetta, GA</strong></p>
-							</div>
-                            <div class="col text-center"> <img src="images/harsimran-singh.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Harsimran S.</strong>
-									<br />Senior Software Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/sharanjeet.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Sharanjit S.</strong>
-									<br />Senior QA Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							
-							
-							
-							
-							
-							
-							
+											
+														
 						</div>
 						<!-- <div class="row">
 							<div class="col text-center pt-3 pb-0"><a href="#" class="outline-btn-lp">View All</a></div>

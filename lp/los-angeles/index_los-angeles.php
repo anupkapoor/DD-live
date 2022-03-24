@@ -1,16 +1,16 @@
 <?php include "../../config.php"; ?>
-	<?php include "../../header-lp-san-francisco.php"; ?>
+	<?php include "../../header-lp-los-angeles.php"; ?>
 		<!-- Home -->
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
 			<section class="section-1-lp  py-5 my-4">
 				<div class="container-fluid">
-					<div class="container">
+					<div class="container los-angles">
 						<div class="row ">
 							<div class="col-12 col-sm-12 col-md-12 col-lg-7">
 								<p><strong>Are You Frustrated Dealing With Offshore and/or Expensive Incompetent App Developers? <span class="word-break">If Yes... Then Meet:</span></strong></p>
-								<h1><span>San Francisco's</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
-								<p>Our local development team looks forward to meeting you in person at our office in San Francisco to turn your app idea into a multi-million dollar business.</p>
+								<h1><span>Los Angeles</span> Top Web & <span>Mobile App</span> Development <span>Company</span></h1>
+								<p>Our local development team looks forward to meeting you in person at our office in Los Angeles to turn your app idea into a multi-million dollar business.</p>
 							</div>
 							<div class="col-12 col-sm-12 col-md-12 col-lg-5">
 								<div class="dd-main-ontra-form">								
@@ -28,7 +28,7 @@
   <div id="clientLogolp" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-     <p class="text-center"><span style="color: #1e6ebe; font-size:30px">Our Valued San Francisco Based Clients</span></p>
+     <p class="text-center"><span style="color: #1e6ebe; font-size:30px">Our Valued Los Angeles Based Clients</span></p>
 	 <img src="<?php echo BASE_URL ?>/images/client-logos-2-lp.png" alt="Client Logos" class="img-fluid" />
 	 <p class="text-center mt-5">Our Valued Clients Globally</p>
        <img src="<?php echo BASE_URL ?>/images/client-logos-1-lp.png" alt="Client Logos" class="img-fluid" />
@@ -47,25 +47,17 @@
 					<div class="container">
 						<div class="row">
 							<div class="col">
-								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In San Francisco</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
+								<h2 class="text-center">What Our <span style="color: #1e6ebe;">Clients Based In Los Angeles</span> Have To Say About Working With <span style="color: #1e6ebe;">Dedicated Developers Local Development Team</span></h2> </div>
 						</div>
 						<div class="row pt-5 py-4">
-							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>Demand Products, Alpharetta, GA</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo2" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2.png" alt="Play Testimonial" />
-				  </a><p class="text-center mt-2 mb-0"><strong>Robert Hagerman Consulting, Cumming, GA</strong></p> </div>
+							<div class=" col-md-6 bot-margin-add"> <a id="showVideo3r" class="video-testimonial-btn" title="What Our Clients Say"> 
+					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-3-r.jpg" alt="Play Testimonial" />
+				  </a> <p class="text-center mt-2 mb-0"><strong>Eben Pagan, Hot Topic Media, GA</strong></p></div>
+							<div class=" col-md-6"> <a id="showVideo2r" class="video-testimonial-btn" title="What Our Clients Say"> 
+					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-2-r.jpg" alt="Play Testimonial" />
+				  </a><p class="text-center mt-2 mb-0"><strong>Jason Womack, Get Momentum Coaching, GA</strong></p> </div>
 						</div>
-						<div class="row pb-4">
-							
-				  <div class=" col-md-6 bot-margin-add"> <a id="showVideo1" class="video-testimonial-btn" title="What Our Clients Say"> 
-					 <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-1.png" alt="Play Testimonial" />
-					</a> <p class="text-center mt-2 mb-0"><strong>Know Longer Single, Buckhead, GA</strong></p></div>
-							<div class=" col-md-6"> <a id="showVideo4" class="video-testimonial-btn" title="What Our Clients Say"> 
-					  <img src="<?php echo BASE_URL; ?>/images/testimonial-video-lp-4.png" alt="Play Testimonial" />
-				  </a> <p class="text-center mt-2 mb-0"><strong>ROC Cabinetry, Norcross, GA</strong></p></div>
-						</div>
+						
 					</div>
 					<div class="video-testimonial-root">
 						<div class="video-front" id="opened-video"></div><a id="close-video"> X </a></div>
@@ -76,7 +68,7 @@
 					<div class="container px-4">
 						<div class="row pb-4">
 							<div class="col">
-								<h2 class="text-center">We Love Helping Our San Francisco Neighbors But... <br /><span style="color: #1e6ebe;">We’ve Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
+								<h2 class="text-center">We Love Helping Our Los Angeles Neighbors But... <br /><span style="color: #1e6ebe;">We’ve Also Helped Companies In More Than 25 Countries Launch The Web & Mobile Apps They Needed To Succeed</span></h2>
 							</div>
 						</div>
 						<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -90,7 +82,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial1.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Neil Venketramen</strong></p>
-															<!-- <p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p>-->
+															<!-- <p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p>-->
 															<p class="m-0 p-0 text-style-2-lp">Co-Founder, Lean Buddy</p>
 														</div>
 													</div>
@@ -107,7 +99,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial2.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jane Nguyen</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO & Founder, Complete Business Accounting</p>
 														</div>
 													</div>
@@ -130,7 +122,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial3.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Nitin Chhoda</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO & Founder, Total Activation.</p>
 														</div>
 													</div>
@@ -147,7 +139,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial4.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jared Prazen</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Director of Business Development, Traffic Motion</p>
 														</div>
 													</div>
@@ -170,7 +162,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial5.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Joui Turandot</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">President, JTM Consulting.</p>
 														</div>
 													</div>
@@ -187,7 +179,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial6.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Greg Higgins</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Director of Strategic Partnerships, Splash</p>
 														</div>
 													</div>
@@ -210,7 +202,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial7.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Chelsea O’Brien</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">President, Tech Diva Media</p>
 														</div>
 													</div>
@@ -227,7 +219,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial8.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Jason Womack</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Get Momentum Coaching</p>
 														</div>
 													</div>
@@ -250,7 +242,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial9.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Eben Pagan</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Hot Topic Media</p>
 														</div>
 													</div>
@@ -267,7 +259,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial10.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Niall Strickland</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">Growth Oracle</p>
 														</div>
 													</div>
@@ -290,7 +282,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial11.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Dr. Bradley Nelson</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO and Founder, Healers Library</p>
 														</div>
 													</div>
@@ -307,7 +299,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial12.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Bill Parravano</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CEO and Founder, Healing Concepts, L.P.</p>
 														</div>
 													</div>
@@ -330,7 +322,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial13.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>Mike Lambert</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">CTO, Virtual Project Manager, Inc.</p>
 														</div>
 													</div>
@@ -347,7 +339,7 @@
 														<div class="col-auto"> <img src="<?php echo BASE_URL; ?>/images/testimonial14.png" alt="Testimonial" /> </div>
 														<div class="col pt-3 line-height-1">
 															<p class="m-0 p-0"><strong>J.Will</strong></p>
-														<!-- 	<p class="m-0 p-0 text-style-1-lp">San Francisco, GA</p> -->
+														<!-- 	<p class="m-0 p-0 text-style-1-lp">Los Angeles, GA</p> -->
 															<p class="m-0 p-0 text-style-2-lp">President & Co-Founder, Advisor Internet Marketing</p>
 														</div>
 													</div>
@@ -368,52 +360,37 @@
 					</div>
 				</div>
 			</section>
-			<section class="section-5-lp  py-5">
+			<section class="section-5-lp  py-5 los-angles">
 				<div class="container-fluid pb-1">
 					<div class="container">
-						<h2 class="pb-2">Your San Francisco-Based Development Team <br />with a Worldwide Reach</h2>
+						<h2 class="pb-2">Your Los Angeles-Based Development Team <br />with a Worldwide Reach</h2>
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
-                        	<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/images/vishal-lp.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vishal B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Alpharetta, GA</strong></p>
+                        	
+							<div class="col text-center"> <img src="images/harish.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Harish V.</strong>
+									<br />Principal UI/UX Designer<br><strong>South Pasadena, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/vikas_b.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vikas B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Marietta, GA</strong></p>
+                            <div class="col text-center"> <img src="images/shiva.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Shiva S.</strong>
+									<br />Principal Mobile Application Developer<br><strong>San Marino, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Rajesh K.</strong>
-									<br />Principal Backend Developer<br><strong>San Francisco, GA</strong></p>
+                            <div class="col text-center"> <img src="images/samuel.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Samuel S.</strong>
+									<br />Senior Backend Developer<br><strong>Culver City, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Dominic C.</strong>
-									<br />CRM Engineer<br><strong>San Francisco, GA</strong></p>
+							<div class="col text-center"> <img src="images/indhu.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Indhu K.</strong>
+									<br />Software Developer<br><strong>Glendale, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Karen K.</strong>
-									<br />Senior Software Developer<br><strong>San Francisco, GA</strong></p>
+                            <div class="col text-center"> <img src="images/nikhil.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Nikhil K.</strong>
+									<br />Senior Software Developer<br><strong>Los Angeles, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Manoj K.</strong>
-									<br />Principal Developer<br><strong>Marietta, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/thora_toft.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Thora T.</strong>
-									<br />Senior UI/UX Designer <br><strong>Roswell, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/varinder-pal.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Varinder P.</strong>
-									<br />Senior Web Developer<br><strong>Alpharetta, GA</strong></p>
-							</div>
-                            <div class="col text-center"> <img src="images/harsimran-singh.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Harsimran S.</strong>
-									<br />Senior Software Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/sharanjeet.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Sharanjit S.</strong>
-									<br />Senior QA Developer<br><strong>Cumming, GA</strong></p>
+							<div class="col text-center"> <img src="images/shrey.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Shrey P.</strong>
+									<br />Senior Software Developer<br><strong>Van Nuys, CA</strong></p>
 							</div>
 							
 							
@@ -490,7 +467,7 @@
 									<p><strong>Doctors Beyond</strong></p>
 									<p>A telemedicine app to allow patients unlimited access to Doctors, anytime and anywhere.</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">San Francisco, GA</p>
+									<p class="map-location">Los Angeles, GA</p>
 								</div>
 							</div>
 								<img src="images/doctorsbeyond_thumb.jpg" alt="" class="responsive-img" /> 
@@ -507,7 +484,7 @@
 									<p><strong>Numinav</strong></p>
 									<p>Next level ride sharing app</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">San Francisco, GA</p>
+									<p class="map-location">Los Angeles, GA</p>
 								</div>
 							</div>
 								<img src="images/portfolio-listing-13.jpg" alt="" class="responsive-img" /> 
@@ -524,7 +501,7 @@
 									<p><strong>KLS Dating App</strong></p>
 									<p>KLS helps people become the best versions of themselves</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">San Francisco, GA</p>
+									<p class="map-location">Los Angeles, GA</p>
 								</div>
 							</div>
 								<img src="images/portfolio-listing-11.jpg" alt="" class="responsive-img" /> 
@@ -575,7 +552,7 @@
 									<p><strong>Corning® Gorilla® Glass</strong></p>
 									<p>Notification app for large conference</p>
 									<img src="images/map-location.png" alt=""  />
-									<p class="map-location">San Francisco, NY</p>
+									<p class="map-location">Los Angeles, NY</p>
 								</div>
 							</div>
 								<img src="images/portfolio-listing-14.jpg" alt="" class="responsive-img" /> 
@@ -617,6 +594,9 @@
 									</div>
 							</a>
 						</li>
+						
+						
+						
 						<li>
 						<a href="<?php echo PORTFOLIO_URL ?>/fat-burning-man/" target="_blank">
 							<p class="portfolio-title-black">Fat Burning Man</p>
@@ -632,6 +612,9 @@
 							<img src="images/portfolio-listing-4.jpg" alt="" class="responsive-img">
 						</a>
 					</li>
+						
+						
+						
 					</ul>
 					</div>
 			</section> 
@@ -643,15 +626,16 @@
 							<h2 class="text-center">How We Work</h2>
 						</div>
 						<div class="col-md-12 col-lg-6">
-							<p>With Dedicated Developers you get the best of both worlds – San Francisco-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced San Francisco team will keep you well informed as we turn your app idea into a customer getting profit machine. <br></p>
+							<p>With Dedicated Developers you get the best of both worlds – Los Angeles-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced Los Angeles team will keep you well informed as we turn your app idea into a customer getting profit machine. <br></p>
 						</div>
 					</div>
 				</div>
 			</section>
 			<section class="section-9-lp py-0 relative-negative-170">
 				<div class="container mb-0 pb-0">
-									<div class="row pb-3">
-									<div class="col-12 pb-3"> <p><strong style="font-size: 18px; display:block; text-align:center;">With Dedicated Developers you enjoy:</strong></p></div>
+					<div class="row pb-3">
+					   <div class="col-12 pb-3"> <p><strong style="font-size: 18px; display:block; text-align:center;">With Dedicated Developers you enjoy:</strong></p></div>
+					    
 						<div class="col-12 col-sm-6 col-md-3 section-9-box">
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
@@ -672,7 +656,7 @@
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
 									<ul>
-									   <li>San Francisco Based Delivery Team</li>
+									   <li>Los Angeles Based Delivery Team</li>
 										<li>Up-to-date on latest technology</li>
 										<li>Suggest app improvements</li>
 										<li>Deliver highest quality in shortest time</li>
@@ -726,7 +710,7 @@
 					<div class="container">
 						<div class="row py-3">
 							<div class="col-md-12">
-									<h2 class="text-center">Mobile App Development Services <br />In San Francisco</h2>
+									<h2 class="text-center">Mobile App Development Services <br />In Los Angeles</h2>
 							</div>
 						</div>
 						<div class="row pb-3">
@@ -815,7 +799,7 @@
 							<div class="col-md-12 m-auto text-center pt-0">
 								<h2 class="text-center pt-3">App Development Expertise</h2>
 <!--								<p class="pt-3">Our expert developers are up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p> -->
-                                    <p class="pt-3">One of San Francisco’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
+                                    <p class="pt-3">One of Los Angeles’s Most Awarded Development Firm is up-to-date on all the very latest app languages and innovations. We are able to fully utilize all of the following:</p>
 							</div>
 						</div>
 					</div>
@@ -1327,11 +1311,11 @@
 										<img src="images/map-section-icon1.png" alt="DD address" />
 									</div>
 									<div class="col-sm-8  col-md-9 px-4 pt-4">
-										<p><strong>San Francisco</strong><br /> 
+										<p><strong>Los Angeles</strong><br /> 
 										Dedicated Developers<br />
-										1390 Market Street, Suite 200,<br />
-										San Francisco, CA 94102<br />
-										Phone: (415) 992-7442</p>
+										10880 Wilshire Blvd #1101,<br />
+										Los Angeles, CA 90024<br />
+										Phone: (310) 412-0043</p>
 									</div>
 								</div>
 								<div class="row address-block-lp  p-4">
@@ -1342,8 +1326,8 @@
 										<p><strong>Hours of Operation</strong><br />
 										Monday thru Friday<br />
 										08:00 AM - 06:00 PM<br />
-										Phone: (415) 992-7442<br />
-										Email: Sanfrancisco@DedicatedDevelopers.com</p>
+										Phone: (310) 412-0043<br />
+										Email: losangeles@DedicatedDevelopers.com</p>
 									</div>
 								</div>
 							</div>
