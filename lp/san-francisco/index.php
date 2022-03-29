@@ -1,5 +1,5 @@
 <?php include "../../config.php"; ?>
-	<?php include "../../header-lp.php"; ?>
+	<?php include "../../header-lp-san-francisco.php"; ?>
 		<!-- Home -->
 		<div class="landing-page-v">
 			<!-- Client Logos Section -->
@@ -375,53 +375,32 @@
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
-                        	<div class="col text-center"> <img src="<?php echo BASE_URL; ?>/images/vishal-lp.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vishal B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Alpharetta, GA</strong></p>
+                        	<div class="col text-center"> <img src="images/soundarya_b.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Soundarya B.</strong>
+									<br />CRM and Automation Expert<br><strong>San Francisco, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/vikas_b.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Vikas B.</strong>
-									<br />Principal Mobile and Web App Developer<br><strong>Marietta, GA</strong></p>
+							<div class="col text-center"> <img src="images/rajesh_s.jpg" class="rounded-circle" />
+								<p class="text-white"><strong>Rajesh S.</strong>
+									<br />Technical Architect<br><strong>Sunnyvale, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/rajesh.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Rajesh K.</strong>
-									<br />Principal Backend Developer<br><strong>San Francisco, GA</strong></p>
+                            <div class="col text-center"> <img src="images/sridhar.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Sridhar D.</strong>
+									<br />Principal Mobile App Developer<br><strong>Palo Alto, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Dominic C.</strong>
-									<br />CRM Engineer<br><strong>San Francisco, GA</strong></p>
+                            <div class="col text-center"> <img src="images/megha_v.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Megha V.</strong>
+									<br />Senior Backend Developer<br><strong>Fairfax, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Karen K.</strong>
-									<br />Senior Software Developer<br><strong>San Francisco, GA</strong></p>
+							<div class="col text-center"> <img src="images/veeresha.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Veeresha H.</strong>
+									<br />Senior Software Developer<br><strong>Lafayetta, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/manoj_k.jpg" class="rounded-circle"  />
-								<p class="text-white"><strong>Manoj K.</strong>
-									<br />Principal Developer<br><strong>Marietta, GA</strong></p>
+                            <div class="col text-center"> <img src="images/jeevan.jpg" class="rounded-circle"  />
+								<p class="text-white"><strong>Jeevan V.</strong>
+									<br />NodeJs Technical Lead<br><strong>Oakland, CA</strong></p>
 							</div>
-							<div class="col text-center"> <img src="images/thora_toft.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Thora T.</strong>
-									<br />Senior UI/UX Designer <br><strong>Roswell, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/varinder-pal.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Varinder P.</strong>
-									<br />Senior Web Developer<br><strong>Alpharetta, GA</strong></p>
-							</div>
-                            <div class="col text-center"> <img src="images/harsimran-singh.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Harsimran S.</strong>
-									<br />Senior Software Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							<div class="col text-center"> <img src="images/sharanjeet.jpg" class="rounded-circle" />
-								<p class="text-white"><strong>Sharanjit S.</strong>
-									<br />Senior QA Developer<br><strong>Cumming, GA</strong></p>
-							</div>
-							
-							
-							
-							
-							
-							
-							
+											
+														
 						</div>
 						<!-- <div class="row">
 							<div class="col text-center pt-3 pb-0"><a href="#" class="outline-btn-lp">View All</a></div>
@@ -617,6 +596,21 @@
 									</div>
 							</a>
 						</li>
+						<li>
+						<a href="<?php echo PORTFOLIO_URL ?>/fat-burning-man/" target="_blank">
+							<p class="portfolio-title-black">Fat Burning Man</p>
+							<div class="portfolio-hover">
+								<div class="portfolio-hover-content">
+									<p><strong>Fat Burning Man</strong></p>
+									<p>Burn Belly Fat &amp; Feel Great</p>
+									
+									<img src="images/map-location.png" alt="">
+									<p class="map-location">Dallas, TX</p>
+								</div>
+							</div>
+							<img src="images/portfolio-listing-4.jpg" alt="" class="responsive-img">
+						</a>
+					</li>
 					</ul>
 					</div>
 			</section> 
@@ -628,14 +622,15 @@
 							<h2 class="text-center">How We Work</h2>
 						</div>
 						<div class="col-md-12 col-lg-6">
-							<p>With Dedicated Developers you get the best of both worlds – San Francisco-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced San Francisco team will keep you well informed as we turn your app idea into a customer getting profit machine. <br><strong style="font-size: 18px;">With Dedicated Developers you enjoy:</strong></p>
+							<p>With Dedicated Developers you get the best of both worlds – San Francisco-based UI/UX architects as well as experienced app development team - all supervised by the leadership team which understands both the coding world as well as launching successful online businesses. We’ll walk you through our unique 'Idea to App Blueprint' process and then our experienced San Francisco team will keep you well informed as we turn your app idea into a customer getting profit machine. <br></p>
 						</div>
 					</div>
 				</div>
 			</section>
 			<section class="section-9-lp py-0 relative-negative-170">
 				<div class="container mb-0 pb-0">
-					<div class="row pb-3">
+									<div class="row pb-3">
+									<div class="col-12 pb-3"> <p><strong style="font-size: 18px; display:block; text-align:center;">With Dedicated Developers you enjoy:</strong></p></div>
 						<div class="col-12 col-sm-6 col-md-3 section-9-box">
 							<div class="col-md-12 section-9-box-inner">
 								<div class="process-info-hover">
@@ -1313,9 +1308,9 @@
 									<div class="col-sm-8  col-md-9 px-4 pt-4">
 										<p><strong>San Francisco</strong><br /> 
 										Dedicated Developers<br />
-										2300 Lakeview Parkway, Suite 700,<br />
-										Alpharetta GA 30009<br />
-										Phone: (770) 274-4482</p>
+										1390 Market Street, Suite 200,<br />
+										San Francisco, CA 94102<br />
+										Phone: (415) 992-7442</p>
 									</div>
 								</div>
 								<div class="row address-block-lp  p-4">
@@ -1326,8 +1321,8 @@
 										<p><strong>Hours of Operation</strong><br />
 										Monday thru Friday<br />
 										08:00 AM - 06:00 PM<br />
-										Phone: (770) 274-4482<br />
-										Email: San Francisco@DedicatedDevelopers.com</p>
+										Phone: (415) 992-7442<br />
+										Email: Sanfrancisco@DedicatedDevelopers.com</p>
 									</div>
 								</div>
 							</div>

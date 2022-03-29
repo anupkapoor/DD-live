@@ -375,7 +375,7 @@
                         <p class="pb-5 text-center font-20">We Have the Talent & Resources to Turn Your App into Reality!</p>
 						<div class="row">
                         
-                        	<div class="col text-center"> <img src="images/karen-k.jpg" class="rounded-circle" />
+                        	<div class="col text-center"> <img src="images/soundarya_b.jpg" class="rounded-circle" />
 								<p class="text-white"><strong>Soundarya B.</strong>
 									<br />CRM and Automation Expert<br><strong>San Francisco, CA</strong></p>
 							</div>
@@ -387,7 +387,7 @@
 								<p class="text-white"><strong>Sridhar D.</strong>
 									<br />Principal Mobile App Developer<br><strong>Palo Alto, CA</strong></p>
 							</div>
-                            <div class="col text-center"> <img src="images/domnic.jpg" class="rounded-circle"  />
+                            <div class="col text-center"> <img src="images/megha_v.jpg" class="rounded-circle"  />
 								<p class="text-white"><strong>Megha V.</strong>
 									<br />Senior Backend Developer<br><strong>Fairfax, CA</strong></p>
 							</div>
